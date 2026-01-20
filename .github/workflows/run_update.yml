@@ -1,0 +1,34 @@
+name: MLB Stock Update
+
+on:
+  workflow_dispatch:  # 버튼 눌러서 수동 실행 가능하게 함
+  schedule:
+    - cron: '0 0 * * *' # 매일 한국 시간 오전 9시에 자동 실행
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 체크아웃 코드
+        uses: actions/checkout@v3
+
+      - name: 파이썬 설정
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 라이브러리 설치
+        run: |
+          pip install -r requirements.txt
+
+      - name: 데이터 업데이트 코드 실행
+        run: |
+          python update_stock.py
+
+      - name: 업데이트된 파일 저장(Commit)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update stock data" || echo "No changes to commit"
+          git push
