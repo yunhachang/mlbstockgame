@@ -1,11 +1,10 @@
 import requests
 import pandas as pd
 
-# 1. 상장 선수 리스트 (오타니, 김하성, 스프링어 추가)
 players = {
     "660271": "Ohtani",
     "673490": "Kim",
-    "543807": "Springer" # 24시즌 부진했던 샘플 선수
+    "543807": "Springer"
 }
 
 all_data = []
@@ -16,8 +15,6 @@ for p_id, p_name in players.items():
         response = requests.get(url).json()
         if 'stats' in response and response['stats']:
             splits = response['stats'][0]['splits']
-            
-            # 날짜순 정렬 (과거 -> 최신)
             splits.sort(key=lambda x: x['date']) 
             
             t_h, t_hr, t_rbi, t_ab = 0, 0, 0, 0
@@ -26,31 +23,32 @@ for p_id, p_name in players.items():
                 date = game['date']
                 s = game['stat']
                 
-                # 누적 데이터 계산
                 t_h += s.get('hits', 0)
                 t_hr += s.get('homeRuns', 0)
                 t_rbi += s.get('rbi', 0)
                 t_ab += s.get('atBats', 0)
                 
-                # 실시간 누적 타율
                 c_avg = t_h / t_ab if t_ab > 0 else 0
                 
-                # --- [기획 밸런싱: '냉혹한 시장' 로직] ---
+                # --- [기획 밸런싱: '지옥에서 온 페널티' 로직] ---
                 
-                # 1. 덩치 (성적의 합)
-                market_cap = (t_h * 100) + (t_hr * 800) + (t_rbi * 200)
+                # 1. 시가총액 (기본 체력)
+                market_cap = (t_h * 50) + (t_hr * 500) + (t_rbi * 150)
                 
-                # 2. 현재 폼 (타율 기반 멀티플라이어)
-                # 기준점 0.270으로 설정. 이보다 낮으면 가차없이 깎임
-                form_multiplier = c_avg / 0.270 
+                # 2. 타율 페널티 (지수 적용)
+                # 기준 타율을 0.260으로 설정. 
+                # (c_avg / 0.260)에 '3제곱'을 합니다. 
+                # 이렇게 하면 0.260보다 조금만 낮아도 주가가 기하급수적으로 깎입니다!
+                # 예: 타율 0.200이면 (0.200/0.260)^3 = 약 0.45 (누적치의 절반 이상이 날아감)
+                form_multiplier = pow(c_avg / 0.260, 3) 
                 
-                # 3. 최종 주가: (누적 가치 * 타율 비중) + 기본 상장가
+                # 3. 최종 주가: (기본 체력 * 무서운 멀티플라이어) + 기본 상장가
                 price = int((market_cap * form_multiplier) + 1000)
                 
                 all_data.append({
                     "Date": date,
                     "Player": p_name,
-                    "Price": max(price, 500), # 하한선은 500으로 방어
+                    "Price": max(price, 100), # 하한선을 100으로 낮춰 공포 극대화
                     "AVG": round(c_avg, 3)
                 })
                 
@@ -58,7 +56,6 @@ for p_id, p_name in players.items():
         print(f"Error processing {p_name}: {e}")
 
 if all_data:
-    df = pd.DataFrame(all_data)
-    df = df.sort_values(by=['Player', 'Date'])
+    df = pd.DataFrame(all_data).sort_values(by=['Player', 'Date'])
     df.to_csv('mlb_stock_history.csv', index=False)
-    print("3인 선수(상승/조정/하락) 데이터 업데이트 완료!")
+    print("지수형 하락 로직 적용 완료! 이제 스프링어는 고전할 겁니다.")
