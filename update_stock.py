@@ -11,45 +11,50 @@ for p_id, p_name in players.items():
         if 'stats' in response and response['stats']:
             splits = response['stats'][0]['splits']
             
-            # 1. 날짜 순서 강제 정렬 (이게 안 되면 계속 거꾸로 나옵니다)
+            # 1. 날짜순 정렬 (과거 -> 최신)
             splits.sort(key=lambda x: x['date']) 
             
-            # 누적 변수 초기화
-            total_h, total_hr, total_rbi, total_ab = 0, 0, 0, 0
+            total_h, total_hr, total_rbi = 0, 0, 0
+            prev_price = 1000  # 상장가 1000원 시작
             
             for game in splits:
                 date = game['date']
                 s = game['stat']
                 
-                # 2. 오늘 성적을 누적합에 더함
-                total_h += s.get('hits', 0)
-                total_hr += s.get('homeRuns', 0)
-                total_rbi += s.get('rbi', 0)
-                total_ab += s.get('atBats', 0)
+                # 2. 성적 누적 (이 수치는 절대 줄어들지 않음)
+                h = s.get('hits', 0)
+                hr = s.get('homeRuns', 0)
+                rbi = s.get('rbi', 0)
                 
-                # 직접 계산한 타율
-                current_avg = total_h / total_ab if total_ab > 0 else 0
+                total_h += h
+                total_hr += hr
+                total_rbi += rbi
                 
-                # 3. [기획 핵심] 우상향 주가 공식
-                # 누적치가 늘어나면 주가는 무조건 오릅니다.
-                # 여기에 타율 보너스를 '곱하기'가 아닌 '더하기'로 붙여서 폭락을 방지합니다.
-                base_stock = (total_h * 50) + (total_hr * 500) + (total_rbi * 150)
-                performance_bonus = current_avg * 10000  # 타율 0.300이면 +3000원
+                # 3. 주가 산정: [오늘의 활약 점수]
+                # 안타치면 오르고, 홈런치면 폭등합니다. 못하면 0점이지만 '감점'은 없습니다.
+                daily_score = (h * 50) + (hr * 300) + (rbi * 100)
                 
-                # 최종 주가 (하한선 1000원 보장)
-                price = int(1000 + base_stock + performance_bonus)
+                # 4. 핵심 로직: [어제 주가 + 오늘 점수]
+                # 이 방식은 수학적으로 절대 우하향할 수 없습니다. (전고점 돌파형)
+                current_price = prev_price + daily_score
+                
+                # 보너스: 안타 못 친 날은 주가가 유지되거나 아주 미세하게(+1)만 오름
+                if daily_score == 0:
+                    current_price = prev_price + 1 
                 
                 all_data.append({
                     "Date": date,
                     "Player": p_name,
-                    "Price": price
+                    "Price": current_price
                 })
+                
+                # 내일 계산을 위해 오늘 주가를 저장
+                prev_price = current_price
+                
     except Exception as e:
         print(f"Error: {e}")
 
 if all_data:
     df = pd.DataFrame(all_data)
-    # 마지막 저장 전 다시 한번 선수별, 날짜별 정렬 확인
-    df = df.sort_values(by=['Player', 'Date'])
     df.to_csv('mlb_stock_history.csv', index=False)
-    print("완벽한 우상향 로직으로 교체 완료!")
+    print("경제 부흥 로직 적용 완료! 이제 하락은 없습니다.")
