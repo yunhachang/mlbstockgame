@@ -15,41 +15,46 @@ for p_id, p_name in players.items():
         response = requests.get(url).json()
         if 'stats' in response and response['stats']:
             splits = response['stats'][0]['splits']
-            
-            # 1. 과거 데이터부터 순차 처리 (반드시 정렬)
             splits.sort(key=lambda x: x['date']) 
+            
+            # 상장가 10,000원에서 시작
+            current_price = 10000
             
             for game in splits:
                 date = game['date']
                 s = game['stat']
                 
-                # API가 제공하는 '해당 경기 시점'의 시즌 누적 데이터
-                # (우리가 직접 더하는 게 아니라 MLB 공식 기록을 그대로 사용)
-                season_h = s.get('hits', 0)
-                season_hr = s.get('homeRuns', 0)
-                season_rbi = s.get('rbi', 0)
-                # 타율이 문자열(".250")로 올 수 있어 변환 처리
-                try:
-                    season_avg = float(s.get('avg', 0))
-                except:
-                    season_avg = 0
+                h = s.get('hits', 0)
+                hr = s.get('homeRuns', 0)
+                rbi = s.get('rbi', 0)
+                avg = float(s.get('avg', 0)) # 시즌 타율
                 
-                # --- [기획 밸런싱: '냉혹한 성적표' 로직] ---
-                # 누적 안타/홈런이 아무리 많아도 타율이 낮으면 점수가 '폭락'하게 설계
-                # 타율 0.260 미만은 '낙제점'으로 취급하여 가치를 깎습니다.
+                # --- [기획 밸런싱: '기대치 허들' 로직] ---
                 
-                base_score = (season_h * 10) + (season_hr * 200) + (season_rbi * 30)
+                # 1. 일일 기본 하락 (기대치 유지 비용)
+                # 매 경기마다 주가는 기본적으로 -300원씩 하락합니다. (공짜 상향 방지)
+                change = -300
                 
-                # 타율 보정 (지수함수 사용: 타율이 조금만 낮아도 점수가 처참해짐)
-                # 0.300 타자는 1.5배 보너스, 0.200 타자는 0.3배로 토막
-                performance_ratio = pow(season_avg / 0.260, 4) 
+                # 2. 성과 보너스
+                # 안타를 치면 하락분을 상쇄하고 주가를 올립니다.
+                # 홈런은 강력한 '상한가' 요인입니다.
+                change += (h * 200) + (hr * 800) + (rbi * 100)
                 
-                price = int((base_score * performance_ratio) + 1000)
+                # 3. 타율 페널티 (냉혹한 잣대)
+                # 시즌 타율이 0.250 미만인 선수는 매 경기 추가로 -200원 감점
+                if avg < 0.250:
+                    change -= 200
+                
+                # 4. 주가 갱신 (어제 가격 + 오늘의 변동분)
+                current_price += change
+                
+                # 5. 하한선 방어
+                current_price = max(current_price, 500)
                 
                 all_data.append({
                     "Date": date,
                     "Player": p_name,
-                    "Price": max(price, 500)
+                    "Price": int(current_price)
                 })
                 
     except Exception as e:
@@ -58,4 +63,4 @@ for p_id, p_name in players.items():
 if all_data:
     df = pd.DataFrame(all_data).sort_values(by=['Player', 'Date'])
     df.to_csv('mlb_stock_history.csv', index=False)
-    print("절대평가 로직 적용 완료! 이제 Springer는 살아남지 못합니다.")
+    print("허들 누적 로직 적용 완료!")
