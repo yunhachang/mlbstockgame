@@ -15,49 +15,47 @@ for p_id, p_name in players.items():
         response = requests.get(url).json()
         if 'stats' in response and response['stats']:
             splits = response['stats'][0]['splits']
-            splits.sort(key=lambda x: x['date']) 
             
-            # 주가 초기값 5,000원에서 시작 (변동성을 보여주기 위함)
-            current_price = 5000
-            t_h, t_ab = 0, 0
+            # 1. 과거 데이터부터 순차 처리 (반드시 정렬)
+            splits.sort(key=lambda x: x['date']) 
             
             for game in splits:
                 date = game['date']
                 s = game['stat']
                 
-                hits = s.get('hits', 0)
-                hr = s.get('homeRuns', 0)
-                rbi = s.get('rbi', 0)
+                # API가 제공하는 '해당 경기 시점'의 시즌 누적 데이터
+                # (우리가 직접 더하는 게 아니라 MLB 공식 기록을 그대로 사용)
+                season_h = s.get('hits', 0)
+                season_hr = s.get('homeRuns', 0)
+                season_rbi = s.get('rbi', 0)
+                # 타율이 문자열(".250")로 올 수 있어 변환 처리
+                try:
+                    season_avg = float(s.get('avg', 0))
+                except:
+                    season_avg = 0
                 
-                # --- [기획 밸런싱: '냉혹한 실적주의' 로직] ---
+                # --- [기획 밸런싱: '냉혹한 성적표' 로직] ---
+                # 누적 안타/홈런이 아무리 많아도 타율이 낮으면 점수가 '폭락'하게 설계
+                # 타율 0.260 미만은 '낙제점'으로 취급하여 가치를 깎습니다.
                 
-                # 1. 일일 유지비 (Time Decay)
-                # 아무것도 안 해도 매일 주가가 200원씩 하락합니다. (기대치 반영)
-                current_price -= 200
+                base_score = (season_h * 10) + (season_hr * 200) + (season_rbi * 30)
                 
-                # 2. 실적 보상
-                # 안타 하나당 150원, 홈런은 1000원, 타점은 300원 추가
-                daily_gain = (hits * 150) + (hr * 1000) + (rbi * 300)
-                current_price += daily_gain
+                # 타율 보정 (지수함수 사용: 타율이 조금만 낮아도 점수가 처참해짐)
+                # 0.300 타자는 1.5배 보너스, 0.200 타자는 0.3배로 토막
+                performance_ratio = pow(season_avg / 0.260, 4) 
                 
-                # 3. 타율 페널티 (현재 폼)
-                # 그날 안타를 못 치면(0안타) 추가로 300원을 더 깎습니다.
-                if hits == 0:
-                    current_price -= 300
-                
-                # 4. 상한/하한선 설정
-                current_price = max(current_price, 500)  # 최소 500원
+                price = int((base_score * performance_ratio) + 1000)
                 
                 all_data.append({
                     "Date": date,
                     "Player": p_name,
-                    "Price": int(current_price)
+                    "Price": max(price, 500)
                 })
                 
     except Exception as e:
-        print(f"Error processing {p_name}: {e}")
+        print(f"Error: {e}")
 
 if all_data:
     df = pd.DataFrame(all_data).sort_values(by=['Player', 'Date'])
     df.to_csv('mlb_stock_history.csv', index=False)
-    print("실적주의 하락 로직 적용 완료!")
+    print("절대평가 로직 적용 완료! 이제 Springer는 살아남지 못합니다.")
