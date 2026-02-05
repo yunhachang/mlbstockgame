@@ -1,9 +1,7 @@
 import requests
 import pandas as pd
-from datetime import datetime
 import os
 
-# 1. 상장 선수 명단 (ID: 이름)
 players = {
     "660271": "Ohtani",
     "673490": "Kim"
@@ -11,28 +9,28 @@ players = {
 
 all_data = []
 
-# 기존 데이터 로드 (파일이 있으면 읽어옴)
-file_name = 'mlb_stock_history.csv'
-if os.path.exists(file_name):
-    old_df = pd.read_csv(file_name)
-else:
-    old_df = pd.DataFrame()
-
 for p_id, p_name in players.items():
-    # 2. MLB API 호출 (2024년 정규시즌 성적)
     url = f"https://statsapi.mlb.com/api/v1/people/{p_id}/stats?stats=gameLog&group=hitting&season=2024"
     response = requests.get(url).json()
     
     if 'stats' in response and response['stats']:
         splits = response['stats'][0]['splits']
-        for game in splits:
+        
+        # 누적 변수 초기화
+        total_hits = 0
+        total_hr = 0
+        total_rbi = 0
+        
+        # 과거부터 현재 순으로 데이터가 오므로, 누적합 계산 가능
+        for game in reversed(splits): # 최신순에서 과거순으로 올 경우 뒤집기
             date = game['date']
-            hits = game['stat']['hits']
-            hr = game['stat']['homeRuns']
-            rbi = game['stat']['rbi']
+            total_hits += game['stat']['hits']
+            total_hr += game['stat']['homeRuns']
+            total_rbi += game['stat']['rbi']
             
-            # 주가 산정식: (안타*10) + (홈런*50) + (타점*20) + 기본가 100
-            price = 100 + (hits * 10) + (hr * 50) + (rbi * 20)
+            # 주가 산정식: (누적 안타*5) + (누적 홈런*20) + (누적 타점*10) + 기본가 1000
+            # 누적이라 숫자가 커지므로 가중치를 조절했습니다.
+            price = 1000 + (total_hits * 5) + (total_hr * 20) + (total_rbi * 10)
             
             all_data.append({
                 "Date": date,
@@ -40,10 +38,5 @@ for p_id, p_name in players.items():
                 "Price": price
             })
 
-# 3. 데이터 통합 및 중복 제거
 new_df = pd.DataFrame(all_data)
-combined_df = pd.concat([old_df, new_df]).drop_duplicates(subset=['Date', 'Player'], keep='last')
-combined_df = combined_df.sort_values(by=['Player', 'Date'])
-
-# 4. 저장
-combined_df.to_csv(file_name, index=False)
+new_df.to_csv('mlb_stock_history.csv', index=False)
