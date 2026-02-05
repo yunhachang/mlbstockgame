@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-import os
 
 players = {
     "660271": "Ohtani",
@@ -16,26 +15,39 @@ for p_id, p_name in players.items():
     if 'stats' in response and response['stats']:
         splits = response['stats'][0]['splits']
         
-        # 누적 변수 초기화
+        # 누적 변수
         total_hits = 0
         total_hr = 0
         total_rbi = 0
+        total_at_bats = 0 # 타수 (타율 계산용)
         
-        # 과거부터 현재 순으로 데이터가 오므로, 누적합 계산 가능
-        for game in reversed(splits): # 최신순에서 과거순으로 올 경우 뒤집기
+        # 과거부터 현재 순으로 계산
+        for game in reversed(splits):
             date = game['date']
             total_hits += game['stat']['hits']
             total_hr += game['stat']['homeRuns']
             total_rbi += game['stat']['rbi']
+            total_at_bats += game['stat']['atBats']
             
-            # 주가 산정식: (누적 안타*5) + (누적 홈런*20) + (누적 타점*10) + 기본가 1000
-            # 누적이라 숫자가 커지므로 가중치를 조절했습니다.
-            price = 1000 + (total_hits * 5) + (total_hr * 20) + (total_rbi * 10)
+            # 현재 시점의 누적 타율 계산
+            current_avg = total_hits / total_at_bats if total_at_bats > 0 else 0
+            
+            # [비즈니스 로직] 
+            # 1. 기본 점수: 누적 성적 (우상향 요인)
+            base_value = (total_hits * 10) + (total_hr * 100) + (total_rbi * 20)
+            
+            # 2. 승수 효과: 타율이 높으면 프리미엄, 낮으면 페널티 (하락 요인)
+            # 기준 타율을 0.250으로 잡고, 그보다 높으면 가산점, 낮으면 감점
+            multiplier = current_avg / 0.250 
+            
+            # 최종 주가 = (기본 점수 * 타율 승수) + 시작가 1000
+            price = int((base_value * multiplier) + 1000)
             
             all_data.append({
                 "Date": date,
                 "Player": p_name,
-                "Price": price
+                "Price": price,
+                "AVG": round(current_avg, 3) # 확인용
             })
 
 new_df = pd.DataFrame(all_data)
