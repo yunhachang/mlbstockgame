@@ -9,23 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # actions/checkout@v4 (SHA: 692973e3d937129bcbf40652eb9f2f61becf3332)
+      # 외부 액션 대신 시스템 명령어로 처리 시도
       - name: 체크아웃 코드
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332
 
-      # actions/setup-python@v3 (SHA: d27e3f3d7c64b4c05327f991956d35c401300950)
-      - name: 파이썬 설정
-        uses: actions/setup-python@d27e3f3d7c64b4c05327f991956d35c401300950
-        with:
-          python-version: '3.10'
-
-      - name: 라이브러리 설치
+      - name: 라이브러리 직접 설치 및 코드 실행
         run: |
-          pip install requests pandas
-
-      - name: 데이터 업데이트 코드 실행
-        run: |
-          python update_stock.py
+          python3 -m pip install requests pandas
+          python3 update_stock.py
 
       - name: 업데이트된 파일 저장(Commit)
         run: |
