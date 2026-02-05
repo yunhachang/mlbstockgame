@@ -9,13 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # actions/checkout@v4 의 SHA 지문입니다.
+      # actions/checkout@v4 (SHA: 692973e3d937129bcbf40652eb9f2f61becf3332)
       - name: 체크아웃 코드
-        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332
 
-      # actions/setup-python@v5 (최신) 의 SHA 지문입니다.
+      # actions/setup-python@v3 (SHA: d27e3f3d7c64b4c05327f991956d35c401300950)
       - name: 파이썬 설정
-        uses: actions/setup-python@f677139bee77de5c523f367bbde102021580c0b1 
+        uses: actions/setup-python@d27e3f3d7c64b4c05327f991956d35c401300950
         with:
           python-version: '3.10'
 
