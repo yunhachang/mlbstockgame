@@ -1,7 +1,13 @@
 import requests
 import pandas as pd
 
-players = {"660271": "Ohtani", "673490": "Kim"}
+# 1. 상장 선수 리스트 (오타니, 김하성, 스프링어 추가)
+players = {
+    "660271": "Ohtani",
+    "673490": "Kim",
+    "543807": "Springer" # 24시즌 부진했던 샘플 선수
+}
+
 all_data = []
 
 for p_id, p_name in players.items():
@@ -11,50 +17,48 @@ for p_id, p_name in players.items():
         if 'stats' in response and response['stats']:
             splits = response['stats'][0]['splits']
             
-            # 1. 날짜순 정렬 (과거 -> 최신)
+            # 날짜순 정렬 (과거 -> 최신)
             splits.sort(key=lambda x: x['date']) 
             
-            total_h, total_hr, total_rbi = 0, 0, 0
-            prev_price = 1000  # 상장가 1000원 시작
+            t_h, t_hr, t_rbi, t_ab = 0, 0, 0, 0
             
             for game in splits:
                 date = game['date']
                 s = game['stat']
                 
-                # 2. 성적 누적 (이 수치는 절대 줄어들지 않음)
-                h = s.get('hits', 0)
-                hr = s.get('homeRuns', 0)
-                rbi = s.get('rbi', 0)
+                # 누적 데이터 계산
+                t_h += s.get('hits', 0)
+                t_hr += s.get('homeRuns', 0)
+                t_rbi += s.get('rbi', 0)
+                t_ab += s.get('atBats', 0)
                 
-                total_h += h
-                total_hr += hr
-                total_rbi += rbi
+                # 실시간 누적 타율
+                c_avg = t_h / t_ab if t_ab > 0 else 0
                 
-                # 3. 주가 산정: [오늘의 활약 점수]
-                # 안타치면 오르고, 홈런치면 폭등합니다. 못하면 0점이지만 '감점'은 없습니다.
-                daily_score = (h * 50) + (hr * 300) + (rbi * 100)
+                # --- [기획 밸런싱: '냉혹한 시장' 로직] ---
                 
-                # 4. 핵심 로직: [어제 주가 + 오늘 점수]
-                # 이 방식은 수학적으로 절대 우하향할 수 없습니다. (전고점 돌파형)
-                current_price = prev_price + daily_score
+                # 1. 덩치 (성적의 합)
+                market_cap = (t_h * 100) + (t_hr * 800) + (t_rbi * 200)
                 
-                # 보너스: 안타 못 친 날은 주가가 유지되거나 아주 미세하게(+1)만 오름
-                if daily_score == 0:
-                    current_price = prev_price + 1 
+                # 2. 현재 폼 (타율 기반 멀티플라이어)
+                # 기준점 0.270으로 설정. 이보다 낮으면 가차없이 깎임
+                form_multiplier = c_avg / 0.270 
+                
+                # 3. 최종 주가: (누적 가치 * 타율 비중) + 기본 상장가
+                price = int((market_cap * form_multiplier) + 1000)
                 
                 all_data.append({
                     "Date": date,
                     "Player": p_name,
-                    "Price": current_price
+                    "Price": max(price, 500), # 하한선은 500으로 방어
+                    "AVG": round(c_avg, 3)
                 })
                 
-                # 내일 계산을 위해 오늘 주가를 저장
-                prev_price = current_price
-                
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error processing {p_name}: {e}")
 
 if all_data:
     df = pd.DataFrame(all_data)
+    df = df.sort_values(by=['Player', 'Date'])
     df.to_csv('mlb_stock_history.csv', index=False)
-    print("경제 부흥 로직 적용 완료! 이제 하락은 없습니다.")
+    print("3인 선수(상승/조정/하락) 데이터 업데이트 완료!")
