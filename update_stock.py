@@ -9,41 +9,38 @@ for p_id, p_name in players.items():
     try:
         response = requests.get(url).json()
         if 'stats' in response and response['stats']:
+            # 1. 데이터를 먼저 리스트로 받아서 날짜순으로 뒤집기
             splits = response['stats'][0]['splits']
+            splits.sort(key=lambda x: x['date']) # 날짜 오름차순 정렬 (중요!)
             
-            # 0. 누적을 직접 계산하기 위해 변수 설정
             c_hits, c_hr, c_rbi, c_ab = 0, 0, 0, 0
             
-            # 과거(시즌 초)부터 최신순으로 정렬하여 누적합 계산
-            for game in reversed(splits):
+            for game in splits:
                 date = game['date']
                 s = game['stat']
                 
-                # 그날의 성적을 계속 더해줌 (확실한 누적)
+                # 누적 데이터 갱신
                 c_hits += s.get('hits', 0)
                 c_hr += s.get('homeRuns', 0)
                 c_rbi += s.get('rbi', 0)
                 c_ab += s.get('atBats', 0)
                 c_avg = c_hits / c_ab if c_ab > 0 else 0
                 
-                # --- [기획자님을 위한 '황금 밸런스' 로직] ---
-                # 1. 시가총액 (기초 체력): 누적이 될수록 무조건 커짐
-                # 가중치를 높여서 시즌 후반으로 갈수록 덩치가 커지게 함
-                base_power = (c_hits * 100) + (c_hr * 1000) + (c_rbi * 200)
+                # 2. [주가 로직] 우상향을 보장하는 누적 가치 산정
+                # 누적 성적이 쌓일수록 베이스 점수가 강력하게 상승합니다.
+                base_value = (c_hits * 50) + (c_hr * 500) + (c_rbi * 100)
                 
-                # 2. 시장 지수 (타율 비중): 
-                # 단순히 나누는게 아니라, 0.250을 기준으로 '가산/감산' 비율 적용
-                # 타율이 높으면 최대 2배까지 증폭, 낮으면 0.5배까지 축소
-                performance_multiplier = 0.5 + (c_avg / 0.500) 
+                # 3. [긴장감] 타율이 높으면 추가 보너스, 낮으면 보너스 반납 (하지만 베이스는 유지)
+                # 곱하기가 아닌 '더하기' 방식을 써서 우하향을 방어합니다.
+                avg_bonus = (c_avg * 5000) 
                 
-                # 3. 최종 주가: (기본 체력 * 타율 지수) + 기본가
-                price = int((base_power * performance_multiplier) + 1000)
-                # ------------------------------------------
+                # 최종 주가 = 기본 1000 + 누적치 + 타율보너스 + 타수(경험치)
+                price = int(1000 + base_value + avg_bonus + (c_ab * 10))
                 
                 all_data.append({
                     "Date": date,
                     "Player": p_name,
-                    "Price": max(price, 1000), # 하한선 1000원 설정
+                    "Price": price,
                     "AVG": round(c_avg, 3)
                 })
     except Exception as e:
@@ -51,6 +48,7 @@ for p_id, p_name in players.items():
 
 if all_data:
     new_df = pd.DataFrame(all_data)
+    # 마지막으로 한 번 더 날짜와 선수별 정렬
     new_df = new_df.sort_values(by=['Player', 'Date'])
     new_df.to_csv('mlb_stock_history.csv', index=False)
-    print("오타니 우상향 로직 적용 완료!")
+    print("날짜 정렬 및 우상향 로직 적용 완료!")
