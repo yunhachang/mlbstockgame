@@ -1,25 +1,26 @@
 name: MLB Stock Update
 
 on:
-  workflow_dispatch:  # 버튼 눌러서 수동 실행 가능하게 함
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # 매일 한국 시간 오전 9시에 자동 실행
+    - cron: '0 0 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # v3 대신 보안용 긴 이름(SHA)으로 교체했습니다
       - name: 체크아웃 코드
-        uses: actions/checkout@v3
+        uses: actions/checkout@8ade135a41bc03ea155e62e844d188df1ea18608 
 
       - name: 파이썬 설정
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@65d712395b442a552971243f073a02a0a19967f0 
         with:
           python-version: '3.10'
 
       - name: 라이브러리 설치
         run: |
-          pip install -r requirements.txt
+          pip install requests pandas
 
       - name: 데이터 업데이트 코드 실행
         run: |
