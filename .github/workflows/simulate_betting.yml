@@ -4,22 +4,34 @@ on:
   workflow_run:
     workflows: ["Update 2025 WS Data"] # 데이터 수집이 끝나면 자동으로 실행
     types: [completed]
-  workflow_dispatch: # 수동 실행
+  workflow_dispatch: # Actions 탭에서 수동으로 'Run workflow' 버튼을 눌러 실행
 
 jobs:
   simulate:
     runs-on: ubuntu-latest
+    # 데이터 수집이 성공했거나, 수동으로 실행했을 때만 작동
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-      - run: pip install pandas tabulate
-      - run: python scripts/betting_simulator.py
-      - run: |
+
+      - name: Install dependencies
+        run: |
+          pip install pandas tabulate  # <--- 표를 그리기 위해 tabulate가 꼭 필요합니다!
+
+      - name: Run Betting Simulator
+        run: python scripts/betting_simulator.py
+
+      - name: Commit and Push Changes
+        run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add data/simulation_report.md
-          git commit -m "docs: update simulation report" || echo "No changes"
+          git commit -m "docs: update hybrid simulation report" || echo "No changes to commit"
           git push
