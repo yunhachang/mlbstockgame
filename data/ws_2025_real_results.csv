@@ -1,621 +1,621 @@
-game_id,game_date,inning,half,event,batter,pitcher,score_home,score_away,outs,description
-813027,2025-10-24,1,top,Strikeout,Shohei Ohtani,Trey Yesavage,0,0,1,Shohei Ohtani strikes out swinging.
-813027,2025-10-24,1,top,Groundout,Mookie Betts,Trey Yesavage,0,0,2,"Mookie Betts grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813027,2025-10-24,1,top,Groundout,Freddie Freeman,Trey Yesavage,0,0,3,"Freddie Freeman grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
-813027,2025-10-24,1,bottom,Groundout,George Springer,Blake Snell,0,0,1,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813027,2025-10-24,1,bottom,Pop Out,Davis Schneider,Blake Snell,0,0,2,Davis Schneider pops out to shortstop Mookie Betts.
-813027,2025-10-24,1,bottom,Walk,Vladimir Guerrero Jr.,Blake Snell,0,0,2,Vladimir Guerrero Jr. walks.
-813027,2025-10-24,1,bottom,Single,Bo Bichette,Blake Snell,0,0,2,Bo Bichette singles on a ground ball to right fielder Teoscar Hernández. Vladimir Guerrero Jr. to 3rd.
-813027,2025-10-24,1,bottom,Walk,Alejandro Kirk,Blake Snell,0,0,2,Alejandro Kirk walks. Bo Bichette to 2nd.
-813027,2025-10-24,1,bottom,Flyout,Daulton Varsho,Blake Snell,0,0,3,Daulton Varsho flies out to center fielder Andy Pages.
-813027,2025-10-24,2,top,Walk,Will Smith,Trey Yesavage,0,0,0,Will Smith walks.
-813027,2025-10-24,2,top,Forceout,Teoscar Hernández,Trey Yesavage,0,0,1,"Teoscar Hernández grounds into a force out, shortstop Andrés Giménez to second baseman Bo Bichette. Will Smith out at 2nd. Teoscar Hernández to 1st."
-813027,2025-10-24,2,top,Single,Max Muncy,Trey Yesavage,0,0,1,Max Muncy singles on a line drive to left fielder Davis Schneider. Teoscar Hernández to 2nd.
-813027,2025-10-24,2,top,Single,Enrique Hernández,Trey Yesavage,0,1,1,Enrique Hernández singles on a sharp ground ball to center fielder Daulton Varsho. Teoscar Hernández scores. Max Muncy to 2nd.
-813027,2025-10-24,2,top,Single,Tommy Edman,Trey Yesavage,0,1,1,Tommy Edman singles on a ground ball to third baseman Ernie Clement. Max Muncy to 3rd. Enrique Hernández to 2nd.
-813027,2025-10-24,2,top,Strikeout,Andy Pages,Trey Yesavage,0,1,2,Andy Pages strikes out swinging.
-813027,2025-10-24,2,top,Groundout,Shohei Ohtani,Trey Yesavage,0,1,3,Shohei Ohtani grounds out to first baseman Vladimir Guerrero Jr.
-813027,2025-10-24,2,bottom,Single,Ernie Clement,Blake Snell,0,1,0,Ernie Clement singles on a line drive to left fielder Enrique Hernández.
-813027,2025-10-24,2,bottom,Strikeout,Myles Straw,Blake Snell,0,1,1,Myles Straw strikes out on a foul tip.
-813027,2025-10-24,2,bottom,Strikeout,Andrés Giménez,Blake Snell,0,1,2,Andrés Giménez strikes out on a foul tip.
-813027,2025-10-24,2,bottom,Single,George Springer,Blake Snell,0,1,3,"George Springer singles on a soft ground ball to first baseman Freddie Freeman. Ernie Clement out at 3rd, first baseman Freddie Freeman to pitcher Blake Snell to third baseman Max Muncy."
-813027,2025-10-24,3,top,Walk,Mookie Betts,Trey Yesavage,0,1,0,Mookie Betts walks.
-813027,2025-10-24,3,top,Walk,Freddie Freeman,Trey Yesavage,0,1,0,Freddie Freeman walks. Mookie Betts to 2nd.
-813027,2025-10-24,3,top,Single,Will Smith,Trey Yesavage,0,2,1,"Will Smith singles on a ground ball to right fielder Myles Straw. Mookie Betts scores. Freddie Freeman out at 3rd on the throw, right fielder Myles Straw to shortstop Andrés Giménez to third baseman Ernie Clement. Will Smith to 2nd."
-813027,2025-10-24,3,top,Groundout,Teoscar Hernández,Trey Yesavage,0,2,2,"Teoscar Hernández grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr. Will Smith to 3rd."
-813027,2025-10-24,3,top,Strikeout,Max Muncy,Trey Yesavage,0,2,3,Max Muncy strikes out swinging.
-813027,2025-10-24,3,bottom,Strikeout,Davis Schneider,Blake Snell,0,2,1,Davis Schneider strikes out swinging.
-813027,2025-10-24,3,bottom,Single,Vladimir Guerrero Jr.,Blake Snell,0,2,1,Vladimir Guerrero Jr. singles on a ground ball to left fielder Enrique Hernández.
-813027,2025-10-24,3,bottom,Grounded Into DP,Bo Bichette,Blake Snell,0,2,3,"Bo Bichette grounds into a double play, first baseman Freddie Freeman to shortstop Mookie Betts to first baseman Freddie Freeman. Vladimir Guerrero Jr. out at 2nd. Bo Bichette out at 1st."
-813027,2025-10-24,4,top,Strikeout,Enrique Hernández,Trey Yesavage,0,2,1,Enrique Hernández strikes out swinging.
-813027,2025-10-24,4,top,Strikeout,Tommy Edman,Trey Yesavage,0,2,2,Tommy Edman strikes out swinging.
-813027,2025-10-24,4,top,Flyout,Andy Pages,Trey Yesavage,0,2,3,Andy Pages flies out sharply to right fielder Myles Straw.
-813027,2025-10-24,4,bottom,Single,Alejandro Kirk,Blake Snell,0,2,0,Alejandro Kirk singles on a line drive to right fielder Teoscar Hernández.
-813027,2025-10-24,4,bottom,Home Run,Daulton Varsho,Blake Snell,2,2,0,Daulton Varsho homers (3) on a fly ball to center field. Alejandro Kirk scores.
-813027,2025-10-24,4,bottom,Flyout,Ernie Clement,Blake Snell,2,2,1,Ernie Clement flies out to center fielder Andy Pages.
-813027,2025-10-24,4,bottom,Lineout,Myles Straw,Blake Snell,2,2,2,Myles Straw lines out to left fielder Enrique Hernández.
-813027,2025-10-24,4,bottom,Strikeout,Andrés Giménez,Blake Snell,2,2,3,Andrés Giménez called out on strikes.
-813027,2025-10-24,5,top,Strikeout,Shohei Ohtani,Mason Fluharty,2,2,1,Shohei Ohtani called out on strikes.
-813027,2025-10-24,5,top,Single,Mookie Betts,Mason Fluharty,2,2,1,Mookie Betts singles on a ground ball to center fielder Daulton Varsho.
-813027,2025-10-24,5,top,Flyout,Freddie Freeman,Mason Fluharty,2,2,2,Freddie Freeman flies out to center fielder Daulton Varsho.
-813027,2025-10-24,5,top,Flyout,Will Smith,Seranthony Domínguez,2,2,3,Will Smith flies out to right fielder Myles Straw.
-813027,2025-10-24,5,bottom,Single,George Springer,Blake Snell,2,2,0,George Springer singles on a line drive to left fielder Enrique Hernández.
-813027,2025-10-24,5,bottom,Grounded Into DP,Davis Schneider,Blake Snell,2,2,2,"Davis Schneider grounds into a double play, third baseman Max Muncy to second baseman Tommy Edman to first baseman Freddie Freeman. George Springer out at 2nd. Davis Schneider out at 1st."
-813027,2025-10-24,5,bottom,Groundout,Vladimir Guerrero Jr.,Blake Snell,2,2,3,"Vladimir Guerrero Jr. grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
-813027,2025-10-24,6,top,Strikeout,Teoscar Hernández,Seranthony Domínguez,2,2,1,Teoscar Hernández called out on strikes.
-813027,2025-10-24,6,top,Pop Out,Max Muncy,Seranthony Domínguez,2,2,2,Max Muncy pops out to third baseman Ernie Clement in foul territory.
-813027,2025-10-24,6,top,Strikeout,Enrique Hernández,Seranthony Domínguez,2,2,3,Enrique Hernández strikes out swinging.
-813027,2025-10-24,6,bottom,Walk,Bo Bichette,Blake Snell,2,2,0,Bo Bichette walks.
-813027,2025-10-24,6,bottom,Single,Alejandro Kirk,Blake Snell,2,2,0,Alejandro Kirk singles on a ground ball to right fielder Teoscar Hernández. Isiah Kiner-Falefa to 2nd.
-813027,2025-10-24,6,bottom,Hit By Pitch,Daulton Varsho,Blake Snell,2,2,0,Daulton Varsho hit by pitch. Isiah Kiner-Falefa to 3rd. Alejandro Kirk to 2nd.
-813027,2025-10-24,6,bottom,Single,Ernie Clement,Emmet Sheehan,3,2,0,Ernie Clement singles on a ground ball to center fielder Andy Pages. Isiah Kiner-Falefa scores. Alejandro Kirk to 3rd. Daulton Varsho to 2nd.
-813027,2025-10-24,6,bottom,Walk,Nathan Lukes,Emmet Sheehan,4,2,0,Nathan Lukes walks. Alejandro Kirk scores. Daulton Varsho to 3rd. Ernie Clement to 2nd.
-813027,2025-10-24,6,bottom,Single,Andrés Giménez,Emmet Sheehan,5,2,0,Andrés Giménez singles on a sharp line drive to right fielder Teoscar Hernández. Daulton Varsho scores. Ernie Clement to 3rd. Nathan Lukes to 2nd.
-813027,2025-10-24,6,bottom,Forceout,George Springer,Emmet Sheehan,5,2,1,"George Springer grounds into a force out, shortstop Mookie Betts to catcher Will Smith. Ernie Clement out at home. Nathan Lukes to 3rd. Andrés Giménez to 2nd. George Springer to 1st."
-813027,2025-10-24,6,bottom,Home Run,Addison Barger,Anthony Banda,9,2,1,Addison Barger hits a grand slam (3) to center field. Nathan Lukes scores. Andrés Giménez scores. George Springer scores.
-813027,2025-10-24,6,bottom,Single,Vladimir Guerrero Jr.,Anthony Banda,9,2,1,Vladimir Guerrero Jr. singles on a fly ball to center fielder Andy Pages.
-813027,2025-10-24,6,bottom,Flyout,Isiah Kiner-Falefa,Anthony Banda,9,2,2,Isiah Kiner-Falefa flies out to left fielder Enrique Hernández.
-813027,2025-10-24,6,bottom,Home Run,Alejandro Kirk,Anthony Banda,11,2,2,Alejandro Kirk homers (4) on a fly ball to center field. Vladimir Guerrero Jr. scores.
-813027,2025-10-24,6,bottom,Flyout,Daulton Varsho,Anthony Banda,11,2,3,Daulton Varsho flies out to left fielder Enrique Hernández.
-813027,2025-10-24,7,top,Walk,Tommy Edman,Braydon Fisher,11,2,0,Tommy Edman walks.
-813027,2025-10-24,7,top,Strikeout,Andy Pages,Braydon Fisher,11,2,1,Andy Pages called out on strikes.
-813027,2025-10-24,7,top,Home Run,Shohei Ohtani,Braydon Fisher,11,4,1,Shohei Ohtani homers (6) on a fly ball to right field. Tommy Edman scores.
-813027,2025-10-24,7,top,Strikeout,Mookie Betts,Braydon Fisher,11,4,2,Mookie Betts strikes out swinging.
-813027,2025-10-24,7,top,Flyout,Freddie Freeman,Braydon Fisher,11,4,3,Freddie Freeman flies out to right fielder Addison Barger.
-813027,2025-10-24,7,bottom,Flyout,Ernie Clement,Justin Wrobleski,11,4,1,Ernie Clement flies out to center fielder Andy Pages.
-813027,2025-10-24,7,bottom,Groundout,Nathan Lukes,Justin Wrobleski,11,4,2,"Nathan Lukes grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
-813027,2025-10-24,7,bottom,Groundout,Andrés Giménez,Justin Wrobleski,11,4,3,"Andrés Giménez grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
-813027,2025-10-24,8,top,Groundout,Will Smith,Chris Bassitt,11,4,1,Will Smith grounds out to first baseman Vladimir Guerrero Jr.
-813027,2025-10-24,8,top,Walk,Teoscar Hernández,Chris Bassitt,11,4,1,Teoscar Hernández walks.
-813027,2025-10-24,8,top,Strikeout,Max Muncy,Chris Bassitt,11,4,2,Max Muncy strikes out swinging.
-813027,2025-10-24,8,top,Strikeout,Enrique Hernández,Chris Bassitt,11,4,3,Enrique Hernández strikes out swinging.
-813027,2025-10-24,8,bottom,Flyout,George Springer,Will Klein,11,4,1,George Springer flies out to left fielder Enrique Hernández.
-813027,2025-10-24,8,bottom,Single,Addison Barger,Will Klein,11,4,1,Addison Barger singles on a ground ball to left fielder Enrique Hernández.
-813027,2025-10-24,8,bottom,Flyout,Vladimir Guerrero Jr.,Will Klein,11,4,2,Vladimir Guerrero Jr. flies out to center fielder Andy Pages.
-813027,2025-10-24,8,bottom,Flyout,Isiah Kiner-Falefa,Will Klein,11,4,3,Isiah Kiner-Falefa flies out to left fielder Enrique Hernández.
-813027,2025-10-24,9,top,Pop Out,Tommy Edman,Eric Lauer,11,4,1,Tommy Edman pops out to catcher Alejandro Kirk in foul territory.
-813027,2025-10-24,9,top,Lineout,Andy Pages,Eric Lauer,11,4,2,Andy Pages lines out to right fielder Addison Barger.
-813027,2025-10-24,9,top,Walk,Shohei Ohtani,Eric Lauer,11,4,2,Shohei Ohtani walks.
-813027,2025-10-24,9,top,Strikeout,Mookie Betts,Eric Lauer,11,4,3,Mookie Betts strikes out swinging.
-813026,2025-10-25,1,top,Flyout,Shohei Ohtani,Kevin Gausman,0,0,1,Shohei Ohtani flies out to left fielder Nathan Lukes.
-813026,2025-10-25,1,top,Flyout,Mookie Betts,Kevin Gausman,0,0,2,Mookie Betts flies out to right fielder Addison Barger.
-813026,2025-10-25,1,top,Double,Freddie Freeman,Kevin Gausman,0,0,2,Freddie Freeman doubles (5) on a line drive to right fielder Addison Barger.
-813026,2025-10-25,1,top,Single,Will Smith,Kevin Gausman,0,1,2,Will Smith singles on a ground ball to center fielder Daulton Varsho. Freddie Freeman scores.
-813026,2025-10-25,1,top,Strikeout,Teoscar Hernández,Kevin Gausman,0,1,3,Teoscar Hernández strikes out swinging.
-813026,2025-10-25,1,bottom,Double,George Springer,Yoshinobu Yamamoto,0,1,0,George Springer doubles (6) on a sharp line drive to left fielder Enrique Hernández.
-813026,2025-10-25,1,bottom,Single,Nathan Lukes,Yoshinobu Yamamoto,0,1,0,Nathan Lukes singles on a line drive to left fielder Enrique Hernández. George Springer to 3rd.
-813026,2025-10-25,1,bottom,Strikeout,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,0,1,1,Vladimir Guerrero Jr. strikes out swinging.
-813026,2025-10-25,1,bottom,Lineout,Alejandro Kirk,Yoshinobu Yamamoto,0,1,2,Alejandro Kirk lines out to first baseman Freddie Freeman.
-813026,2025-10-25,1,bottom,Strikeout,Daulton Varsho,Yoshinobu Yamamoto,0,1,3,Daulton Varsho called out on strikes.
-813026,2025-10-25,2,top,Flyout,Max Muncy,Kevin Gausman,0,1,1,Max Muncy flies out to left fielder Nathan Lukes.
-813026,2025-10-25,2,top,Pop Out,Enrique Hernández,Kevin Gausman,0,1,2,Enrique Hernández pops out to second baseman Isiah Kiner-Falefa.
-813026,2025-10-25,2,top,Strikeout,Tommy Edman,Kevin Gausman,0,1,3,Tommy Edman strikes out swinging.
-813026,2025-10-25,2,bottom,Single,Ernie Clement,Yoshinobu Yamamoto,0,1,0,"Ernie Clement singles on a pop up to pitcher Yoshinobu Yamamoto, deflected by first baseman Freddie Freeman."
-813026,2025-10-25,2,bottom,Strikeout,Addison Barger,Yoshinobu Yamamoto,0,1,1,Addison Barger called out on strikes.
-813026,2025-10-25,2,bottom,Flyout,Isiah Kiner-Falefa,Yoshinobu Yamamoto,0,1,2,Isiah Kiner-Falefa flies out to center fielder Andy Pages.
-813026,2025-10-25,2,bottom,Groundout,Andrés Giménez,Yoshinobu Yamamoto,0,1,3,"Andrés Giménez grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813026,2025-10-25,3,top,Groundout,Andy Pages,Kevin Gausman,0,1,1,"Andy Pages grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
-813026,2025-10-25,3,top,Pop Out,Shohei Ohtani,Kevin Gausman,0,1,2,Shohei Ohtani pops out to third baseman Ernie Clement in foul territory.
-813026,2025-10-25,3,top,Groundout,Mookie Betts,Kevin Gausman,0,1,3,"Mookie Betts grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813026,2025-10-25,3,bottom,Hit By Pitch,George Springer,Yoshinobu Yamamoto,0,1,0,George Springer hit by pitch.
-813026,2025-10-25,3,bottom,Strikeout,Nathan Lukes,Yoshinobu Yamamoto,0,1,1,Nathan Lukes strikes out swinging.
-813026,2025-10-25,3,bottom,Single,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,0,1,1,Vladimir Guerrero Jr. singles on a sharp line drive to left fielder Enrique Hernández. George Springer to 3rd.
-813026,2025-10-25,3,bottom,Sac Fly,Alejandro Kirk,Yoshinobu Yamamoto,1,1,2,Alejandro Kirk out on a sacrifice fly to center fielder Andy Pages. George Springer scores.
-813026,2025-10-25,3,bottom,Groundout,Daulton Varsho,Yoshinobu Yamamoto,1,1,3,Daulton Varsho grounds out to first baseman Freddie Freeman.
-813026,2025-10-25,4,top,Flyout,Freddie Freeman,Kevin Gausman,1,1,1,Freddie Freeman flies out sharply to center fielder Daulton Varsho.
-813026,2025-10-25,4,top,Flyout,Will Smith,Kevin Gausman,1,1,2,Will Smith flies out to right fielder Addison Barger.
-813026,2025-10-25,4,top,Strikeout,Teoscar Hernández,Kevin Gausman,1,1,3,Teoscar Hernández called out on strikes.
-813026,2025-10-25,4,bottom,Groundout,Ernie Clement,Yoshinobu Yamamoto,1,1,1,"Ernie Clement grounds out softly, first baseman Freddie Freeman to pitcher Yoshinobu Yamamoto."
-813026,2025-10-25,4,bottom,Flyout,Addison Barger,Yoshinobu Yamamoto,1,1,2,Addison Barger flies out to center fielder Andy Pages.
-813026,2025-10-25,4,bottom,Groundout,Isiah Kiner-Falefa,Yoshinobu Yamamoto,1,1,3,"Isiah Kiner-Falefa grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813026,2025-10-25,5,top,Strikeout,Max Muncy,Kevin Gausman,1,1,1,Max Muncy strikes out swinging.
-813026,2025-10-25,5,top,Strikeout,Enrique Hernández,Kevin Gausman,1,1,2,Enrique Hernández strikes out swinging.
-813026,2025-10-25,5,top,Flyout,Tommy Edman,Kevin Gausman,1,1,3,Tommy Edman flies out to right fielder Addison Barger.
-813026,2025-10-25,5,bottom,Lineout,Andrés Giménez,Yoshinobu Yamamoto,1,1,1,Andrés Giménez lines out to left fielder Enrique Hernández.
-813026,2025-10-25,5,bottom,Groundout,George Springer,Yoshinobu Yamamoto,1,1,2,"George Springer grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
-813026,2025-10-25,5,bottom,Groundout,Nathan Lukes,Yoshinobu Yamamoto,1,1,3,"Nathan Lukes grounds out, pitcher Yoshinobu Yamamoto to first baseman Freddie Freeman."
-813026,2025-10-25,6,top,Lineout,Andy Pages,Kevin Gausman,1,1,1,Andy Pages lines out to right fielder Addison Barger.
-813026,2025-10-25,6,top,Pop Out,Shohei Ohtani,Kevin Gausman,1,1,2,Shohei Ohtani pops out to third baseman Ernie Clement in foul territory.
-813026,2025-10-25,6,top,Pop Out,Mookie Betts,Kevin Gausman,1,1,3,Mookie Betts pops out to first baseman Vladimir Guerrero Jr. in foul territory.
-813026,2025-10-25,6,bottom,Groundout,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,1,1,1,"Vladimir Guerrero Jr. grounds out sharply, second baseman Tommy Edman to first baseman Freddie Freeman."
-813026,2025-10-25,6,bottom,Strikeout,Alejandro Kirk,Yoshinobu Yamamoto,1,1,2,Alejandro Kirk strikes out swinging.
-813026,2025-10-25,6,bottom,Pop Out,Daulton Varsho,Yoshinobu Yamamoto,1,1,3,Daulton Varsho pops out to shortstop Mookie Betts.
-813026,2025-10-25,7,top,Flyout,Freddie Freeman,Kevin Gausman,1,1,1,Freddie Freeman flies out sharply to center fielder Daulton Varsho.
-813026,2025-10-25,7,top,Home Run,Will Smith,Kevin Gausman,1,2,1,Will Smith homers (1) on a fly ball to left field.
-813026,2025-10-25,7,top,Strikeout,Teoscar Hernández,Kevin Gausman,1,2,2,Teoscar Hernández strikes out swinging.
-813026,2025-10-25,7,top,Home Run,Max Muncy,Kevin Gausman,1,3,2,Max Muncy homers (2) on a fly ball to left field.
-813026,2025-10-25,7,top,Flyout,Enrique Hernández,Louis Varland,1,3,3,Enrique Hernández flies out to right fielder Addison Barger.
-813026,2025-10-25,7,bottom,Groundout,Ernie Clement,Yoshinobu Yamamoto,1,3,1,"Ernie Clement grounds out sharply, third baseman Max Muncy to first baseman Freddie Freeman."
-813026,2025-10-25,7,bottom,Groundout,Addison Barger,Yoshinobu Yamamoto,1,3,2,"Addison Barger grounds out, first baseman Freddie Freeman to pitcher Yoshinobu Yamamoto."
-813026,2025-10-25,7,bottom,Groundout,Bo Bichette,Yoshinobu Yamamoto,1,3,3,"Bo Bichette grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813026,2025-10-25,8,top,Flyout,Tommy Edman,Louis Varland,1,3,1,Tommy Edman flies out to left fielder Nathan Lukes.
-813026,2025-10-25,8,top,Single,Andy Pages,Louis Varland,1,3,1,Andy Pages singles on a ground ball to center fielder Daulton Varsho.
-813026,2025-10-25,8,top,Single,Shohei Ohtani,Louis Varland,1,3,1,"Blue Jays challenged (tag play), call on the field was upheld: Shohei Ohtani singles on a ground ball to right fielder Addison Barger. Andy Pages to 2nd."
-813026,2025-10-25,8,top,Walk,Mookie Betts,Louis Varland,1,3,1,Mookie Betts walks. Andy Pages to 3rd. Shohei Ohtani to 2nd.
-813026,2025-10-25,8,top,Intent Walk,Freddie Freeman,Jeff Hoffman,1,4,1,Jeff Hoffman intentionally walks Freddie Freeman.
-813026,2025-10-25,8,top,Forceout,Will Smith,Jeff Hoffman,1,5,2,"Will Smith grounds into a force out, shortstop Andrés Giménez to second baseman Bo Bichette. Shohei Ohtani scores. Mookie Betts to 3rd. Freddie Freeman out at 2nd. Will Smith to 1st."
-813026,2025-10-25,8,top,Strikeout,Teoscar Hernández,Jeff Hoffman,1,5,3,Teoscar Hernández strikes out swinging.
-813026,2025-10-25,8,bottom,Strikeout,Andrés Giménez,Yoshinobu Yamamoto,1,5,1,Andrés Giménez strikes out on a foul tip.
-813026,2025-10-25,8,bottom,Strikeout,George Springer,Yoshinobu Yamamoto,1,5,2,George Springer strikes out swinging.
-813026,2025-10-25,8,bottom,Strikeout,Nathan Lukes,Yoshinobu Yamamoto,1,5,3,Nathan Lukes called out on strikes.
-813026,2025-10-25,9,top,Walk,Max Muncy,Braydon Fisher,1,5,0,Max Muncy walks.
-813026,2025-10-25,9,top,Pop Out,Enrique Hernández,Braydon Fisher,1,5,1,Enrique Hernández pops out to first baseman Vladimir Guerrero Jr.
-813026,2025-10-25,9,top,Flyout,Tommy Edman,Braydon Fisher,1,5,2,Tommy Edman flies out to right fielder Addison Barger.
-813026,2025-10-25,9,top,Flyout,Andy Pages,Braydon Fisher,1,5,3,Andy Pages flies out to center fielder Daulton Varsho.
-813026,2025-10-25,9,bottom,Groundout,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,1,5,1,Vladimir Guerrero Jr. grounds out softly to first baseman Freddie Freeman.
-813026,2025-10-25,9,bottom,Lineout,Alejandro Kirk,Yoshinobu Yamamoto,1,5,2,Alejandro Kirk lines out sharply to center fielder Justin Dean.
-813026,2025-10-25,9,bottom,Pop Out,Daulton Varsho,Yoshinobu Yamamoto,1,5,3,Daulton Varsho pops out to third baseman Max Muncy.
-813032,2025-10-27,1,top,Strikeout,George Springer,Tyler Glasnow,0,0,1,George Springer strikes out swinging.
-813032,2025-10-27,1,top,Flyout,Nathan Lukes,Tyler Glasnow,0,0,2,Nathan Lukes flies out to left fielder Enrique Hernández in foul territory.
-813032,2025-10-27,1,top,Flyout,Vladimir Guerrero Jr.,Tyler Glasnow,0,0,3,Vladimir Guerrero Jr. flies out to right fielder Teoscar Hernández.
-813032,2025-10-27,1,bottom,Double,Shohei Ohtani,Max Scherzer,0,0,0,Shohei Ohtani hits a ground-rule double (1) on a line drive down the right-field line.
-813032,2025-10-27,1,bottom,Flyout,Mookie Betts,Max Scherzer,0,0,1,Mookie Betts flies out to right fielder Addison Barger.
-813032,2025-10-27,1,bottom,Pop Out,Freddie Freeman,Max Scherzer,0,0,2,Freddie Freeman pops out to third baseman Ernie Clement.
-813032,2025-10-27,1,bottom,Strikeout,Will Smith,Max Scherzer,0,0,3,Will Smith strikes out swinging.
-813032,2025-10-27,2,top,Single,Bo Bichette,Tyler Glasnow,0,0,0,Bo Bichette singles on a line drive to center fielder Andy Pages.
-813032,2025-10-27,2,top,Walk,Daulton Varsho,Tyler Glasnow,0,0,1,Daulton Varsho walks.
-813032,2025-10-27,2,top,Single,Alejandro Kirk,Tyler Glasnow,0,0,1,Alejandro Kirk singles on a line drive to right fielder Teoscar Hernández. Daulton Varsho to 3rd.
-813032,2025-10-27,2,top,Strikeout,Addison Barger,Tyler Glasnow,0,0,2,Addison Barger strikes out swinging.
-813032,2025-10-27,2,top,Lineout,Ernie Clement,Tyler Glasnow,0,0,3,Ernie Clement lines out to center fielder Andy Pages.
-813032,2025-10-27,2,bottom,Flyout,Max Muncy,Max Scherzer,0,0,1,Max Muncy flies out to right fielder Addison Barger.
-813032,2025-10-27,2,bottom,Home Run,Teoscar Hernández,Max Scherzer,1,0,1,Teoscar Hernández homers (5) on a fly ball to left field.
-813032,2025-10-27,2,bottom,Strikeout,Tommy Edman,Max Scherzer,1,0,2,Tommy Edman strikes out swinging.
-813032,2025-10-27,2,bottom,Strikeout,Enrique Hernández,Max Scherzer,1,0,3,Enrique Hernández strikes out swinging.
-813032,2025-10-27,3,top,Groundout,Andrés Giménez,Tyler Glasnow,1,0,1,"Andrés Giménez grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
-813032,2025-10-27,3,top,Groundout,George Springer,Tyler Glasnow,1,0,2,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813032,2025-10-27,3,top,Strikeout,Nathan Lukes,Tyler Glasnow,1,0,3,Nathan Lukes strikes out swinging.
-813032,2025-10-27,3,bottom,Pop Out,Andy Pages,Max Scherzer,1,0,1,Andy Pages pops out to second baseman Bo Bichette.
-813032,2025-10-27,3,bottom,Home Run,Shohei Ohtani,Max Scherzer,2,0,1,Shohei Ohtani homers (7) on a fly ball to right field.
-813032,2025-10-27,3,bottom,Flyout,Mookie Betts,Max Scherzer,2,0,2,Mookie Betts flies out to left fielder Nathan Lukes.
-813032,2025-10-27,3,bottom,Walk,Freddie Freeman,Max Scherzer,2,0,2,Freddie Freeman walks.
-813032,2025-10-27,3,bottom,Single,Will Smith,Max Scherzer,2,0,3,"Will Smith singles on a line drive to right fielder Addison Barger. Freddie Freeman out at home on the throw, right fielder Addison Barger to catcher Alejandro Kirk."
-813032,2025-10-27,4,top,Walk,Vladimir Guerrero Jr.,Tyler Glasnow,2,0,0,Vladimir Guerrero Jr. walks.
-813032,2025-10-27,4,top,Field Error,Bo Bichette,Tyler Glasnow,2,0,0,Bo Bichette reaches on a fielding error by second baseman Tommy Edman. Vladimir Guerrero Jr. to 3rd.
-813032,2025-10-27,4,top,Flyout,Daulton Varsho,Tyler Glasnow,2,0,1,Daulton Varsho flies out to left fielder Enrique Hernández.
-813032,2025-10-27,4,top,Home Run,Alejandro Kirk,Tyler Glasnow,2,3,1,Alejandro Kirk homers (5) on a fly ball to center field. Vladimir Guerrero Jr. scores. Bo Bichette scores.
-813032,2025-10-27,4,top,Single,Addison Barger,Tyler Glasnow,2,3,1,Addison Barger singles on a sharp line drive to right fielder Teoscar Hernández.
-813032,2025-10-27,4,top,Single,Ernie Clement,Tyler Glasnow,2,3,1,Ernie Clement singles on a fly ball to right fielder Teoscar Hernández. Addison Barger to 3rd.
-813032,2025-10-27,4,top,Sac Fly,Andrés Giménez,Tyler Glasnow,2,4,2,Andrés Giménez out on a sacrifice fly to center fielder Andy Pages. Addison Barger scores. Ernie Clement to 2nd.
-813032,2025-10-27,4,top,Strikeout,George Springer,Tyler Glasnow,2,4,3,George Springer strikes out swinging.
-813032,2025-10-27,4,bottom,Groundout,Max Muncy,Max Scherzer,2,4,1,Max Muncy grounds out to first baseman Vladimir Guerrero Jr.
-813032,2025-10-27,4,bottom,Flyout,Teoscar Hernández,Max Scherzer,2,4,2,Teoscar Hernández flies out to right fielder Addison Barger.
-813032,2025-10-27,4,bottom,Pop Out,Tommy Edman,Max Scherzer,2,4,3,Tommy Edman pops out to third baseman Ernie Clement.
-813032,2025-10-27,5,top,Walk,Nathan Lukes,Tyler Glasnow,2,4,0,Nathan Lukes walks.
-813032,2025-10-27,5,top,Flyout,Vladimir Guerrero Jr.,Tyler Glasnow,2,4,1,Vladimir Guerrero Jr. flies out to right fielder Teoscar Hernández.
-813032,2025-10-27,5,top,Strikeout,Bo Bichette,Tyler Glasnow,2,4,2,Bo Bichette called out on strikes.
-813032,2025-10-27,5,top,Pop Out,Daulton Varsho,Anthony Banda,2,4,3,Daulton Varsho pops out to shortstop Mookie Betts.
-813032,2025-10-27,5,bottom,Single,Enrique Hernández,Max Scherzer,2,4,0,Enrique Hernández singles on a ground ball to center fielder Daulton Varsho.
-813032,2025-10-27,5,bottom,Flyout,Andy Pages,Max Scherzer,2,4,1,Andy Pages flies out to right fielder Addison Barger.
-813032,2025-10-27,5,bottom,Double,Shohei Ohtani,Mason Fluharty,3,4,1,Shohei Ohtani doubles (2) on a fly ball to left fielder Nathan Lukes. Enrique Hernández scores.
-813032,2025-10-27,5,bottom,Flyout,Mookie Betts,Mason Fluharty,3,4,2,Mookie Betts flies out to left fielder Nathan Lukes.
-813032,2025-10-27,5,bottom,Single,Freddie Freeman,Mason Fluharty,4,4,2,Freddie Freeman singles on a ground ball to right fielder Addison Barger. Shohei Ohtani scores.
-813032,2025-10-27,5,bottom,Strikeout,Will Smith,Louis Varland,4,4,3,Will Smith called out on strikes.
-813032,2025-10-27,6,top,Groundout,Alejandro Kirk,Justin Wrobleski,4,4,1,Alejandro Kirk grounds out to first baseman Freddie Freeman.
-813032,2025-10-27,6,top,Single,Addison Barger,Justin Wrobleski,4,4,1,"Addison Barger singles on a ground ball to shortstop Mookie Betts, deflected by third baseman Max Muncy."
-813032,2025-10-27,6,top,Strikeout,Ernie Clement,Justin Wrobleski,4,4,2,Ernie Clement called out on strikes.
-813032,2025-10-27,6,top,Groundout,Andrés Giménez,Justin Wrobleski,4,4,3,"Andrés Giménez grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813032,2025-10-27,6,bottom,Strikeout,Max Muncy,Louis Varland,4,4,1,Max Muncy strikes out swinging.
-813032,2025-10-27,6,bottom,Single,Teoscar Hernández,Louis Varland,4,4,1,Teoscar Hernández singles on a line drive to left fielder Nathan Lukes.
-813032,2025-10-27,6,bottom,Flyout,Tommy Edman,Louis Varland,4,4,2,Tommy Edman flies out to left fielder Nathan Lukes.
-813032,2025-10-27,6,bottom,Single,Enrique Hernández,Louis Varland,4,4,3,"Dodgers challenged (tag play), call on the field was upheld: Enrique Hernández singles on a ground ball to shortstop Andrés Giménez. Teoscar Hernández out at 3rd, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr. to third baseman Ernie Clement."
-813032,2025-10-27,7,top,Strikeout,Ty France,Justin Wrobleski,4,4,1,Ty France strikes out swinging.
-813032,2025-10-27,7,top,Groundout,Nathan Lukes,Justin Wrobleski,4,4,2,"Nathan Lukes grounds out, pitcher Justin Wrobleski to first baseman Freddie Freeman."
-813032,2025-10-27,7,top,Single,Vladimir Guerrero Jr.,Blake Treinen,4,4,2,Vladimir Guerrero Jr. singles on a ground ball to center fielder Andy Pages.
-813032,2025-10-27,7,top,Single,Bo Bichette,Blake Treinen,4,5,2,Bo Bichette singles on a ground ball to right fielder Teoscar Hernández. Vladimir Guerrero Jr. scores.
-813032,2025-10-27,7,top,Single,Daulton Varsho,Blake Treinen,4,5,2,Daulton Varsho singles on a ground ball to third baseman Max Muncy. Isiah Kiner-Falefa to 2nd.
-813032,2025-10-27,7,top,Groundout,Alejandro Kirk,Blake Treinen,4,5,3,"Alejandro Kirk grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
-813032,2025-10-27,7,bottom,Flyout,Andy Pages,Seranthony Domínguez,4,5,1,Andy Pages flies out to right fielder Addison Barger.
-813032,2025-10-27,7,bottom,Home Run,Shohei Ohtani,Seranthony Domínguez,5,5,1,Shohei Ohtani homers (8) on a fly ball to left center field.
-813032,2025-10-27,7,bottom,Strikeout,Mookie Betts,Seranthony Domínguez,5,5,2,Mookie Betts strikes out swinging.
-813032,2025-10-27,7,bottom,Walk,Freddie Freeman,Seranthony Domínguez,5,5,2,Freddie Freeman walks.
-813032,2025-10-27,7,bottom,Walk,Will Smith,Seranthony Domínguez,5,5,2,Will Smith walks. Freddie Freeman to 2nd.
-813032,2025-10-27,7,bottom,Groundout,Max Muncy,Seranthony Domínguez,5,5,3,"Max Muncy grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
-813032,2025-10-27,8,top,Field Error,Addison Barger,Jack Dreyer,5,5,0,Addison Barger reaches on a throwing error by shortstop Mookie Betts.
-813032,2025-10-27,8,top,Flyout,Ernie Clement,Jack Dreyer,5,5,1,Ernie Clement flies out to right fielder Teoscar Hernández.
-813032,2025-10-27,8,top,Single,Andrés Giménez,Jack Dreyer,5,5,1,Andrés Giménez singles on a line drive to left fielder Enrique Hernández. Myles Straw to 2nd.
-813032,2025-10-27,8,top,Groundout,Ty France,Roki Sasaki,5,5,2,"Ty France grounds out, third baseman Max Muncy to first baseman Freddie Freeman. Myles Straw to 3rd. Andrés Giménez to 2nd."
-813032,2025-10-27,8,top,Groundout,Nathan Lukes,Roki Sasaki,5,5,3,"Nathan Lukes grounds out, pitcher Roki Sasaki to first baseman Freddie Freeman."
-813032,2025-10-27,8,bottom,Flyout,Teoscar Hernández,Chris Bassitt,5,5,1,Teoscar Hernández flies out to center fielder Daulton Varsho.
-813032,2025-10-27,8,bottom,Flyout,Tommy Edman,Chris Bassitt,5,5,2,Tommy Edman flies out to left fielder Myles Straw.
-813032,2025-10-27,8,bottom,Strikeout,Enrique Hernández,Chris Bassitt,5,5,3,Enrique Hernández strikes out swinging.
-813032,2025-10-27,9,top,Flyout,Vladimir Guerrero Jr.,Roki Sasaki,5,5,1,Vladimir Guerrero Jr. flies out to right fielder Teoscar Hernández.
-813032,2025-10-27,9,top,Walk,Isiah Kiner-Falefa,Roki Sasaki,5,5,1,Isiah Kiner-Falefa walks.
-813032,2025-10-27,9,top,Single,Daulton Varsho,Roki Sasaki,5,5,2,"Daulton Varsho singles on a line drive to second baseman Tommy Edman, deflected by first baseman Freddie Freeman. Isiah Kiner-Falefa out at 3rd, second baseman Tommy Edman to third baseman Max Muncy."
-813032,2025-10-27,9,top,Walk,Alejandro Kirk,Roki Sasaki,5,5,2,Alejandro Kirk walks. Daulton Varsho to 2nd.
-813032,2025-10-27,9,top,Forceout,Myles Straw,Roki Sasaki,5,5,3,"Myles Straw grounds into a force out, third baseman Max Muncy to second baseman Tommy Edman. Alejandro Kirk out at 2nd."
-813032,2025-10-27,9,bottom,Pop Out,Andy Pages,Jeff Hoffman,5,5,1,Andy Pages pops out to second baseman Isiah Kiner-Falefa.
-813032,2025-10-27,9,bottom,Intent Walk,Shohei Ohtani,Jeff Hoffman,5,5,1,Jeff Hoffman intentionally walks Shohei Ohtani.
-813032,2025-10-27,9,bottom,Flyout,Mookie Betts,Jeff Hoffman,5,5,3,Mookie Betts flies out to right fielder Nathan Lukes in foul territory.
-813032,2025-10-27,10,top,Pop Out,Ernie Clement,Emmet Sheehan,5,5,1,Ernie Clement pops out to first baseman Freddie Freeman in foul territory.
-813032,2025-10-27,10,top,Strikeout,Andrés Giménez,Emmet Sheehan,5,5,2,Andrés Giménez strikes out on a foul tip.
-813032,2025-10-27,10,top,Single,Ty France,Emmet Sheehan,5,5,2,Ty France singles on a line drive to left fielder Enrique Hernández.
-813032,2025-10-27,10,top,Double,Nathan Lukes,Emmet Sheehan,5,5,3,"Blue Jays challenged (tag play), call on the field was upheld: Blue Jays challenged (home-plate collision), call on the field was upheld: Nathan Lukes doubles (4) on a sharp line drive to right fielder Teoscar Hernández. Davis Schneider out at home on the throw, right fielder Teoscar Hernández to second baseman Tommy Edman to catcher Will Smith."
-813032,2025-10-27,10,bottom,Pop Out,Freddie Freeman,Jeff Hoffman,5,5,1,Freddie Freeman pops out to third baseman Ernie Clement in foul territory.
-813032,2025-10-27,10,bottom,Hit By Pitch,Will Smith,Jeff Hoffman,5,5,1,Will Smith hit by pitch.
-813032,2025-10-27,10,bottom,Strikeout,Max Muncy,Jeff Hoffman,5,5,2,Max Muncy called out on strikes.
-813032,2025-10-27,10,bottom,Single,Teoscar Hernández,Jeff Hoffman,5,5,2,Teoscar Hernández singles on a sharp line drive to left fielder Myles Straw. Will Smith to 2nd.
-813032,2025-10-27,10,bottom,Pop Out,Tommy Edman,Jeff Hoffman,5,5,3,Tommy Edman pops out to first baseman Vladimir Guerrero Jr. in foul territory.
-813032,2025-10-27,11,top,Flyout,Vladimir Guerrero Jr.,Emmet Sheehan,5,5,1,Vladimir Guerrero Jr. flies out to center fielder Andy Pages.
-813032,2025-10-27,11,top,Groundout,Isiah Kiner-Falefa,Emmet Sheehan,5,5,2,"Isiah Kiner-Falefa grounds out, pitcher Emmet Sheehan to first baseman Freddie Freeman."
-813032,2025-10-27,11,top,Strikeout,Daulton Varsho,Emmet Sheehan,5,5,3,Daulton Varsho strikes out swinging.
-813032,2025-10-27,11,bottom,Strikeout,Enrique Hernández,Braydon Fisher,5,5,1,Enrique Hernández strikes out swinging.
-813032,2025-10-27,11,bottom,Lineout,Andy Pages,Braydon Fisher,5,5,2,Andy Pages lines out to third baseman Ernie Clement.
-813032,2025-10-27,11,bottom,Intent Walk,Shohei Ohtani,Braydon Fisher,5,5,2,Braydon Fisher intentionally walks Shohei Ohtani.
-813032,2025-10-27,11,bottom,Single,Mookie Betts,Braydon Fisher,5,5,2,Mookie Betts singles on a ground ball to left fielder Myles Straw. Shohei Ohtani to 2nd.
-813032,2025-10-27,11,bottom,Flyout,Freddie Freeman,Braydon Fisher,5,5,3,Freddie Freeman flies out to left fielder Myles Straw.
-813032,2025-10-27,12,top,Walk,Alejandro Kirk,Emmet Sheehan,5,5,0,Alejandro Kirk walks.
-813032,2025-10-27,12,top,Bunt Lineout,Myles Straw,Emmet Sheehan,5,5,1,Myles Straw bunt lines out softly to first baseman Freddie Freeman.
-813032,2025-10-27,12,top,Groundout,Ernie Clement,Emmet Sheehan,5,5,2,"Ernie Clement grounds out, second baseman Tommy Edman to first baseman Freddie Freeman. Tyler Heineman to 2nd."
-813032,2025-10-27,12,top,Intent Walk,Andrés Giménez,Emmet Sheehan,5,5,2,Emmet Sheehan intentionally walks Andrés Giménez.
-813032,2025-10-27,12,top,Single,Davis Schneider,Emmet Sheehan,5,5,2,"Umpire reviewed (force play), call on the field was overturned: Davis Schneider singles on a ground ball to third baseman Max Muncy. Tyler Heineman to 3rd. Andrés Giménez to 2nd."
-813032,2025-10-27,12,top,Groundout,Nathan Lukes,Clayton Kershaw,5,5,3,"Nathan Lukes grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
-813032,2025-10-27,12,bottom,Strikeout,Will Smith,Braydon Fisher,5,5,1,Will Smith strikes out swinging.
-813032,2025-10-27,12,bottom,Pop Out,Max Muncy,Eric Lauer,5,5,2,Max Muncy pops out to second baseman Isiah Kiner-Falefa.
-813032,2025-10-27,12,bottom,Pop Out,Teoscar Hernández,Eric Lauer,5,5,3,Teoscar Hernández pops out to second baseman Isiah Kiner-Falefa.
-813032,2025-10-27,13,top,Groundout,Vladimir Guerrero Jr.,Edgardo Henriquez,5,5,1,"Vladimir Guerrero Jr. grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813032,2025-10-27,13,top,Strikeout,Isiah Kiner-Falefa,Edgardo Henriquez,5,5,2,Isiah Kiner-Falefa strikes out swinging.
-813032,2025-10-27,13,top,Hit By Pitch,Daulton Varsho,Edgardo Henriquez,5,5,2,Daulton Varsho hit by pitch.
-813032,2025-10-27,13,top,Flyout,Tyler Heineman,Edgardo Henriquez,5,5,3,Tyler Heineman flies out to center fielder Andy Pages.
-813032,2025-10-27,13,bottom,Double,Tommy Edman,Eric Lauer,5,5,0,Tommy Edman doubles (2) on a line drive to center fielder Daulton Varsho.
-813032,2025-10-27,13,bottom,Sac Bunt,Miguel Rojas,Eric Lauer,5,5,1,"Miguel Rojas out on a sacrifice bunt, third baseman Ernie Clement to second baseman Isiah Kiner-Falefa. Tommy Edman to 3rd."
-813032,2025-10-27,13,bottom,Pop Out,Alex Call,Eric Lauer,5,5,2,Alex Call pops out to shortstop Andrés Giménez.
-813032,2025-10-27,13,bottom,Intent Walk,Shohei Ohtani,Eric Lauer,5,5,2,Eric Lauer intentionally walks Shohei Ohtani.
-813032,2025-10-27,13,bottom,Intent Walk,Mookie Betts,Eric Lauer,5,5,2,Eric Lauer intentionally walks Mookie Betts. Shohei Ohtani to 2nd.
-813032,2025-10-27,13,bottom,Flyout,Freddie Freeman,Eric Lauer,5,5,3,Freddie Freeman flies out sharply to center fielder Daulton Varsho.
-813032,2025-10-27,14,top,Flyout,Myles Straw,Edgardo Henriquez,5,5,1,Myles Straw flies out to center fielder Tommy Edman.
-813032,2025-10-27,14,top,Groundout,Ernie Clement,Edgardo Henriquez,5,5,2,"Ernie Clement grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
-813032,2025-10-27,14,top,Strikeout,Andrés Giménez,Edgardo Henriquez,5,5,3,Andrés Giménez strikes out swinging.
-813032,2025-10-27,14,bottom,Flyout,Will Smith,Eric Lauer,5,5,1,Will Smith flies out sharply to center fielder Daulton Varsho.
-813032,2025-10-27,14,bottom,Walk,Max Muncy,Eric Lauer,5,5,1,Max Muncy walks.
-813032,2025-10-27,14,bottom,Single,Teoscar Hernández,Eric Lauer,5,5,1,Teoscar Hernández singles on a ground ball to center fielder Daulton Varsho. Max Muncy to 2nd.
-813032,2025-10-27,14,bottom,Pop Out,Tommy Edman,Eric Lauer,5,5,2,Tommy Edman pops out to second baseman Isiah Kiner-Falefa on the infield fly rule.
-813032,2025-10-27,14,bottom,Groundout,Miguel Rojas,Eric Lauer,5,5,3,"Miguel Rojas grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
-813032,2025-10-27,15,top,Strikeout,Davis Schneider,Will Klein,5,5,1,Davis Schneider strikes out swinging.
-813032,2025-10-27,15,top,Groundout,Nathan Lukes,Will Klein,5,5,2,"Nathan Lukes grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813032,2025-10-27,15,top,Single,Vladimir Guerrero Jr.,Will Klein,5,5,2,Vladimir Guerrero Jr. singles on a ground ball to second baseman Miguel Rojas.
-813032,2025-10-27,15,top,Strikeout,Isiah Kiner-Falefa,Will Klein,5,5,3,Isiah Kiner-Falefa called out on strikes.
-813032,2025-10-27,15,bottom,Groundout,Alex Call,Eric Lauer,5,5,1,"Alex Call grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
-813032,2025-10-27,15,bottom,Intent Walk,Shohei Ohtani,Eric Lauer,5,5,1,Eric Lauer intentionally walks Shohei Ohtani.
-813032,2025-10-27,15,bottom,Flyout,Mookie Betts,Eric Lauer,5,5,2,Mookie Betts flies out to right fielder Nathan Lukes.
-813032,2025-10-27,15,bottom,Lineout,Freddie Freeman,Eric Lauer,5,5,3,Freddie Freeman lines out to center fielder Daulton Varsho.
-813032,2025-10-27,16,top,Groundout,Daulton Varsho,Will Klein,5,5,1,"Daulton Varsho grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
-813032,2025-10-27,16,top,Pop Out,Tyler Heineman,Will Klein,5,5,2,Tyler Heineman pops out softly to pitcher Will Klein.
-813032,2025-10-27,16,top,Strikeout,Myles Straw,Will Klein,5,5,3,Myles Straw strikes out swinging.
-813032,2025-10-27,16,bottom,Strikeout,Will Smith,Eric Lauer,5,5,1,Will Smith strikes out swinging.
-813032,2025-10-27,16,bottom,Strikeout,Max Muncy,Eric Lauer,5,5,2,Max Muncy strikes out on a foul tip.
-813032,2025-10-27,16,bottom,Flyout,Teoscar Hernández,Eric Lauer,5,5,3,Teoscar Hernández flies out to center fielder Daulton Varsho.
-813032,2025-10-27,17,top,Flyout,Ernie Clement,Will Klein,5,5,1,Ernie Clement flies out to center fielder Tommy Edman.
-813032,2025-10-27,17,top,Strikeout,Andrés Giménez,Will Klein,5,5,2,Andrés Giménez strikes out on a foul tip.
-813032,2025-10-27,17,top,Lineout,Davis Schneider,Will Klein,5,5,3,Davis Schneider lines out to pitcher Will Klein.
-813032,2025-10-27,17,bottom,Strikeout,Tommy Edman,Brendon Little,5,5,1,Tommy Edman strikes out on a foul tip.
-813032,2025-10-27,17,bottom,Groundout,Miguel Rojas,Brendon Little,5,5,2,"Miguel Rojas grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813032,2025-10-27,17,bottom,Single,Alex Call,Brendon Little,5,5,2,Alex Call singles on a line drive to center fielder Daulton Varsho.
-813032,2025-10-27,17,bottom,Walk,Shohei Ohtani,Brendon Little,5,5,2,Shohei Ohtani walks. Alex Call to 2nd.
-813032,2025-10-27,17,bottom,Pop Out,Mookie Betts,Brendon Little,5,5,3,Mookie Betts pops out to first baseman Vladimir Guerrero Jr. in foul territory.
-813032,2025-10-27,18,top,Lineout,Nathan Lukes,Will Klein,5,5,1,Nathan Lukes lines out to first baseman Freddie Freeman.
-813032,2025-10-27,18,top,Walk,Vladimir Guerrero Jr.,Will Klein,5,5,1,Vladimir Guerrero Jr. walks.
-813032,2025-10-27,18,top,Forceout,Isiah Kiner-Falefa,Will Klein,5,5,2,"Umpire reviewed (play at 1st), call on the field was upheld: Isiah Kiner-Falefa grounds into a force out, shortstop Mookie Betts to second baseman Miguel Rojas. Vladimir Guerrero Jr. out at 2nd. Isiah Kiner-Falefa to 1st."
-813032,2025-10-27,18,top,Walk,Daulton Varsho,Will Klein,5,5,2,Daulton Varsho walks. Isiah Kiner-Falefa to 2nd.
-813032,2025-10-27,18,top,Strikeout,Tyler Heineman,Will Klein,5,5,3,Tyler Heineman strikes out swinging.
-813032,2025-10-27,18,bottom,Home Run,Freddie Freeman,Brendon Little,6,5,0,Freddie Freeman homers (2) on a fly ball to center field.
-813023,2025-10-28,1,top,Flyout,Nathan Lukes,Shohei Ohtani,0,0,1,Nathan Lukes flies out to left fielder Enrique Hernández in foul territory.
-813023,2025-10-28,1,top,Strikeout,Vladimir Guerrero Jr.,Shohei Ohtani,0,0,2,Vladimir Guerrero Jr. strikes out swinging.
-813023,2025-10-28,1,top,Walk,Bo Bichette,Shohei Ohtani,0,0,2,Bo Bichette walks.
-813023,2025-10-28,1,top,Single,Addison Barger,Shohei Ohtani,0,0,2,Addison Barger singles on a ground ball to third baseman Max Muncy. Bo Bichette to 2nd.
-813023,2025-10-28,1,top,Pop Out,Alejandro Kirk,Shohei Ohtani,0,0,3,Alejandro Kirk pops out to first baseman Freddie Freeman.
-813023,2025-10-28,1,bottom,Walk,Shohei Ohtani,Shane Bieber,0,0,0,Shohei Ohtani walks.
-813023,2025-10-28,1,bottom,Flyout,Mookie Betts,Shane Bieber,0,0,1,Mookie Betts flies out to right fielder Addison Barger.
-813023,2025-10-28,1,bottom,Forceout,Freddie Freeman,Shane Bieber,0,0,2,"Freddie Freeman grounds into a force out, second baseman Isiah Kiner-Falefa to shortstop Andrés Giménez. Shohei Ohtani out at 2nd. Freddie Freeman to 1st."
-813023,2025-10-28,1,bottom,Flyout,Will Smith,Shane Bieber,0,0,3,Will Smith flies out to right fielder Addison Barger.
-813023,2025-10-28,2,top,Pop Out,Daulton Varsho,Shohei Ohtani,0,0,1,Daulton Varsho pops out to shortstop Mookie Betts.
-813023,2025-10-28,2,top,Groundout,Ernie Clement,Shohei Ohtani,0,0,2,"Ernie Clement grounds out softly, first baseman Freddie Freeman to pitcher Shohei Ohtani."
-813023,2025-10-28,2,top,Groundout,Andrés Giménez,Shohei Ohtani,0,0,3,"Andrés Giménez grounds out softly, pitcher Shohei Ohtani to first baseman Freddie Freeman."
-813023,2025-10-28,2,bottom,Groundout,Teoscar Hernández,Shane Bieber,0,0,1,"Teoscar Hernández grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813023,2025-10-28,2,bottom,Walk,Max Muncy,Shane Bieber,0,0,1,Max Muncy walks.
-813023,2025-10-28,2,bottom,Single,Tommy Edman,Shane Bieber,0,0,1,Tommy Edman singles on a ground ball to center fielder Daulton Varsho. Max Muncy to 3rd.
-813023,2025-10-28,2,bottom,Sac Fly,Enrique Hernández,Shane Bieber,1,0,2,Enrique Hernández out on a sacrifice fly to right fielder Addison Barger. Max Muncy scores.
-813023,2025-10-28,2,bottom,Flyout,Andy Pages,Shane Bieber,1,0,3,Andy Pages flies out to center fielder Daulton Varsho.
-813023,2025-10-28,3,top,Groundout,Isiah Kiner-Falefa,Shohei Ohtani,1,0,1,"Isiah Kiner-Falefa grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
-813023,2025-10-28,3,top,Single,Nathan Lukes,Shohei Ohtani,1,0,1,Nathan Lukes singles on a sharp line drive to right fielder Teoscar Hernández.
-813023,2025-10-28,3,top,Home Run,Vladimir Guerrero Jr.,Shohei Ohtani,1,2,1,Vladimir Guerrero Jr. homers (7) on a fly ball to left center field. Nathan Lukes scores.
-813023,2025-10-28,3,top,Groundout,Bo Bichette,Shohei Ohtani,1,2,2,"Bo Bichette grounds out sharply, second baseman Tommy Edman to first baseman Freddie Freeman."
-813023,2025-10-28,3,top,Flyout,Addison Barger,Shohei Ohtani,1,2,3,Addison Barger flies out to left fielder Enrique Hernández.
-813023,2025-10-28,3,bottom,Strikeout,Shohei Ohtani,Shane Bieber,1,2,1,Shohei Ohtani strikes out on a foul tip.
-813023,2025-10-28,3,bottom,Lineout,Mookie Betts,Shane Bieber,1,2,2,Mookie Betts lines out sharply to third baseman Ernie Clement.
-813023,2025-10-28,3,bottom,Single,Freddie Freeman,Shane Bieber,1,2,2,Freddie Freeman singles on a line drive to left fielder Nathan Lukes.
-813023,2025-10-28,3,bottom,Groundout,Will Smith,Shane Bieber,1,2,3,"Will Smith grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
-813023,2025-10-28,4,top,Strikeout,Alejandro Kirk,Shohei Ohtani,1,2,1,Alejandro Kirk strikes out swinging.
-813023,2025-10-28,4,top,Strikeout,Daulton Varsho,Shohei Ohtani,1,2,2,Daulton Varsho strikes out on a foul tip.
-813023,2025-10-28,4,top,Strikeout,Ernie Clement,Shohei Ohtani,1,2,3,Ernie Clement strikes out on a foul tip.
-813023,2025-10-28,4,bottom,Flyout,Teoscar Hernández,Shane Bieber,1,2,1,Teoscar Hernández flies out to center fielder Daulton Varsho.
-813023,2025-10-28,4,bottom,Strikeout,Max Muncy,Shane Bieber,1,2,2,Max Muncy strikes out on a foul tip.
-813023,2025-10-28,4,bottom,Walk,Tommy Edman,Shane Bieber,1,2,2,Tommy Edman walks.
-813023,2025-10-28,4,bottom,Flyout,Enrique Hernández,Shane Bieber,1,2,3,Enrique Hernández flies out to right fielder Addison Barger.
-813023,2025-10-28,5,top,Strikeout,Andrés Giménez,Shohei Ohtani,1,2,1,Andrés Giménez strikes out swinging.
-813023,2025-10-28,5,top,Flyout,Isiah Kiner-Falefa,Shohei Ohtani,1,2,2,Isiah Kiner-Falefa flies out to left fielder Enrique Hernández.
-813023,2025-10-28,5,top,Single,Nathan Lukes,Shohei Ohtani,1,2,2,Nathan Lukes singles on a sharp ground ball to center fielder Andy Pages.
-813023,2025-10-28,5,top,Lineout,Vladimir Guerrero Jr.,Shohei Ohtani,1,2,3,Vladimir Guerrero Jr. lines out to center fielder Andy Pages.
-813023,2025-10-28,5,bottom,Flyout,Andy Pages,Shane Bieber,1,2,1,Andy Pages flies out to right fielder Addison Barger.
-813023,2025-10-28,5,bottom,Strikeout,Shohei Ohtani,Shane Bieber,1,2,2,Shohei Ohtani called out on strikes.
-813023,2025-10-28,5,bottom,Lineout,Mookie Betts,Shane Bieber,1,2,3,Mookie Betts lines out to center fielder Daulton Varsho.
-813023,2025-10-28,6,top,Flyout,Bo Bichette,Shohei Ohtani,1,2,1,Bo Bichette flies out to left fielder Enrique Hernández.
-813023,2025-10-28,6,top,Groundout,Addison Barger,Shohei Ohtani,1,2,2,"Addison Barger grounds out, pitcher Shohei Ohtani to first baseman Freddie Freeman."
-813023,2025-10-28,6,top,Strikeout,Alejandro Kirk,Shohei Ohtani,1,2,3,Alejandro Kirk strikes out on a foul tip.
-813023,2025-10-28,6,bottom,Single,Freddie Freeman,Shane Bieber,1,2,0,Freddie Freeman singles on a ground ball to first baseman Vladimir Guerrero Jr.
-813023,2025-10-28,6,bottom,Lineout,Will Smith,Shane Bieber,1,2,1,Will Smith lines out sharply to center fielder Daulton Varsho.
-813023,2025-10-28,6,bottom,Single,Teoscar Hernández,Shane Bieber,1,2,1,Teoscar Hernández singles on a line drive to center fielder Daulton Varsho. Freddie Freeman to 2nd.
-813023,2025-10-28,6,bottom,Flyout,Max Muncy,Mason Fluharty,1,2,2,Max Muncy flies out to center fielder Daulton Varsho.
-813023,2025-10-28,6,bottom,Strikeout,Tommy Edman,Mason Fluharty,1,2,3,Tommy Edman strikes out swinging.
-813023,2025-10-28,7,top,Single,Daulton Varsho,Shohei Ohtani,1,2,0,Daulton Varsho singles on a line drive to right fielder Teoscar Hernández.
-813023,2025-10-28,7,top,Double,Ernie Clement,Shohei Ohtani,1,2,0,Ernie Clement doubles (4) on a sharp line drive to center fielder Andy Pages. Daulton Varsho to 3rd.
-813023,2025-10-28,7,top,Single,Andrés Giménez,Anthony Banda,1,3,0,Andrés Giménez singles on a line drive to left fielder Enrique Hernández. Daulton Varsho scores. Ernie Clement to 3rd.
-813023,2025-10-28,7,top,Lineout,Isiah Kiner-Falefa,Anthony Banda,1,3,1,"Blue Jays challenged (force play), call on the field was overturned: Isiah Kiner-Falefa lines out to third baseman Max Muncy."
-813023,2025-10-28,7,top,Groundout,Ty France,Anthony Banda,1,4,2,"Ty France grounds out, second baseman Tommy Edman to first baseman Freddie Freeman. Ernie Clement scores. Andrés Giménez to 2nd."
-813023,2025-10-28,7,top,Intent Walk,Vladimir Guerrero Jr.,Anthony Banda,1,4,2,Anthony Banda intentionally walks Vladimir Guerrero Jr.
-813023,2025-10-28,7,top,Single,Bo Bichette,Blake Treinen,1,5,2,Bo Bichette singles on a sharp line drive to left fielder Enrique Hernández. Andrés Giménez scores. Vladimir Guerrero Jr. to 3rd.
-813023,2025-10-28,7,top,Single,Addison Barger,Blake Treinen,1,6,2,Addison Barger singles on a ground ball to left fielder Enrique Hernández. Vladimir Guerrero Jr. scores. Bo Bichette to 2nd.
-813023,2025-10-28,7,top,Lineout,Alejandro Kirk,Blake Treinen,1,6,3,Alejandro Kirk lines out to right fielder Teoscar Hernández.
-813023,2025-10-28,7,bottom,Groundout,Enrique Hernández,Chris Bassitt,1,6,1,"Enrique Hernández grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813023,2025-10-28,7,bottom,Strikeout,Alex Call,Chris Bassitt,1,6,2,Alex Call called out on strikes.
-813023,2025-10-28,7,bottom,Groundout,Shohei Ohtani,Chris Bassitt,1,6,3,"Shohei Ohtani grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
-813023,2025-10-28,8,top,Pop Out,Daulton Varsho,Jack Dreyer,1,6,1,Daulton Varsho pops out to third baseman Max Muncy.
-813023,2025-10-28,8,top,Single,Ernie Clement,Jack Dreyer,1,6,1,Ernie Clement singles on a ground ball to first baseman Freddie Freeman.
-813023,2025-10-28,8,top,Hit By Pitch,Andrés Giménez,Jack Dreyer,1,6,1,Andrés Giménez hit by pitch. Ernie Clement to 2nd.
-813023,2025-10-28,8,top,Groundout,Isiah Kiner-Falefa,Jack Dreyer,1,6,2,"Isiah Kiner-Falefa grounds out, shortstop Mookie Betts to first baseman Freddie Freeman. Ernie Clement to 3rd. Andrés Giménez to 2nd."
-813023,2025-10-28,8,top,Strikeout,Myles Straw,Jack Dreyer,1,6,3,Myles Straw strikes out swinging.
-813023,2025-10-28,8,bottom,Single,Mookie Betts,Chris Bassitt,1,6,0,Mookie Betts singles on a line drive to left fielder Myles Straw.
-813023,2025-10-28,8,bottom,Strikeout,Freddie Freeman,Chris Bassitt,1,6,1,Freddie Freeman strikes out swinging.
-813023,2025-10-28,8,bottom,Grounded Into DP,Will Smith,Chris Bassitt,1,6,3,"Will Smith grounds into a double play, shortstop Andrés Giménez to second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr. Mookie Betts out at 2nd. Will Smith out at 1st."
-813023,2025-10-28,9,top,Single,Vladimir Guerrero Jr.,Jack Dreyer,1,6,0,Vladimir Guerrero Jr. singles on a line drive to right fielder Teoscar Hernández.
-813023,2025-10-28,9,top,Groundout,Bo Bichette,Jack Dreyer,1,6,1,Bo Bichette grounds out to first baseman Freddie Freeman. Vladimir Guerrero Jr. to 2nd.
-813023,2025-10-28,9,top,Strikeout,Addison Barger,Jack Dreyer,1,6,2,Addison Barger called out on strikes.
-813023,2025-10-28,9,top,Intent Walk,Alejandro Kirk,Jack Dreyer,1,6,2,Jack Dreyer intentionally walks Alejandro Kirk.
-813023,2025-10-28,9,top,Strikeout,Daulton Varsho,Jack Dreyer,1,6,3,Daulton Varsho called out on strikes.
-813023,2025-10-28,9,bottom,Walk,Teoscar Hernández,Louis Varland,1,6,0,Teoscar Hernández walks.
-813023,2025-10-28,9,bottom,Double,Max Muncy,Louis Varland,1,6,0,Max Muncy doubles (2) on a sharp line drive to right fielder Addison Barger. Teoscar Hernández to 3rd.
-813023,2025-10-28,9,bottom,Groundout,Tommy Edman,Louis Varland,2,6,1,"Tommy Edman grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr. Teoscar Hernández scores."
-813023,2025-10-28,9,bottom,Strikeout,Enrique Hernández,Louis Varland,2,6,2,Enrique Hernández strikes out swinging.
-813023,2025-10-28,9,bottom,Lineout,Alex Call,Louis Varland,2,6,3,Alex Call lines out to left fielder Myles Straw.
-813022,2025-10-29,1,top,Home Run,Davis Schneider,Blake Snell,0,1,0,Davis Schneider homers (1) on a fly ball to left field.
-813022,2025-10-29,1,top,Home Run,Vladimir Guerrero Jr.,Blake Snell,0,2,0,Vladimir Guerrero Jr. homers (8) on a fly ball to left field.
-813022,2025-10-29,1,top,Strikeout,Bo Bichette,Blake Snell,0,2,1,Bo Bichette strikes out swinging.
-813022,2025-10-29,1,top,Single,Alejandro Kirk,Blake Snell,0,2,1,Alejandro Kirk singles on a line drive to center fielder Enrique Hernández.
-813022,2025-10-29,1,top,Forceout,Daulton Varsho,Blake Snell,0,2,2,"Blue Jays challenged (play at 1st), call on the field was overturned: Daulton Varsho grounds into a force out, second baseman Tommy Edman to shortstop Mookie Betts. Alejandro Kirk out at 2nd. Daulton Varsho to 1st."
-813022,2025-10-29,1,top,Caught Stealing 2B,Ernie Clement,Blake Snell,0,2,3,"Blue Jays challenged (tag play), call on the field was upheld: Daulton Varsho caught stealing 2nd base, catcher Will Smith to second baseman Tommy Edman."
-813022,2025-10-29,1,bottom,Groundout,Shohei Ohtani,Trey Yesavage,0,2,1,"Shohei Ohtani grounds out, pitcher Trey Yesavage to first baseman Vladimir Guerrero Jr."
-813022,2025-10-29,1,bottom,Flyout,Will Smith,Trey Yesavage,0,2,2,Will Smith flies out to left fielder Davis Schneider.
-813022,2025-10-29,1,bottom,Strikeout,Mookie Betts,Trey Yesavage,0,2,3,Mookie Betts strikes out swinging.
-813022,2025-10-29,2,top,Groundout,Ernie Clement,Blake Snell,0,2,1,"Ernie Clement grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813022,2025-10-29,2,top,Single,Addison Barger,Blake Snell,0,2,1,Addison Barger singles on a ground ball to right fielder Teoscar Hernández.
-813022,2025-10-29,2,top,Flyout,Isiah Kiner-Falefa,Blake Snell,0,2,2,Isiah Kiner-Falefa flies out to right fielder Teoscar Hernández in foul territory.
-813022,2025-10-29,2,top,Strikeout,Andrés Giménez,Blake Snell,0,2,3,Andrés Giménez strikes out swinging.
-813022,2025-10-29,2,bottom,Strikeout,Freddie Freeman,Trey Yesavage,0,2,1,Freddie Freeman strikes out swinging.
-813022,2025-10-29,2,bottom,Strikeout,Teoscar Hernández,Trey Yesavage,0,2,2,Teoscar Hernández strikes out swinging.
-813022,2025-10-29,2,bottom,Strikeout,Tommy Edman,Trey Yesavage,0,2,3,Tommy Edman strikes out swinging.
-813022,2025-10-29,3,top,Strikeout,Davis Schneider,Blake Snell,0,2,1,Davis Schneider strikes out swinging.
-813022,2025-10-29,3,top,Walk,Vladimir Guerrero Jr.,Blake Snell,0,2,1,Vladimir Guerrero Jr. walks.
-813022,2025-10-29,3,top,Forceout,Bo Bichette,Blake Snell,0,2,2,"Bo Bichette grounds into a force out, shortstop Mookie Betts to second baseman Tommy Edman. Vladimir Guerrero Jr. out at 2nd. Bo Bichette to 1st."
-813022,2025-10-29,3,top,Strikeout,Alejandro Kirk,Blake Snell,0,2,3,Alejandro Kirk strikes out swinging.
-813022,2025-10-29,3,bottom,Strikeout,Max Muncy,Trey Yesavage,0,2,1,Max Muncy called out on strikes.
-813022,2025-10-29,3,bottom,Home Run,Enrique Hernández,Trey Yesavage,1,2,1,Enrique Hernández homers (1) on a fly ball to left field.
-813022,2025-10-29,3,bottom,Lineout,Alex Call,Trey Yesavage,1,2,2,Alex Call lines out to center fielder Daulton Varsho.
-813022,2025-10-29,3,bottom,Strikeout,Shohei Ohtani,Trey Yesavage,1,2,3,Shohei Ohtani strikes out swinging.
-813022,2025-10-29,4,top,Triple,Daulton Varsho,Blake Snell,1,2,0,Daulton Varsho triples (1) on a line drive to right fielder Teoscar Hernández.
-813022,2025-10-29,4,top,Sac Fly,Ernie Clement,Blake Snell,1,3,1,Ernie Clement out on a sacrifice fly to center fielder Enrique Hernández. Daulton Varsho scores.
-813022,2025-10-29,4,top,Walk,Addison Barger,Blake Snell,1,3,1,Addison Barger walks.
-813022,2025-10-29,4,top,Strikeout,Isiah Kiner-Falefa,Blake Snell,1,3,2,Isiah Kiner-Falefa strikes out swinging.
-813022,2025-10-29,4,top,Strikeout,Andrés Giménez,Blake Snell,1,3,3,Andrés Giménez strikes out swinging.
-813022,2025-10-29,4,bottom,Strikeout,Will Smith,Trey Yesavage,1,3,1,Will Smith strikes out on a foul tip.
-813022,2025-10-29,4,bottom,Strikeout,Mookie Betts,Trey Yesavage,1,3,2,Mookie Betts strikes out swinging.
-813022,2025-10-29,4,bottom,Hit By Pitch,Freddie Freeman,Trey Yesavage,1,3,2,Freddie Freeman hit by pitch.
-813022,2025-10-29,4,bottom,Single,Teoscar Hernández,Trey Yesavage,1,3,2,Teoscar Hernández singles on a ground ball to shortstop Andrés Giménez. Freddie Freeman to 2nd.
-813022,2025-10-29,4,bottom,Pop Out,Tommy Edman,Trey Yesavage,1,3,3,Tommy Edman pops out to shortstop Andrés Giménez.
-813022,2025-10-29,5,top,Walk,Davis Schneider,Blake Snell,1,3,0,Davis Schneider walks.
-813022,2025-10-29,5,top,Grounded Into DP,Vladimir Guerrero Jr.,Blake Snell,1,3,2,"Vladimir Guerrero Jr. grounds into a double play, pitcher Blake Snell to second baseman Tommy Edman to first baseman Freddie Freeman. Davis Schneider out at 2nd. Vladimir Guerrero Jr. out at 1st."
-813022,2025-10-29,5,top,Lineout,Bo Bichette,Blake Snell,1,3,3,Bo Bichette lines out to left fielder Alex Call.
-813022,2025-10-29,5,bottom,Groundout,Max Muncy,Trey Yesavage,1,3,1,"Max Muncy grounds out, second baseman Isiah Kiner-Falefa to pitcher Trey Yesavage."
-813022,2025-10-29,5,bottom,Strikeout,Enrique Hernández,Trey Yesavage,1,3,2,Enrique Hernández strikes out swinging.
-813022,2025-10-29,5,bottom,Strikeout,Alex Call,Trey Yesavage,1,3,3,Alex Call strikes out swinging.
-813022,2025-10-29,6,top,Groundout,Alejandro Kirk,Blake Snell,1,3,1,"Alejandro Kirk grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
-813022,2025-10-29,6,top,Lineout,Daulton Varsho,Blake Snell,1,3,2,Daulton Varsho lines out to right fielder Teoscar Hernández.
-813022,2025-10-29,6,top,Groundout,Ernie Clement,Blake Snell,1,3,3,Ernie Clement grounds out to first baseman Freddie Freeman.
-813022,2025-10-29,6,bottom,Lineout,Shohei Ohtani,Trey Yesavage,1,3,1,Shohei Ohtani lines out sharply to right fielder Addison Barger.
-813022,2025-10-29,6,bottom,Strikeout,Will Smith,Trey Yesavage,1,3,2,Will Smith strikes out swinging.
-813022,2025-10-29,6,bottom,Groundout,Mookie Betts,Trey Yesavage,1,3,3,"Mookie Betts grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
-813022,2025-10-29,7,top,Single,Addison Barger,Blake Snell,1,3,0,Addison Barger singles on a ground ball to left fielder Alex Call.
-813022,2025-10-29,7,top,Groundout,Isiah Kiner-Falefa,Blake Snell,1,3,1,"Isiah Kiner-Falefa grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813022,2025-10-29,7,top,Walk,Andrés Giménez,Blake Snell,1,3,1,Andrés Giménez walks.
-813022,2025-10-29,7,top,Strikeout,Davis Schneider,Blake Snell,1,3,2,Davis Schneider strikes out swinging.
-813022,2025-10-29,7,top,Walk,Vladimir Guerrero Jr.,Edgardo Henriquez,1,4,2,Vladimir Guerrero Jr. walks. Addison Barger scores. Andrés Giménez to 2nd. Wild pitch by pitcher Edgardo Henriquez.
-813022,2025-10-29,7,top,Single,Bo Bichette,Edgardo Henriquez,1,5,2,Bo Bichette singles on a line drive to right fielder Teoscar Hernández. Andrés Giménez scores. Vladimir Guerrero Jr. to 3rd.
-813022,2025-10-29,7,top,Walk,Alejandro Kirk,Edgardo Henriquez,1,5,2,Alejandro Kirk walks. Bo Bichette to 2nd.
-813022,2025-10-29,7,top,Forceout,Daulton Varsho,Anthony Banda,1,5,3,"Daulton Varsho grounds into a force out, second baseman Tommy Edman to shortstop Mookie Betts. Alejandro Kirk out at 2nd."
-813022,2025-10-29,7,bottom,Strikeout,Freddie Freeman,Trey Yesavage,1,5,1,Freddie Freeman strikes out swinging.
-813022,2025-10-29,7,bottom,Single,Teoscar Hernández,Trey Yesavage,1,5,1,Teoscar Hernández singles on a soft ground ball to third baseman Ernie Clement.
-813022,2025-10-29,7,bottom,Grounded Into DP,Tommy Edman,Trey Yesavage,1,5,3,"Tommy Edman grounds into a double play, third baseman Ernie Clement to second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr. Teoscar Hernández out at 2nd. Tommy Edman out at 1st."
-813022,2025-10-29,8,top,Single,Ernie Clement,Anthony Banda,1,5,0,Ernie Clement singles on a sharp line drive to center fielder Enrique Hernández.
-813022,2025-10-29,8,top,Groundout,Addison Barger,Anthony Banda,1,5,1,"Addison Barger grounds out, second baseman Tommy Edman to first baseman Freddie Freeman. Ernie Clement to 3rd."
-813022,2025-10-29,8,top,Single,Isiah Kiner-Falefa,Anthony Banda,1,6,1,Isiah Kiner-Falefa singles on a ground ball to left fielder Alex Call. Ernie Clement scores.
-813022,2025-10-29,8,top,Flyout,Andrés Giménez,Anthony Banda,1,6,2,Andrés Giménez flies out to left fielder Alex Call.
-813022,2025-10-29,8,top,Pop Out,Myles Straw,Anthony Banda,1,6,3,Myles Straw pops out to first baseman Freddie Freeman.
-813022,2025-10-29,8,bottom,Groundout,Max Muncy,Seranthony Domínguez,1,6,1,"Max Muncy grounds out, first baseman Vladimir Guerrero Jr. to pitcher Seranthony Domínguez."
-813022,2025-10-29,8,bottom,Strikeout,Enrique Hernández,Seranthony Domínguez,1,6,2,Enrique Hernández strikes out swinging.
-813022,2025-10-29,8,bottom,Walk,Alex Call,Seranthony Domínguez,1,6,2,Alex Call walks.
-813022,2025-10-29,8,bottom,Groundout,Shohei Ohtani,Seranthony Domínguez,1,6,3,Shohei Ohtani grounds out to first baseman Vladimir Guerrero Jr.
-813022,2025-10-29,9,top,Groundout,Vladimir Guerrero Jr.,Blake Treinen,1,6,1,"Vladimir Guerrero Jr. grounds out, pitcher Blake Treinen to first baseman Freddie Freeman."
-813022,2025-10-29,9,top,Groundout,Bo Bichette,Blake Treinen,1,6,2,"Bo Bichette grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
-813022,2025-10-29,9,top,Groundout,Alejandro Kirk,Blake Treinen,1,6,3,Alejandro Kirk grounds out to first baseman Freddie Freeman.
-813022,2025-10-29,9,bottom,Single,Will Smith,Jeff Hoffman,1,6,0,Will Smith singles on a sharp line drive to left fielder Myles Straw.
-813022,2025-10-29,9,bottom,Flyout,Mookie Betts,Jeff Hoffman,1,6,1,Mookie Betts flies out to left fielder Myles Straw.
-813022,2025-10-29,9,bottom,Strikeout,Freddie Freeman,Jeff Hoffman,1,6,2,Freddie Freeman strikes out swinging.
-813022,2025-10-29,9,bottom,Strikeout,Teoscar Hernández,Jeff Hoffman,1,6,3,Teoscar Hernández strikes out swinging.
-813025,2025-10-31,1,top,Strikeout,Shohei Ohtani,Kevin Gausman,0,0,1,Shohei Ohtani strikes out swinging.
-813025,2025-10-31,1,top,Strikeout,Will Smith,Kevin Gausman,0,0,2,Will Smith strikes out swinging.
-813025,2025-10-31,1,top,Strikeout,Freddie Freeman,Kevin Gausman,0,0,3,Freddie Freeman strikes out swinging.
-813025,2025-10-31,1,bottom,Groundout,George Springer,Yoshinobu Yamamoto,0,0,1,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813025,2025-10-31,1,bottom,Field Error,Nathan Lukes,Yoshinobu Yamamoto,0,0,1,Nathan Lukes reaches on a fielding error by third baseman Max Muncy.
-813025,2025-10-31,1,bottom,Grounded Into DP,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,0,0,3,"Vladimir Guerrero Jr. grounds into a double play, third baseman Max Muncy to second baseman Miguel Rojas to first baseman Freddie Freeman. Nathan Lukes out at 2nd. Vladimir Guerrero Jr. out at 1st."
-813025,2025-10-31,2,top,Groundout,Mookie Betts,Kevin Gausman,0,0,1,"Mookie Betts grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
-813025,2025-10-31,2,top,Strikeout,Teoscar Hernández,Kevin Gausman,0,0,2,Teoscar Hernández strikes out swinging.
-813025,2025-10-31,2,top,Strikeout,Max Muncy,Kevin Gausman,0,0,3,Max Muncy strikes out swinging.
-813025,2025-10-31,2,bottom,Strikeout,Bo Bichette,Yoshinobu Yamamoto,0,0,1,Bo Bichette strikes out swinging.
-813025,2025-10-31,2,bottom,Pop Out,Daulton Varsho,Yoshinobu Yamamoto,0,0,2,Daulton Varsho pops out to shortstop Mookie Betts.
-813025,2025-10-31,2,bottom,Flyout,Alejandro Kirk,Yoshinobu Yamamoto,0,0,3,Alejandro Kirk flies out to center fielder Tommy Edman.
-813025,2025-10-31,3,top,Strikeout,Enrique Hernández,Kevin Gausman,0,0,1,Enrique Hernández called out on strikes.
-813025,2025-10-31,3,top,Double,Tommy Edman,Kevin Gausman,0,0,1,Tommy Edman doubles (3) on a sharp line drive to right fielder Addison Barger.
-813025,2025-10-31,3,top,Strikeout,Miguel Rojas,Kevin Gausman,0,0,2,Miguel Rojas called out on strikes.
-813025,2025-10-31,3,top,Intent Walk,Shohei Ohtani,Kevin Gausman,0,0,2,Kevin Gausman intentionally walks Shohei Ohtani.
-813025,2025-10-31,3,top,Double,Will Smith,Kevin Gausman,0,1,2,Will Smith doubles (1) on a fly ball to left fielder Nathan Lukes. Tommy Edman scores. Shohei Ohtani to 3rd.
-813025,2025-10-31,3,top,Walk,Freddie Freeman,Kevin Gausman,0,1,2,Freddie Freeman walks.
-813025,2025-10-31,3,top,Single,Mookie Betts,Kevin Gausman,0,3,2,Mookie Betts singles on a ground ball to left fielder Nathan Lukes. Shohei Ohtani scores. Will Smith scores. Freddie Freeman to 2nd.
-813025,2025-10-31,3,top,Strikeout,Teoscar Hernández,Kevin Gausman,0,3,3,Teoscar Hernández strikes out swinging.
-813025,2025-10-31,3,bottom,Double,Addison Barger,Yoshinobu Yamamoto,0,3,0,Addison Barger doubles (3) on a line drive to left fielder Enrique Hernández.
-813025,2025-10-31,3,bottom,Strikeout,Ernie Clement,Yoshinobu Yamamoto,0,3,1,Ernie Clement strikes out swinging.
-813025,2025-10-31,3,bottom,Groundout,Andrés Giménez,Yoshinobu Yamamoto,0,3,2,"Andrés Giménez grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman. Addison Barger to 3rd."
-813025,2025-10-31,3,bottom,Single,George Springer,Yoshinobu Yamamoto,1,3,2,George Springer singles on a sharp line drive to center fielder Tommy Edman. Addison Barger scores.
-813025,2025-10-31,3,bottom,Flyout,Nathan Lukes,Yoshinobu Yamamoto,1,3,3,Nathan Lukes flies out to left fielder Enrique Hernández.
-813025,2025-10-31,4,top,Groundout,Max Muncy,Kevin Gausman,1,3,1,"Max Muncy grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
-813025,2025-10-31,4,top,Pop Out,Enrique Hernández,Kevin Gausman,1,3,2,Enrique Hernández pops out to second baseman Bo Bichette.
-813025,2025-10-31,4,top,Pop Out,Tommy Edman,Kevin Gausman,1,3,3,Tommy Edman pops out to third baseman Ernie Clement.
-813025,2025-10-31,4,bottom,Strikeout,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,1,3,1,Vladimir Guerrero Jr. called out on strikes.
-813025,2025-10-31,4,bottom,Single,Bo Bichette,Yoshinobu Yamamoto,1,3,1,Bo Bichette singles on a line drive to left fielder Enrique Hernández.
-813025,2025-10-31,4,bottom,Grounded Into DP,Daulton Varsho,Yoshinobu Yamamoto,1,3,3,"Daulton Varsho grounds into a double play, second baseman Miguel Rojas to shortstop Mookie Betts to first baseman Freddie Freeman. Bo Bichette out at 2nd. Daulton Varsho out at 1st."
-813025,2025-10-31,5,top,Flyout,Miguel Rojas,Kevin Gausman,1,3,1,Miguel Rojas flies out to right fielder Addison Barger.
-813025,2025-10-31,5,top,Groundout,Shohei Ohtani,Kevin Gausman,1,3,2,Shohei Ohtani grounds out to first baseman Vladimir Guerrero Jr.
-813025,2025-10-31,5,top,Lineout,Will Smith,Kevin Gausman,1,3,3,Will Smith lines out sharply to left fielder Nathan Lukes.
-813025,2025-10-31,5,bottom,Strikeout,Alejandro Kirk,Yoshinobu Yamamoto,1,3,1,Alejandro Kirk strikes out swinging.
-813025,2025-10-31,5,bottom,Strikeout,Addison Barger,Yoshinobu Yamamoto,1,3,2,Addison Barger called out on strikes.
-813025,2025-10-31,5,bottom,Single,Ernie Clement,Yoshinobu Yamamoto,1,3,2,Ernie Clement singles on a ground ball to shortstop Mookie Betts.
-813025,2025-10-31,5,bottom,Lineout,Andrés Giménez,Yoshinobu Yamamoto,1,3,3,Andrés Giménez lines out to center fielder Tommy Edman.
-813025,2025-10-31,6,top,Pop Out,Freddie Freeman,Kevin Gausman,1,3,1,Freddie Freeman pops out to shortstop Andrés Giménez.
-813025,2025-10-31,6,top,Groundout,Mookie Betts,Kevin Gausman,1,3,2,"Mookie Betts grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
-813025,2025-10-31,6,top,Groundout,Teoscar Hernández,Kevin Gausman,1,3,3,"Teoscar Hernández grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813025,2025-10-31,6,bottom,Groundout,George Springer,Yoshinobu Yamamoto,1,3,1,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813025,2025-10-31,6,bottom,Flyout,Nathan Lukes,Yoshinobu Yamamoto,1,3,2,Nathan Lukes flies out to center fielder Tommy Edman.
-813025,2025-10-31,6,bottom,Double,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,1,3,2,Vladimir Guerrero Jr. doubles (4) on a line drive to left fielder Enrique Hernández.
-813025,2025-10-31,6,bottom,Walk,Bo Bichette,Yoshinobu Yamamoto,1,3,2,Bo Bichette walks.
-813025,2025-10-31,6,bottom,Strikeout,Daulton Varsho,Yoshinobu Yamamoto,1,3,3,Daulton Varsho strikes out swinging.
-813025,2025-10-31,7,top,Lineout,Max Muncy,Louis Varland,1,3,1,Max Muncy lines out to right fielder Addison Barger.
-813025,2025-10-31,7,top,Strikeout,Enrique Hernández,Louis Varland,1,3,2,Enrique Hernández called out on strikes.
-813025,2025-10-31,7,top,Flyout,Tommy Edman,Louis Varland,1,3,3,Tommy Edman flies out to center fielder Daulton Varsho.
-813025,2025-10-31,7,bottom,Strikeout,Alejandro Kirk,Justin Wrobleski,1,3,1,Alejandro Kirk strikes out swinging.
-813025,2025-10-31,7,bottom,Groundout,Addison Barger,Justin Wrobleski,1,3,2,"Addison Barger grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
-813025,2025-10-31,7,bottom,Double,Ernie Clement,Justin Wrobleski,1,3,2,Ernie Clement doubles (5) on a sharp line drive to left fielder Enrique Hernández.
-813025,2025-10-31,7,bottom,Strikeout,Andrés Giménez,Justin Wrobleski,1,3,3,Andrés Giménez strikes out swinging.
-813025,2025-10-31,8,top,Flyout,Miguel Rojas,Louis Varland,1,3,1,Miguel Rojas flies out to right fielder Addison Barger.
-813025,2025-10-31,8,top,Double,Shohei Ohtani,Mason Fluharty,1,3,1,Shohei Ohtani doubles (3) on a sharp fly ball to left fielder Nathan Lukes.
-813025,2025-10-31,8,top,Intent Walk,Will Smith,Mason Fluharty,1,3,1,Mason Fluharty intentionally walks Will Smith.
-813025,2025-10-31,8,top,Flyout,Freddie Freeman,Mason Fluharty,1,3,2,Freddie Freeman flies out sharply to right fielder Addison Barger.
-813025,2025-10-31,8,top,Walk,Mookie Betts,Seranthony Domínguez,1,3,2,Mookie Betts walks. Shohei Ohtani to 3rd. Will Smith to 2nd.
-813025,2025-10-31,8,top,Strikeout,Teoscar Hernández,Seranthony Domínguez,1,3,3,Teoscar Hernández strikes out swinging.
-813025,2025-10-31,8,bottom,Single,George Springer,Roki Sasaki,1,3,0,George Springer singles on a ground ball to right fielder Andy Pages.
-813025,2025-10-31,8,bottom,Flyout,Nathan Lukes,Roki Sasaki,1,3,1,Nathan Lukes flies out to center fielder Tommy Edman.
-813025,2025-10-31,8,bottom,Walk,Vladimir Guerrero Jr.,Roki Sasaki,1,3,1,Vladimir Guerrero Jr. walks. George Springer to 2nd.
-813025,2025-10-31,8,bottom,Pop Out,Bo Bichette,Roki Sasaki,1,3,2,Bo Bichette pops out to shortstop Mookie Betts in foul territory.
-813025,2025-10-31,8,bottom,Groundout,Daulton Varsho,Roki Sasaki,1,3,3,"Daulton Varsho grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
-813025,2025-10-31,9,top,Strikeout,Max Muncy,Chris Bassitt,1,3,1,Max Muncy strikes out swinging.
-813025,2025-10-31,9,top,Strikeout,Enrique Hernández,Chris Bassitt,1,3,2,Enrique Hernández strikes out swinging.
-813025,2025-10-31,9,top,Groundout,Tommy Edman,Chris Bassitt,1,3,3,"Tommy Edman grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813025,2025-10-31,9,bottom,Hit By Pitch,Alejandro Kirk,Roki Sasaki,1,3,0,Alejandro Kirk hit by pitch.
-813025,2025-10-31,9,bottom,Double,Addison Barger,Roki Sasaki,1,3,0,"Blue Jays challenged (grounds rule), call on the field was upheld: Addison Barger hits a ground-rule double (4) on a line drive to left-center field. Myles Straw to 3rd."
-813025,2025-10-31,9,bottom,Pop Out,Ernie Clement,Tyler Glasnow,1,3,1,Ernie Clement pops out to first baseman Freddie Freeman.
-813025,2025-10-31,9,bottom,Double Play,Andrés Giménez,Tyler Glasnow,1,3,3,"Blue Jays challenged (force play), call on the field was upheld: Andrés Giménez lines into a double play, left fielder Enrique Hernández to second baseman Miguel Rojas. Addison Barger out at 2nd."
-813024,2025-11-01,1,top,Single,Shohei Ohtani,Max Scherzer,0,0,0,Shohei Ohtani singles on a sharp line drive to center fielder Daulton Varsho.
-813024,2025-11-01,1,top,Groundout,Will Smith,Max Scherzer,0,0,1,"Will Smith grounds out, first baseman Vladimir Guerrero Jr. to pitcher Max Scherzer. Shohei Ohtani to 2nd."
-813024,2025-11-01,1,top,Flyout,Freddie Freeman,Max Scherzer,0,0,2,Freddie Freeman flies out sharply to center fielder Daulton Varsho. Shohei Ohtani to 3rd.
-813024,2025-11-01,1,top,Groundout,Mookie Betts,Max Scherzer,0,0,3,"Mookie Betts grounds out sharply, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813024,2025-11-01,1,bottom,Single,George Springer,Shohei Ohtani,0,0,0,George Springer singles on a sharp line drive to left fielder Enrique Hernández.
-813024,2025-11-01,1,bottom,Strikeout,Nathan Lukes,Shohei Ohtani,0,0,1,Nathan Lukes strikes out swinging.
-813024,2025-11-01,1,bottom,Strikeout Double Play,Vladimir Guerrero Jr.,Shohei Ohtani,0,0,3,"Vladimir Guerrero Jr. called out on strikes and George Springer caught stealing 2nd, catcher Will Smith to second baseman Miguel Rojas to catcher Will Smith."
-813024,2025-11-01,2,top,Strikeout,Max Muncy,Max Scherzer,0,0,1,Max Muncy strikes out swinging.
-813024,2025-11-01,2,top,Flyout,Teoscar Hernández,Max Scherzer,0,0,2,Teoscar Hernández flies out to right fielder Addison Barger.
-813024,2025-11-01,2,top,Flyout,Tommy Edman,Max Scherzer,0,0,3,Tommy Edman flies out sharply to right fielder Addison Barger.
-813024,2025-11-01,2,bottom,Walk,Bo Bichette,Shohei Ohtani,0,0,0,Bo Bichette walks.
-813024,2025-11-01,2,bottom,Single,Addison Barger,Shohei Ohtani,0,0,0,Addison Barger singles on a line drive to right fielder Teoscar Hernández. Bo Bichette to 2nd.
-813024,2025-11-01,2,bottom,Pop Out,Alejandro Kirk,Shohei Ohtani,0,0,1,Alejandro Kirk pops out to first baseman Freddie Freeman in foul territory.
-813024,2025-11-01,2,bottom,Flyout,Daulton Varsho,Shohei Ohtani,0,0,2,Daulton Varsho flies out to right fielder Teoscar Hernández.
-813024,2025-11-01,2,bottom,Single,Ernie Clement,Shohei Ohtani,0,0,2,Ernie Clement singles on a line drive to right fielder Teoscar Hernández. Bo Bichette to 3rd. Addison Barger to 2nd.
-813024,2025-11-01,2,bottom,Strikeout,Andrés Giménez,Shohei Ohtani,0,0,3,Andrés Giménez strikes out swinging.
-813024,2025-11-01,3,top,Flyout,Enrique Hernández,Max Scherzer,0,0,1,Enrique Hernández flies out to center fielder Daulton Varsho.
-813024,2025-11-01,3,top,Strikeout,Miguel Rojas,Max Scherzer,0,0,2,Miguel Rojas strikes out swinging.
-813024,2025-11-01,3,top,Lineout,Shohei Ohtani,Max Scherzer,0,0,3,Shohei Ohtani lines out sharply to left fielder Nathan Lukes.
-813024,2025-11-01,3,bottom,Single,George Springer,Shohei Ohtani,0,0,0,George Springer singles on a line drive to left fielder Enrique Hernández.
-813024,2025-11-01,3,bottom,Sac Bunt,Nathan Lukes,Shohei Ohtani,0,0,1,"Nathan Lukes out on a sacrifice bunt, pitcher Shohei Ohtani to first baseman Freddie Freeman. George Springer to 2nd."
-813024,2025-11-01,3,bottom,Intent Walk,Vladimir Guerrero Jr.,Shohei Ohtani,0,0,1,Shohei Ohtani intentionally walks Vladimir Guerrero Jr.
-813024,2025-11-01,3,bottom,Home Run,Bo Bichette,Shohei Ohtani,3,0,1,Bo Bichette homers (1) on a fly ball to center field. George Springer scores. Vladimir Guerrero Jr. scores.
-813024,2025-11-01,3,bottom,Single,Addison Barger,Justin Wrobleski,3,0,1,Addison Barger singles on a line drive to center fielder Tommy Edman.
-813024,2025-11-01,3,bottom,Lineout,Alejandro Kirk,Justin Wrobleski,3,0,2,Alejandro Kirk lines out sharply to center fielder Tommy Edman.
-813024,2025-11-01,3,bottom,Strikeout,Daulton Varsho,Justin Wrobleski,3,0,3,Daulton Varsho strikes out swinging.
-813024,2025-11-01,4,top,Double,Will Smith,Max Scherzer,3,0,0,"Will Smith doubles (2) on a sharp fly ball to left fielder Nathan Lukes, deflected by center fielder Daulton Varsho."
-813024,2025-11-01,4,top,Single,Freddie Freeman,Max Scherzer,3,0,0,Freddie Freeman singles on a sharp line drive to right fielder Addison Barger. Will Smith to 3rd.
-813024,2025-11-01,4,top,Flyout,Mookie Betts,Max Scherzer,3,0,1,Mookie Betts flies out to right fielder Addison Barger.
-813024,2025-11-01,4,top,Walk,Max Muncy,Max Scherzer,3,0,1,Max Muncy walks. Freddie Freeman to 2nd.
-813024,2025-11-01,4,top,Sac Fly,Teoscar Hernández,Max Scherzer,3,1,2,Teoscar Hernández out on a sacrifice fly to center fielder Daulton Varsho. Will Smith scores.
-813024,2025-11-01,4,top,Lineout,Tommy Edman,Max Scherzer,3,1,3,Tommy Edman lines out to first baseman Vladimir Guerrero Jr. in foul territory.
-813024,2025-11-01,4,bottom,Groundout,Ernie Clement,Justin Wrobleski,3,1,1,"Ernie Clement grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
-813024,2025-11-01,4,bottom,Hit By Pitch,Andrés Giménez,Justin Wrobleski,3,1,1,Andrés Giménez hit by pitch.
-813024,2025-11-01,4,bottom,Single,George Springer,Justin Wrobleski,3,1,1,"George Springer singles on a line drive to catcher Will Smith, deflected by pitcher Justin Wrobleski. Andrés Giménez to 2nd."
-813024,2025-11-01,4,bottom,Strikeout,Nathan Lukes,Justin Wrobleski,3,1,2,Nathan Lukes strikes out swinging.
-813024,2025-11-01,4,bottom,Lineout,Vladimir Guerrero Jr.,Tyler Glasnow,3,1,3,Vladimir Guerrero Jr. lines out to center fielder Tommy Edman.
-813024,2025-11-01,5,top,Strikeout,Enrique Hernández,Max Scherzer,3,1,1,Enrique Hernández strikes out swinging.
-813024,2025-11-01,5,top,Single,Miguel Rojas,Max Scherzer,3,1,1,Miguel Rojas singles on a line drive to left fielder Nathan Lukes.
-813024,2025-11-01,5,top,Single,Shohei Ohtani,Louis Varland,3,1,1,Shohei Ohtani singles on a sharp ground ball to right fielder Addison Barger. Miguel Rojas to 2nd.
-813024,2025-11-01,5,top,Flyout,Will Smith,Louis Varland,3,1,2,Will Smith flies out to center fielder Daulton Varsho.
-813024,2025-11-01,5,top,Flyout,Freddie Freeman,Louis Varland,3,1,3,Freddie Freeman flies out to center fielder Daulton Varsho.
-813024,2025-11-01,5,bottom,Lineout,Bo Bichette,Tyler Glasnow,3,1,1,Bo Bichette lines out to third baseman Max Muncy.
-813024,2025-11-01,5,bottom,Strikeout,Addison Barger,Tyler Glasnow,3,1,2,Addison Barger strikes out swinging.
-813024,2025-11-01,5,bottom,Single,Alejandro Kirk,Tyler Glasnow,3,1,2,Alejandro Kirk singles on a line drive to center fielder Tommy Edman.
-813024,2025-11-01,5,bottom,Groundout,Daulton Varsho,Tyler Glasnow,3,1,3,"Daulton Varsho grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
-813024,2025-11-01,6,top,Walk,Mookie Betts,Chris Bassitt,3,1,0,Mookie Betts walks.
-813024,2025-11-01,6,top,Single,Max Muncy,Chris Bassitt,3,1,0,Max Muncy singles on a line drive to right fielder Addison Barger. Mookie Betts to 2nd.
-813024,2025-11-01,6,top,Forceout,Teoscar Hernández,Chris Bassitt,3,1,1,"Teoscar Hernández grounds into a force out, pitcher Chris Bassitt to second baseman Bo Bichette. Mookie Betts to 3rd. Max Muncy out at 2nd. Teoscar Hernández to 1st."
-813024,2025-11-01,6,top,Sac Fly,Tommy Edman,Chris Bassitt,3,2,2,Tommy Edman out on a sacrifice fly to center fielder Daulton Varsho. Mookie Betts scores.
-813024,2025-11-01,6,top,Single,Enrique Hernández,Chris Bassitt,3,2,2,Enrique Hernández singles on a ground ball to right fielder Addison Barger. Teoscar Hernández to 2nd.
-813024,2025-11-01,6,top,Groundout,Miguel Rojas,Chris Bassitt,3,2,3,Miguel Rojas grounds out to pitcher Chris Bassitt.
-813024,2025-11-01,6,bottom,Single,Ernie Clement,Tyler Glasnow,3,2,0,Ernie Clement singles on a line drive to left fielder Enrique Hernández.
-813024,2025-11-01,6,bottom,Double,Andrés Giménez,Tyler Glasnow,4,2,0,Andrés Giménez doubles (2) on a line drive to right fielder Teoscar Hernández. Ernie Clement scores.
-813024,2025-11-01,6,bottom,Strikeout,George Springer,Tyler Glasnow,4,2,1,George Springer strikes out swinging.
-813024,2025-11-01,6,bottom,Lineout,Nathan Lukes,Tyler Glasnow,4,2,2,Nathan Lukes lines out sharply to center fielder Tommy Edman. Andrés Giménez to 3rd.
-813024,2025-11-01,6,bottom,Groundout,Vladimir Guerrero Jr.,Tyler Glasnow,4,2,3,"Vladimir Guerrero Jr. grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
-813024,2025-11-01,7,top,Walk,Shohei Ohtani,Trey Yesavage,4,2,0,Shohei Ohtani walks.
-813024,2025-11-01,7,top,Flyout,Will Smith,Trey Yesavage,4,2,1,Will Smith flies out to center fielder Daulton Varsho.
-813024,2025-11-01,7,top,Grounded Into DP,Freddie Freeman,Trey Yesavage,4,2,3,"Freddie Freeman grounds into a double play, first baseman Vladimir Guerrero Jr. to shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr. Shohei Ohtani out at 2nd. Freddie Freeman out at 1st."
-813024,2025-11-01,7,bottom,Strikeout,Bo Bichette,Emmet Sheehan,4,2,1,Bo Bichette strikes out swinging.
-813024,2025-11-01,7,bottom,Groundout,Addison Barger,Emmet Sheehan,4,2,2,Addison Barger grounds out to first baseman Freddie Freeman.
-813024,2025-11-01,7,bottom,Single,Alejandro Kirk,Emmet Sheehan,4,2,2,Alejandro Kirk singles on a sharp line drive to right fielder Teoscar Hernández.
-813024,2025-11-01,7,bottom,Strikeout,Daulton Varsho,Emmet Sheehan,4,2,3,Daulton Varsho strikes out swinging.
-813024,2025-11-01,8,top,Groundout,Mookie Betts,Trey Yesavage,4,2,1,"Mookie Betts grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813024,2025-11-01,8,top,Home Run,Max Muncy,Trey Yesavage,4,3,1,Max Muncy homers (3) on a fly ball to right field.
-813024,2025-11-01,8,top,Groundout,Teoscar Hernández,Trey Yesavage,4,3,2,"Teoscar Hernández grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
-813024,2025-11-01,8,top,Groundout,Tommy Edman,Jeff Hoffman,4,3,3,"Tommy Edman grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
-813024,2025-11-01,8,bottom,Double,Ernie Clement,Emmet Sheehan,4,3,0,Ernie Clement doubles (6) on a line drive to left fielder Enrique Hernández.
-813024,2025-11-01,8,bottom,Lineout,Andrés Giménez,Blake Snell,4,3,1,Andrés Giménez lines out to third baseman Max Muncy.
-813024,2025-11-01,8,bottom,Strikeout,George Springer,Blake Snell,4,3,2,George Springer strikes out swinging.
-813024,2025-11-01,8,bottom,Strikeout,Davis Schneider,Blake Snell,4,3,3,Davis Schneider strikes out swinging.
-813024,2025-11-01,9,top,Strikeout,Enrique Hernández,Jeff Hoffman,4,3,1,Enrique Hernández strikes out swinging.
-813024,2025-11-01,9,top,Home Run,Miguel Rojas,Jeff Hoffman,4,4,1,Miguel Rojas homers (1) on a fly ball to left field.
-813024,2025-11-01,9,top,Flyout,Shohei Ohtani,Jeff Hoffman,4,4,2,Shohei Ohtani flies out sharply to left fielder Myles Straw.
-813024,2025-11-01,9,top,Strikeout,Will Smith,Jeff Hoffman,4,4,3,Will Smith called out on strikes.
-813024,2025-11-01,9,bottom,Flyout,Vladimir Guerrero Jr.,Blake Snell,4,4,1,Vladimir Guerrero Jr. flies out sharply to center fielder Tommy Edman.
-813024,2025-11-01,9,bottom,Single,Bo Bichette,Blake Snell,4,4,1,Bo Bichette singles on a line drive to left fielder Enrique Hernández.
-813024,2025-11-01,9,bottom,Walk,Addison Barger,Blake Snell,4,4,1,Addison Barger walks. Isiah Kiner-Falefa to 2nd.
-813024,2025-11-01,9,bottom,Hit By Pitch,Alejandro Kirk,Yoshinobu Yamamoto,4,4,1,"Dodgers challenged (hit by pitch), call on the field was upheld: Alejandro Kirk hit by pitch. Isiah Kiner-Falefa to 3rd. Addison Barger to 2nd."
-813024,2025-11-01,9,bottom,Forceout,Daulton Varsho,Yoshinobu Yamamoto,4,4,2,"Blue Jays challenged (force play), call on the field was upheld: Daulton Varsho grounds into a force out, second baseman Miguel Rojas to catcher Will Smith. Isiah Kiner-Falefa out at home. Addison Barger to 3rd. Alejandro Kirk to 2nd. Daulton Varsho to 1st."
-813024,2025-11-01,9,bottom,Flyout,Ernie Clement,Yoshinobu Yamamoto,4,4,3,Ernie Clement flies out sharply to center fielder Andy Pages.
-813024,2025-11-01,10,top,Flyout,Freddie Freeman,Seranthony Domínguez,4,4,1,Freddie Freeman flies out to left fielder Myles Straw.
-813024,2025-11-01,10,top,Walk,Mookie Betts,Seranthony Domínguez,4,4,1,Mookie Betts walks.
-813024,2025-11-01,10,top,Single,Max Muncy,Seranthony Domínguez,4,4,1,Max Muncy singles on a sharp ground ball to center fielder Daulton Varsho. Mookie Betts to 2nd.
-813024,2025-11-01,10,top,Walk,Teoscar Hernández,Seranthony Domínguez,4,4,1,Teoscar Hernández walks. Mookie Betts to 3rd. Max Muncy to 2nd.
-813024,2025-11-01,10,top,Forceout,Andy Pages,Seranthony Domínguez,4,4,2,"Andy Pages grounds into a force out, shortstop Andrés Giménez to catcher Alejandro Kirk. Mookie Betts out at home. Max Muncy to 3rd. Teoscar Hernández to 2nd. Andy Pages to 1st."
-813024,2025-11-01,10,top,Groundout,Enrique Hernández,Seranthony Domínguez,4,4,3,"Dodgers challenged (play at 1st), call on the field was upheld: Enrique Hernández grounds out, first baseman Vladimir Guerrero Jr. to pitcher Seranthony Domínguez."
-813024,2025-11-01,10,bottom,Groundout,Andrés Giménez,Yoshinobu Yamamoto,4,4,1,"Andrés Giménez grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
-813024,2025-11-01,10,bottom,Strikeout,George Springer,Yoshinobu Yamamoto,4,4,2,George Springer strikes out swinging.
-813024,2025-11-01,10,bottom,Flyout,Myles Straw,Yoshinobu Yamamoto,4,4,3,Myles Straw flies out to right fielder Teoscar Hernández.
-813024,2025-11-01,11,top,Groundout,Miguel Rojas,Shane Bieber,4,4,1,"Miguel Rojas grounds out softly, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
-813024,2025-11-01,11,top,Groundout,Shohei Ohtani,Shane Bieber,4,4,2,"Shohei Ohtani grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
-813024,2025-11-01,11,top,Home Run,Will Smith,Shane Bieber,4,5,2,Will Smith homers (2) on a fly ball to left field.
-813024,2025-11-01,11,top,Groundout,Freddie Freeman,Shane Bieber,4,5,3,"Freddie Freeman grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
-813024,2025-11-01,11,bottom,Double,Vladimir Guerrero Jr.,Yoshinobu Yamamoto,4,5,0,Vladimir Guerrero Jr. doubles (5) on a line drive to left fielder Enrique Hernández.
-813024,2025-11-01,11,bottom,Sac Bunt,Isiah Kiner-Falefa,Yoshinobu Yamamoto,4,5,1,"Isiah Kiner-Falefa out on a sacrifice bunt, pitcher Yoshinobu Yamamoto to second baseman Hyeseong Kim. Vladimir Guerrero Jr. to 3rd."
-813024,2025-11-01,11,bottom,Walk,Addison Barger,Yoshinobu Yamamoto,4,5,1,Addison Barger walks.
-813024,2025-11-01,11,bottom,Grounded Into DP,Alejandro Kirk,Yoshinobu Yamamoto,4,5,3,"Alejandro Kirk grounds into a double play, shortstop Mookie Betts to first baseman Freddie Freeman. Addison Barger out at 2nd. Alejandro Kirk out at 1st."
+game_id,game_date,inning,half,event,batter,score_home,score_away,outs,description
+813027,2025-10-24,1,top,Strikeout,Shohei Ohtani,0,0,1,Shohei Ohtani strikes out swinging.
+813027,2025-10-24,1,top,Groundout,Mookie Betts,0,0,2,"Mookie Betts grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813027,2025-10-24,1,top,Groundout,Freddie Freeman,0,0,3,"Freddie Freeman grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
+813027,2025-10-24,1,bottom,Groundout,George Springer,0,0,1,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813027,2025-10-24,1,bottom,Pop Out,Davis Schneider,0,0,2,Davis Schneider pops out to shortstop Mookie Betts.
+813027,2025-10-24,1,bottom,Walk,Vladimir Guerrero Jr.,0,0,2,Vladimir Guerrero Jr. walks.
+813027,2025-10-24,1,bottom,Single,Bo Bichette,0,0,2,Bo Bichette singles on a ground ball to right fielder Teoscar Hernández. Vladimir Guerrero Jr. to 3rd.
+813027,2025-10-24,1,bottom,Walk,Alejandro Kirk,0,0,2,Alejandro Kirk walks. Bo Bichette to 2nd.
+813027,2025-10-24,1,bottom,Flyout,Daulton Varsho,0,0,3,Daulton Varsho flies out to center fielder Andy Pages.
+813027,2025-10-24,2,top,Walk,Will Smith,0,0,0,Will Smith walks.
+813027,2025-10-24,2,top,Forceout,Teoscar Hernández,0,0,1,"Teoscar Hernández grounds into a force out, shortstop Andrés Giménez to second baseman Bo Bichette. Will Smith out at 2nd. Teoscar Hernández to 1st."
+813027,2025-10-24,2,top,Single,Max Muncy,0,0,1,Max Muncy singles on a line drive to left fielder Davis Schneider. Teoscar Hernández to 2nd.
+813027,2025-10-24,2,top,Single,Enrique Hernández,0,1,1,Enrique Hernández singles on a sharp ground ball to center fielder Daulton Varsho. Teoscar Hernández scores. Max Muncy to 2nd.
+813027,2025-10-24,2,top,Single,Tommy Edman,0,1,1,Tommy Edman singles on a ground ball to third baseman Ernie Clement. Max Muncy to 3rd. Enrique Hernández to 2nd.
+813027,2025-10-24,2,top,Strikeout,Andy Pages,0,1,2,Andy Pages strikes out swinging.
+813027,2025-10-24,2,top,Groundout,Shohei Ohtani,0,1,3,Shohei Ohtani grounds out to first baseman Vladimir Guerrero Jr.
+813027,2025-10-24,2,bottom,Single,Ernie Clement,0,1,0,Ernie Clement singles on a line drive to left fielder Enrique Hernández.
+813027,2025-10-24,2,bottom,Strikeout,Myles Straw,0,1,1,Myles Straw strikes out on a foul tip.
+813027,2025-10-24,2,bottom,Strikeout,Andrés Giménez,0,1,2,Andrés Giménez strikes out on a foul tip.
+813027,2025-10-24,2,bottom,Single,George Springer,0,1,3,"George Springer singles on a soft ground ball to first baseman Freddie Freeman. Ernie Clement out at 3rd, first baseman Freddie Freeman to pitcher Blake Snell to third baseman Max Muncy."
+813027,2025-10-24,3,top,Walk,Mookie Betts,0,1,0,Mookie Betts walks.
+813027,2025-10-24,3,top,Walk,Freddie Freeman,0,1,0,Freddie Freeman walks. Mookie Betts to 2nd.
+813027,2025-10-24,3,top,Single,Will Smith,0,2,1,"Will Smith singles on a ground ball to right fielder Myles Straw. Mookie Betts scores. Freddie Freeman out at 3rd on the throw, right fielder Myles Straw to shortstop Andrés Giménez to third baseman Ernie Clement. Will Smith to 2nd."
+813027,2025-10-24,3,top,Groundout,Teoscar Hernández,0,2,2,"Teoscar Hernández grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr. Will Smith to 3rd."
+813027,2025-10-24,3,top,Strikeout,Max Muncy,0,2,3,Max Muncy strikes out swinging.
+813027,2025-10-24,3,bottom,Strikeout,Davis Schneider,0,2,1,Davis Schneider strikes out swinging.
+813027,2025-10-24,3,bottom,Single,Vladimir Guerrero Jr.,0,2,1,Vladimir Guerrero Jr. singles on a ground ball to left fielder Enrique Hernández.
+813027,2025-10-24,3,bottom,Grounded Into DP,Bo Bichette,0,2,3,"Bo Bichette grounds into a double play, first baseman Freddie Freeman to shortstop Mookie Betts to first baseman Freddie Freeman. Vladimir Guerrero Jr. out at 2nd. Bo Bichette out at 1st."
+813027,2025-10-24,4,top,Strikeout,Enrique Hernández,0,2,1,Enrique Hernández strikes out swinging.
+813027,2025-10-24,4,top,Strikeout,Tommy Edman,0,2,2,Tommy Edman strikes out swinging.
+813027,2025-10-24,4,top,Flyout,Andy Pages,0,2,3,Andy Pages flies out sharply to right fielder Myles Straw.
+813027,2025-10-24,4,bottom,Single,Alejandro Kirk,0,2,0,Alejandro Kirk singles on a line drive to right fielder Teoscar Hernández.
+813027,2025-10-24,4,bottom,Home Run,Daulton Varsho,2,2,0,Daulton Varsho homers (3) on a fly ball to center field. Alejandro Kirk scores.
+813027,2025-10-24,4,bottom,Flyout,Ernie Clement,2,2,1,Ernie Clement flies out to center fielder Andy Pages.
+813027,2025-10-24,4,bottom,Lineout,Myles Straw,2,2,2,Myles Straw lines out to left fielder Enrique Hernández.
+813027,2025-10-24,4,bottom,Strikeout,Andrés Giménez,2,2,3,Andrés Giménez called out on strikes.
+813027,2025-10-24,5,top,Strikeout,Shohei Ohtani,2,2,1,Shohei Ohtani called out on strikes.
+813027,2025-10-24,5,top,Single,Mookie Betts,2,2,1,Mookie Betts singles on a ground ball to center fielder Daulton Varsho.
+813027,2025-10-24,5,top,Flyout,Freddie Freeman,2,2,2,Freddie Freeman flies out to center fielder Daulton Varsho.
+813027,2025-10-24,5,top,Flyout,Will Smith,2,2,3,Will Smith flies out to right fielder Myles Straw.
+813027,2025-10-24,5,bottom,Single,George Springer,2,2,0,George Springer singles on a line drive to left fielder Enrique Hernández.
+813027,2025-10-24,5,bottom,Grounded Into DP,Davis Schneider,2,2,2,"Davis Schneider grounds into a double play, third baseman Max Muncy to second baseman Tommy Edman to first baseman Freddie Freeman. George Springer out at 2nd. Davis Schneider out at 1st."
+813027,2025-10-24,5,bottom,Groundout,Vladimir Guerrero Jr.,2,2,3,"Vladimir Guerrero Jr. grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
+813027,2025-10-24,6,top,Strikeout,Teoscar Hernández,2,2,1,Teoscar Hernández called out on strikes.
+813027,2025-10-24,6,top,Pop Out,Max Muncy,2,2,2,Max Muncy pops out to third baseman Ernie Clement in foul territory.
+813027,2025-10-24,6,top,Strikeout,Enrique Hernández,2,2,3,Enrique Hernández strikes out swinging.
+813027,2025-10-24,6,bottom,Walk,Bo Bichette,2,2,0,Bo Bichette walks.
+813027,2025-10-24,6,bottom,Single,Alejandro Kirk,2,2,0,Alejandro Kirk singles on a ground ball to right fielder Teoscar Hernández. Isiah Kiner-Falefa to 2nd.
+813027,2025-10-24,6,bottom,Hit By Pitch,Daulton Varsho,2,2,0,Daulton Varsho hit by pitch. Isiah Kiner-Falefa to 3rd. Alejandro Kirk to 2nd.
+813027,2025-10-24,6,bottom,Single,Ernie Clement,3,2,0,Ernie Clement singles on a ground ball to center fielder Andy Pages. Isiah Kiner-Falefa scores. Alejandro Kirk to 3rd. Daulton Varsho to 2nd.
+813027,2025-10-24,6,bottom,Walk,Nathan Lukes,4,2,0,Nathan Lukes walks. Alejandro Kirk scores. Daulton Varsho to 3rd. Ernie Clement to 2nd.
+813027,2025-10-24,6,bottom,Single,Andrés Giménez,5,2,0,Andrés Giménez singles on a sharp line drive to right fielder Teoscar Hernández. Daulton Varsho scores. Ernie Clement to 3rd. Nathan Lukes to 2nd.
+813027,2025-10-24,6,bottom,Forceout,George Springer,5,2,1,"George Springer grounds into a force out, shortstop Mookie Betts to catcher Will Smith. Ernie Clement out at home. Nathan Lukes to 3rd. Andrés Giménez to 2nd. George Springer to 1st."
+813027,2025-10-24,6,bottom,Home Run,Addison Barger,9,2,1,Addison Barger hits a grand slam (3) to center field. Nathan Lukes scores. Andrés Giménez scores. George Springer scores.
+813027,2025-10-24,6,bottom,Single,Vladimir Guerrero Jr.,9,2,1,Vladimir Guerrero Jr. singles on a fly ball to center fielder Andy Pages.
+813027,2025-10-24,6,bottom,Flyout,Isiah Kiner-Falefa,9,2,2,Isiah Kiner-Falefa flies out to left fielder Enrique Hernández.
+813027,2025-10-24,6,bottom,Home Run,Alejandro Kirk,11,2,2,Alejandro Kirk homers (4) on a fly ball to center field. Vladimir Guerrero Jr. scores.
+813027,2025-10-24,6,bottom,Flyout,Daulton Varsho,11,2,3,Daulton Varsho flies out to left fielder Enrique Hernández.
+813027,2025-10-24,7,top,Walk,Tommy Edman,11,2,0,Tommy Edman walks.
+813027,2025-10-24,7,top,Strikeout,Andy Pages,11,2,1,Andy Pages called out on strikes.
+813027,2025-10-24,7,top,Home Run,Shohei Ohtani,11,4,1,Shohei Ohtani homers (6) on a fly ball to right field. Tommy Edman scores.
+813027,2025-10-24,7,top,Strikeout,Mookie Betts,11,4,2,Mookie Betts strikes out swinging.
+813027,2025-10-24,7,top,Flyout,Freddie Freeman,11,4,3,Freddie Freeman flies out to right fielder Addison Barger.
+813027,2025-10-24,7,bottom,Flyout,Ernie Clement,11,4,1,Ernie Clement flies out to center fielder Andy Pages.
+813027,2025-10-24,7,bottom,Groundout,Nathan Lukes,11,4,2,"Nathan Lukes grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
+813027,2025-10-24,7,bottom,Groundout,Andrés Giménez,11,4,3,"Andrés Giménez grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
+813027,2025-10-24,8,top,Groundout,Will Smith,11,4,1,Will Smith grounds out to first baseman Vladimir Guerrero Jr.
+813027,2025-10-24,8,top,Walk,Teoscar Hernández,11,4,1,Teoscar Hernández walks.
+813027,2025-10-24,8,top,Strikeout,Max Muncy,11,4,2,Max Muncy strikes out swinging.
+813027,2025-10-24,8,top,Strikeout,Enrique Hernández,11,4,3,Enrique Hernández strikes out swinging.
+813027,2025-10-24,8,bottom,Flyout,George Springer,11,4,1,George Springer flies out to left fielder Enrique Hernández.
+813027,2025-10-24,8,bottom,Single,Addison Barger,11,4,1,Addison Barger singles on a ground ball to left fielder Enrique Hernández.
+813027,2025-10-24,8,bottom,Flyout,Vladimir Guerrero Jr.,11,4,2,Vladimir Guerrero Jr. flies out to center fielder Andy Pages.
+813027,2025-10-24,8,bottom,Flyout,Isiah Kiner-Falefa,11,4,3,Isiah Kiner-Falefa flies out to left fielder Enrique Hernández.
+813027,2025-10-24,9,top,Pop Out,Tommy Edman,11,4,1,Tommy Edman pops out to catcher Alejandro Kirk in foul territory.
+813027,2025-10-24,9,top,Lineout,Andy Pages,11,4,2,Andy Pages lines out to right fielder Addison Barger.
+813027,2025-10-24,9,top,Walk,Shohei Ohtani,11,4,2,Shohei Ohtani walks.
+813027,2025-10-24,9,top,Strikeout,Mookie Betts,11,4,3,Mookie Betts strikes out swinging.
+813026,2025-10-25,1,top,Flyout,Shohei Ohtani,0,0,1,Shohei Ohtani flies out to left fielder Nathan Lukes.
+813026,2025-10-25,1,top,Flyout,Mookie Betts,0,0,2,Mookie Betts flies out to right fielder Addison Barger.
+813026,2025-10-25,1,top,Double,Freddie Freeman,0,0,2,Freddie Freeman doubles (5) on a line drive to right fielder Addison Barger.
+813026,2025-10-25,1,top,Single,Will Smith,0,1,2,Will Smith singles on a ground ball to center fielder Daulton Varsho. Freddie Freeman scores.
+813026,2025-10-25,1,top,Strikeout,Teoscar Hernández,0,1,3,Teoscar Hernández strikes out swinging.
+813026,2025-10-25,1,bottom,Double,George Springer,0,1,0,George Springer doubles (6) on a sharp line drive to left fielder Enrique Hernández.
+813026,2025-10-25,1,bottom,Single,Nathan Lukes,0,1,0,Nathan Lukes singles on a line drive to left fielder Enrique Hernández. George Springer to 3rd.
+813026,2025-10-25,1,bottom,Strikeout,Vladimir Guerrero Jr.,0,1,1,Vladimir Guerrero Jr. strikes out swinging.
+813026,2025-10-25,1,bottom,Lineout,Alejandro Kirk,0,1,2,Alejandro Kirk lines out to first baseman Freddie Freeman.
+813026,2025-10-25,1,bottom,Strikeout,Daulton Varsho,0,1,3,Daulton Varsho called out on strikes.
+813026,2025-10-25,2,top,Flyout,Max Muncy,0,1,1,Max Muncy flies out to left fielder Nathan Lukes.
+813026,2025-10-25,2,top,Pop Out,Enrique Hernández,0,1,2,Enrique Hernández pops out to second baseman Isiah Kiner-Falefa.
+813026,2025-10-25,2,top,Strikeout,Tommy Edman,0,1,3,Tommy Edman strikes out swinging.
+813026,2025-10-25,2,bottom,Single,Ernie Clement,0,1,0,"Ernie Clement singles on a pop up to pitcher Yoshinobu Yamamoto, deflected by first baseman Freddie Freeman."
+813026,2025-10-25,2,bottom,Strikeout,Addison Barger,0,1,1,Addison Barger called out on strikes.
+813026,2025-10-25,2,bottom,Flyout,Isiah Kiner-Falefa,0,1,2,Isiah Kiner-Falefa flies out to center fielder Andy Pages.
+813026,2025-10-25,2,bottom,Groundout,Andrés Giménez,0,1,3,"Andrés Giménez grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813026,2025-10-25,3,top,Groundout,Andy Pages,0,1,1,"Andy Pages grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
+813026,2025-10-25,3,top,Pop Out,Shohei Ohtani,0,1,2,Shohei Ohtani pops out to third baseman Ernie Clement in foul territory.
+813026,2025-10-25,3,top,Groundout,Mookie Betts,0,1,3,"Mookie Betts grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813026,2025-10-25,3,bottom,Hit By Pitch,George Springer,0,1,0,George Springer hit by pitch.
+813026,2025-10-25,3,bottom,Strikeout,Nathan Lukes,0,1,1,Nathan Lukes strikes out swinging.
+813026,2025-10-25,3,bottom,Single,Vladimir Guerrero Jr.,0,1,1,Vladimir Guerrero Jr. singles on a sharp line drive to left fielder Enrique Hernández. George Springer to 3rd.
+813026,2025-10-25,3,bottom,Sac Fly,Alejandro Kirk,1,1,2,Alejandro Kirk out on a sacrifice fly to center fielder Andy Pages. George Springer scores.
+813026,2025-10-25,3,bottom,Groundout,Daulton Varsho,1,1,3,Daulton Varsho grounds out to first baseman Freddie Freeman.
+813026,2025-10-25,4,top,Flyout,Freddie Freeman,1,1,1,Freddie Freeman flies out sharply to center fielder Daulton Varsho.
+813026,2025-10-25,4,top,Flyout,Will Smith,1,1,2,Will Smith flies out to right fielder Addison Barger.
+813026,2025-10-25,4,top,Strikeout,Teoscar Hernández,1,1,3,Teoscar Hernández called out on strikes.
+813026,2025-10-25,4,bottom,Groundout,Ernie Clement,1,1,1,"Ernie Clement grounds out softly, first baseman Freddie Freeman to pitcher Yoshinobu Yamamoto."
+813026,2025-10-25,4,bottom,Flyout,Addison Barger,1,1,2,Addison Barger flies out to center fielder Andy Pages.
+813026,2025-10-25,4,bottom,Groundout,Isiah Kiner-Falefa,1,1,3,"Isiah Kiner-Falefa grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813026,2025-10-25,5,top,Strikeout,Max Muncy,1,1,1,Max Muncy strikes out swinging.
+813026,2025-10-25,5,top,Strikeout,Enrique Hernández,1,1,2,Enrique Hernández strikes out swinging.
+813026,2025-10-25,5,top,Flyout,Tommy Edman,1,1,3,Tommy Edman flies out to right fielder Addison Barger.
+813026,2025-10-25,5,bottom,Lineout,Andrés Giménez,1,1,1,Andrés Giménez lines out to left fielder Enrique Hernández.
+813026,2025-10-25,5,bottom,Groundout,George Springer,1,1,2,"George Springer grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
+813026,2025-10-25,5,bottom,Groundout,Nathan Lukes,1,1,3,"Nathan Lukes grounds out, pitcher Yoshinobu Yamamoto to first baseman Freddie Freeman."
+813026,2025-10-25,6,top,Lineout,Andy Pages,1,1,1,Andy Pages lines out to right fielder Addison Barger.
+813026,2025-10-25,6,top,Pop Out,Shohei Ohtani,1,1,2,Shohei Ohtani pops out to third baseman Ernie Clement in foul territory.
+813026,2025-10-25,6,top,Pop Out,Mookie Betts,1,1,3,Mookie Betts pops out to first baseman Vladimir Guerrero Jr. in foul territory.
+813026,2025-10-25,6,bottom,Groundout,Vladimir Guerrero Jr.,1,1,1,"Vladimir Guerrero Jr. grounds out sharply, second baseman Tommy Edman to first baseman Freddie Freeman."
+813026,2025-10-25,6,bottom,Strikeout,Alejandro Kirk,1,1,2,Alejandro Kirk strikes out swinging.
+813026,2025-10-25,6,bottom,Pop Out,Daulton Varsho,1,1,3,Daulton Varsho pops out to shortstop Mookie Betts.
+813026,2025-10-25,7,top,Flyout,Freddie Freeman,1,1,1,Freddie Freeman flies out sharply to center fielder Daulton Varsho.
+813026,2025-10-25,7,top,Home Run,Will Smith,1,2,1,Will Smith homers (1) on a fly ball to left field.
+813026,2025-10-25,7,top,Strikeout,Teoscar Hernández,1,2,2,Teoscar Hernández strikes out swinging.
+813026,2025-10-25,7,top,Home Run,Max Muncy,1,3,2,Max Muncy homers (2) on a fly ball to left field.
+813026,2025-10-25,7,top,Flyout,Enrique Hernández,1,3,3,Enrique Hernández flies out to right fielder Addison Barger.
+813026,2025-10-25,7,bottom,Groundout,Ernie Clement,1,3,1,"Ernie Clement grounds out sharply, third baseman Max Muncy to first baseman Freddie Freeman."
+813026,2025-10-25,7,bottom,Groundout,Addison Barger,1,3,2,"Addison Barger grounds out, first baseman Freddie Freeman to pitcher Yoshinobu Yamamoto."
+813026,2025-10-25,7,bottom,Groundout,Bo Bichette,1,3,3,"Bo Bichette grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813026,2025-10-25,8,top,Flyout,Tommy Edman,1,3,1,Tommy Edman flies out to left fielder Nathan Lukes.
+813026,2025-10-25,8,top,Single,Andy Pages,1,3,1,Andy Pages singles on a ground ball to center fielder Daulton Varsho.
+813026,2025-10-25,8,top,Single,Shohei Ohtani,1,3,1,"Blue Jays challenged (tag play), call on the field was upheld: Shohei Ohtani singles on a ground ball to right fielder Addison Barger. Andy Pages to 2nd."
+813026,2025-10-25,8,top,Walk,Mookie Betts,1,3,1,Mookie Betts walks. Andy Pages to 3rd. Shohei Ohtani to 2nd.
+813026,2025-10-25,8,top,Intent Walk,Freddie Freeman,1,4,1,Jeff Hoffman intentionally walks Freddie Freeman.
+813026,2025-10-25,8,top,Forceout,Will Smith,1,5,2,"Will Smith grounds into a force out, shortstop Andrés Giménez to second baseman Bo Bichette. Shohei Ohtani scores. Mookie Betts to 3rd. Freddie Freeman out at 2nd. Will Smith to 1st."
+813026,2025-10-25,8,top,Strikeout,Teoscar Hernández,1,5,3,Teoscar Hernández strikes out swinging.
+813026,2025-10-25,8,bottom,Strikeout,Andrés Giménez,1,5,1,Andrés Giménez strikes out on a foul tip.
+813026,2025-10-25,8,bottom,Strikeout,George Springer,1,5,2,George Springer strikes out swinging.
+813026,2025-10-25,8,bottom,Strikeout,Nathan Lukes,1,5,3,Nathan Lukes called out on strikes.
+813026,2025-10-25,9,top,Walk,Max Muncy,1,5,0,Max Muncy walks.
+813026,2025-10-25,9,top,Pop Out,Enrique Hernández,1,5,1,Enrique Hernández pops out to first baseman Vladimir Guerrero Jr.
+813026,2025-10-25,9,top,Flyout,Tommy Edman,1,5,2,Tommy Edman flies out to right fielder Addison Barger.
+813026,2025-10-25,9,top,Flyout,Andy Pages,1,5,3,Andy Pages flies out to center fielder Daulton Varsho.
+813026,2025-10-25,9,bottom,Groundout,Vladimir Guerrero Jr.,1,5,1,Vladimir Guerrero Jr. grounds out softly to first baseman Freddie Freeman.
+813026,2025-10-25,9,bottom,Lineout,Alejandro Kirk,1,5,2,Alejandro Kirk lines out sharply to center fielder Justin Dean.
+813026,2025-10-25,9,bottom,Pop Out,Daulton Varsho,1,5,3,Daulton Varsho pops out to third baseman Max Muncy.
+813032,2025-10-27,1,top,Strikeout,George Springer,0,0,1,George Springer strikes out swinging.
+813032,2025-10-27,1,top,Flyout,Nathan Lukes,0,0,2,Nathan Lukes flies out to left fielder Enrique Hernández in foul territory.
+813032,2025-10-27,1,top,Flyout,Vladimir Guerrero Jr.,0,0,3,Vladimir Guerrero Jr. flies out to right fielder Teoscar Hernández.
+813032,2025-10-27,1,bottom,Double,Shohei Ohtani,0,0,0,Shohei Ohtani hits a ground-rule double (1) on a line drive down the right-field line.
+813032,2025-10-27,1,bottom,Flyout,Mookie Betts,0,0,1,Mookie Betts flies out to right fielder Addison Barger.
+813032,2025-10-27,1,bottom,Pop Out,Freddie Freeman,0,0,2,Freddie Freeman pops out to third baseman Ernie Clement.
+813032,2025-10-27,1,bottom,Strikeout,Will Smith,0,0,3,Will Smith strikes out swinging.
+813032,2025-10-27,2,top,Single,Bo Bichette,0,0,0,Bo Bichette singles on a line drive to center fielder Andy Pages.
+813032,2025-10-27,2,top,Walk,Daulton Varsho,0,0,1,Daulton Varsho walks.
+813032,2025-10-27,2,top,Single,Alejandro Kirk,0,0,1,Alejandro Kirk singles on a line drive to right fielder Teoscar Hernández. Daulton Varsho to 3rd.
+813032,2025-10-27,2,top,Strikeout,Addison Barger,0,0,2,Addison Barger strikes out swinging.
+813032,2025-10-27,2,top,Lineout,Ernie Clement,0,0,3,Ernie Clement lines out to center fielder Andy Pages.
+813032,2025-10-27,2,bottom,Flyout,Max Muncy,0,0,1,Max Muncy flies out to right fielder Addison Barger.
+813032,2025-10-27,2,bottom,Home Run,Teoscar Hernández,1,0,1,Teoscar Hernández homers (5) on a fly ball to left field.
+813032,2025-10-27,2,bottom,Strikeout,Tommy Edman,1,0,2,Tommy Edman strikes out swinging.
+813032,2025-10-27,2,bottom,Strikeout,Enrique Hernández,1,0,3,Enrique Hernández strikes out swinging.
+813032,2025-10-27,3,top,Groundout,Andrés Giménez,1,0,1,"Andrés Giménez grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
+813032,2025-10-27,3,top,Groundout,George Springer,1,0,2,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813032,2025-10-27,3,top,Strikeout,Nathan Lukes,1,0,3,Nathan Lukes strikes out swinging.
+813032,2025-10-27,3,bottom,Pop Out,Andy Pages,1,0,1,Andy Pages pops out to second baseman Bo Bichette.
+813032,2025-10-27,3,bottom,Home Run,Shohei Ohtani,2,0,1,Shohei Ohtani homers (7) on a fly ball to right field.
+813032,2025-10-27,3,bottom,Flyout,Mookie Betts,2,0,2,Mookie Betts flies out to left fielder Nathan Lukes.
+813032,2025-10-27,3,bottom,Walk,Freddie Freeman,2,0,2,Freddie Freeman walks.
+813032,2025-10-27,3,bottom,Single,Will Smith,2,0,3,"Will Smith singles on a line drive to right fielder Addison Barger. Freddie Freeman out at home on the throw, right fielder Addison Barger to catcher Alejandro Kirk."
+813032,2025-10-27,4,top,Walk,Vladimir Guerrero Jr.,2,0,0,Vladimir Guerrero Jr. walks.
+813032,2025-10-27,4,top,Field Error,Bo Bichette,2,0,0,Bo Bichette reaches on a fielding error by second baseman Tommy Edman. Vladimir Guerrero Jr. to 3rd.
+813032,2025-10-27,4,top,Flyout,Daulton Varsho,2,0,1,Daulton Varsho flies out to left fielder Enrique Hernández.
+813032,2025-10-27,4,top,Home Run,Alejandro Kirk,2,3,1,Alejandro Kirk homers (5) on a fly ball to center field. Vladimir Guerrero Jr. scores. Bo Bichette scores.
+813032,2025-10-27,4,top,Single,Addison Barger,2,3,1,Addison Barger singles on a sharp line drive to right fielder Teoscar Hernández.
+813032,2025-10-27,4,top,Single,Ernie Clement,2,3,1,Ernie Clement singles on a fly ball to right fielder Teoscar Hernández. Addison Barger to 3rd.
+813032,2025-10-27,4,top,Sac Fly,Andrés Giménez,2,4,2,Andrés Giménez out on a sacrifice fly to center fielder Andy Pages. Addison Barger scores. Ernie Clement to 2nd.
+813032,2025-10-27,4,top,Strikeout,George Springer,2,4,3,George Springer strikes out swinging.
+813032,2025-10-27,4,bottom,Groundout,Max Muncy,2,4,1,Max Muncy grounds out to first baseman Vladimir Guerrero Jr.
+813032,2025-10-27,4,bottom,Flyout,Teoscar Hernández,2,4,2,Teoscar Hernández flies out to right fielder Addison Barger.
+813032,2025-10-27,4,bottom,Pop Out,Tommy Edman,2,4,3,Tommy Edman pops out to third baseman Ernie Clement.
+813032,2025-10-27,5,top,Walk,Nathan Lukes,2,4,0,Nathan Lukes walks.
+813032,2025-10-27,5,top,Flyout,Vladimir Guerrero Jr.,2,4,1,Vladimir Guerrero Jr. flies out to right fielder Teoscar Hernández.
+813032,2025-10-27,5,top,Strikeout,Bo Bichette,2,4,2,Bo Bichette called out on strikes.
+813032,2025-10-27,5,top,Pop Out,Daulton Varsho,2,4,3,Daulton Varsho pops out to shortstop Mookie Betts.
+813032,2025-10-27,5,bottom,Single,Enrique Hernández,2,4,0,Enrique Hernández singles on a ground ball to center fielder Daulton Varsho.
+813032,2025-10-27,5,bottom,Flyout,Andy Pages,2,4,1,Andy Pages flies out to right fielder Addison Barger.
+813032,2025-10-27,5,bottom,Double,Shohei Ohtani,3,4,1,Shohei Ohtani doubles (2) on a fly ball to left fielder Nathan Lukes. Enrique Hernández scores.
+813032,2025-10-27,5,bottom,Flyout,Mookie Betts,3,4,2,Mookie Betts flies out to left fielder Nathan Lukes.
+813032,2025-10-27,5,bottom,Single,Freddie Freeman,4,4,2,Freddie Freeman singles on a ground ball to right fielder Addison Barger. Shohei Ohtani scores.
+813032,2025-10-27,5,bottom,Strikeout,Will Smith,4,4,3,Will Smith called out on strikes.
+813032,2025-10-27,6,top,Groundout,Alejandro Kirk,4,4,1,Alejandro Kirk grounds out to first baseman Freddie Freeman.
+813032,2025-10-27,6,top,Single,Addison Barger,4,4,1,"Addison Barger singles on a ground ball to shortstop Mookie Betts, deflected by third baseman Max Muncy."
+813032,2025-10-27,6,top,Strikeout,Ernie Clement,4,4,2,Ernie Clement called out on strikes.
+813032,2025-10-27,6,top,Groundout,Andrés Giménez,4,4,3,"Andrés Giménez grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813032,2025-10-27,6,bottom,Strikeout,Max Muncy,4,4,1,Max Muncy strikes out swinging.
+813032,2025-10-27,6,bottom,Single,Teoscar Hernández,4,4,1,Teoscar Hernández singles on a line drive to left fielder Nathan Lukes.
+813032,2025-10-27,6,bottom,Flyout,Tommy Edman,4,4,2,Tommy Edman flies out to left fielder Nathan Lukes.
+813032,2025-10-27,6,bottom,Single,Enrique Hernández,4,4,3,"Dodgers challenged (tag play), call on the field was upheld: Enrique Hernández singles on a ground ball to shortstop Andrés Giménez. Teoscar Hernández out at 3rd, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr. to third baseman Ernie Clement."
+813032,2025-10-27,7,top,Strikeout,Ty France,4,4,1,Ty France strikes out swinging.
+813032,2025-10-27,7,top,Groundout,Nathan Lukes,4,4,2,"Nathan Lukes grounds out, pitcher Justin Wrobleski to first baseman Freddie Freeman."
+813032,2025-10-27,7,top,Single,Vladimir Guerrero Jr.,4,4,2,Vladimir Guerrero Jr. singles on a ground ball to center fielder Andy Pages.
+813032,2025-10-27,7,top,Single,Bo Bichette,4,5,2,Bo Bichette singles on a ground ball to right fielder Teoscar Hernández. Vladimir Guerrero Jr. scores.
+813032,2025-10-27,7,top,Single,Daulton Varsho,4,5,2,Daulton Varsho singles on a ground ball to third baseman Max Muncy. Isiah Kiner-Falefa to 2nd.
+813032,2025-10-27,7,top,Groundout,Alejandro Kirk,4,5,3,"Alejandro Kirk grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
+813032,2025-10-27,7,bottom,Flyout,Andy Pages,4,5,1,Andy Pages flies out to right fielder Addison Barger.
+813032,2025-10-27,7,bottom,Home Run,Shohei Ohtani,5,5,1,Shohei Ohtani homers (8) on a fly ball to left center field.
+813032,2025-10-27,7,bottom,Strikeout,Mookie Betts,5,5,2,Mookie Betts strikes out swinging.
+813032,2025-10-27,7,bottom,Walk,Freddie Freeman,5,5,2,Freddie Freeman walks.
+813032,2025-10-27,7,bottom,Walk,Will Smith,5,5,2,Will Smith walks. Freddie Freeman to 2nd.
+813032,2025-10-27,7,bottom,Groundout,Max Muncy,5,5,3,"Max Muncy grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
+813032,2025-10-27,8,top,Field Error,Addison Barger,5,5,0,Addison Barger reaches on a throwing error by shortstop Mookie Betts.
+813032,2025-10-27,8,top,Flyout,Ernie Clement,5,5,1,Ernie Clement flies out to right fielder Teoscar Hernández.
+813032,2025-10-27,8,top,Single,Andrés Giménez,5,5,1,Andrés Giménez singles on a line drive to left fielder Enrique Hernández. Myles Straw to 2nd.
+813032,2025-10-27,8,top,Groundout,Ty France,5,5,2,"Ty France grounds out, third baseman Max Muncy to first baseman Freddie Freeman. Myles Straw to 3rd. Andrés Giménez to 2nd."
+813032,2025-10-27,8,top,Groundout,Nathan Lukes,5,5,3,"Nathan Lukes grounds out, pitcher Roki Sasaki to first baseman Freddie Freeman."
+813032,2025-10-27,8,bottom,Flyout,Teoscar Hernández,5,5,1,Teoscar Hernández flies out to center fielder Daulton Varsho.
+813032,2025-10-27,8,bottom,Flyout,Tommy Edman,5,5,2,Tommy Edman flies out to left fielder Myles Straw.
+813032,2025-10-27,8,bottom,Strikeout,Enrique Hernández,5,5,3,Enrique Hernández strikes out swinging.
+813032,2025-10-27,9,top,Flyout,Vladimir Guerrero Jr.,5,5,1,Vladimir Guerrero Jr. flies out to right fielder Teoscar Hernández.
+813032,2025-10-27,9,top,Walk,Isiah Kiner-Falefa,5,5,1,Isiah Kiner-Falefa walks.
+813032,2025-10-27,9,top,Single,Daulton Varsho,5,5,2,"Daulton Varsho singles on a line drive to second baseman Tommy Edman, deflected by first baseman Freddie Freeman. Isiah Kiner-Falefa out at 3rd, second baseman Tommy Edman to third baseman Max Muncy."
+813032,2025-10-27,9,top,Walk,Alejandro Kirk,5,5,2,Alejandro Kirk walks. Daulton Varsho to 2nd.
+813032,2025-10-27,9,top,Forceout,Myles Straw,5,5,3,"Myles Straw grounds into a force out, third baseman Max Muncy to second baseman Tommy Edman. Alejandro Kirk out at 2nd."
+813032,2025-10-27,9,bottom,Pop Out,Andy Pages,5,5,1,Andy Pages pops out to second baseman Isiah Kiner-Falefa.
+813032,2025-10-27,9,bottom,Intent Walk,Shohei Ohtani,5,5,1,Jeff Hoffman intentionally walks Shohei Ohtani.
+813032,2025-10-27,9,bottom,Flyout,Mookie Betts,5,5,3,Mookie Betts flies out to right fielder Nathan Lukes in foul territory.
+813032,2025-10-27,10,top,Pop Out,Ernie Clement,5,5,1,Ernie Clement pops out to first baseman Freddie Freeman in foul territory.
+813032,2025-10-27,10,top,Strikeout,Andrés Giménez,5,5,2,Andrés Giménez strikes out on a foul tip.
+813032,2025-10-27,10,top,Single,Ty France,5,5,2,Ty France singles on a line drive to left fielder Enrique Hernández.
+813032,2025-10-27,10,top,Double,Nathan Lukes,5,5,3,"Blue Jays challenged (tag play), call on the field was upheld: Blue Jays challenged (home-plate collision), call on the field was upheld: Nathan Lukes doubles (4) on a sharp line drive to right fielder Teoscar Hernández. Davis Schneider out at home on the throw, right fielder Teoscar Hernández to second baseman Tommy Edman to catcher Will Smith."
+813032,2025-10-27,10,bottom,Pop Out,Freddie Freeman,5,5,1,Freddie Freeman pops out to third baseman Ernie Clement in foul territory.
+813032,2025-10-27,10,bottom,Hit By Pitch,Will Smith,5,5,1,Will Smith hit by pitch.
+813032,2025-10-27,10,bottom,Strikeout,Max Muncy,5,5,2,Max Muncy called out on strikes.
+813032,2025-10-27,10,bottom,Single,Teoscar Hernández,5,5,2,Teoscar Hernández singles on a sharp line drive to left fielder Myles Straw. Will Smith to 2nd.
+813032,2025-10-27,10,bottom,Pop Out,Tommy Edman,5,5,3,Tommy Edman pops out to first baseman Vladimir Guerrero Jr. in foul territory.
+813032,2025-10-27,11,top,Flyout,Vladimir Guerrero Jr.,5,5,1,Vladimir Guerrero Jr. flies out to center fielder Andy Pages.
+813032,2025-10-27,11,top,Groundout,Isiah Kiner-Falefa,5,5,2,"Isiah Kiner-Falefa grounds out, pitcher Emmet Sheehan to first baseman Freddie Freeman."
+813032,2025-10-27,11,top,Strikeout,Daulton Varsho,5,5,3,Daulton Varsho strikes out swinging.
+813032,2025-10-27,11,bottom,Strikeout,Enrique Hernández,5,5,1,Enrique Hernández strikes out swinging.
+813032,2025-10-27,11,bottom,Lineout,Andy Pages,5,5,2,Andy Pages lines out to third baseman Ernie Clement.
+813032,2025-10-27,11,bottom,Intent Walk,Shohei Ohtani,5,5,2,Braydon Fisher intentionally walks Shohei Ohtani.
+813032,2025-10-27,11,bottom,Single,Mookie Betts,5,5,2,Mookie Betts singles on a ground ball to left fielder Myles Straw. Shohei Ohtani to 2nd.
+813032,2025-10-27,11,bottom,Flyout,Freddie Freeman,5,5,3,Freddie Freeman flies out to left fielder Myles Straw.
+813032,2025-10-27,12,top,Walk,Alejandro Kirk,5,5,0,Alejandro Kirk walks.
+813032,2025-10-27,12,top,Bunt Lineout,Myles Straw,5,5,1,Myles Straw bunt lines out softly to first baseman Freddie Freeman.
+813032,2025-10-27,12,top,Groundout,Ernie Clement,5,5,2,"Ernie Clement grounds out, second baseman Tommy Edman to first baseman Freddie Freeman. Tyler Heineman to 2nd."
+813032,2025-10-27,12,top,Intent Walk,Andrés Giménez,5,5,2,Emmet Sheehan intentionally walks Andrés Giménez.
+813032,2025-10-27,12,top,Single,Davis Schneider,5,5,2,"Umpire reviewed (force play), call on the field was overturned: Davis Schneider singles on a ground ball to third baseman Max Muncy. Tyler Heineman to 3rd. Andrés Giménez to 2nd."
+813032,2025-10-27,12,top,Groundout,Nathan Lukes,5,5,3,"Nathan Lukes grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
+813032,2025-10-27,12,bottom,Strikeout,Will Smith,5,5,1,Will Smith strikes out swinging.
+813032,2025-10-27,12,bottom,Pop Out,Max Muncy,5,5,2,Max Muncy pops out to second baseman Isiah Kiner-Falefa.
+813032,2025-10-27,12,bottom,Pop Out,Teoscar Hernández,5,5,3,Teoscar Hernández pops out to second baseman Isiah Kiner-Falefa.
+813032,2025-10-27,13,top,Groundout,Vladimir Guerrero Jr.,5,5,1,"Vladimir Guerrero Jr. grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813032,2025-10-27,13,top,Strikeout,Isiah Kiner-Falefa,5,5,2,Isiah Kiner-Falefa strikes out swinging.
+813032,2025-10-27,13,top,Hit By Pitch,Daulton Varsho,5,5,2,Daulton Varsho hit by pitch.
+813032,2025-10-27,13,top,Flyout,Tyler Heineman,5,5,3,Tyler Heineman flies out to center fielder Andy Pages.
+813032,2025-10-27,13,bottom,Double,Tommy Edman,5,5,0,Tommy Edman doubles (2) on a line drive to center fielder Daulton Varsho.
+813032,2025-10-27,13,bottom,Sac Bunt,Miguel Rojas,5,5,1,"Miguel Rojas out on a sacrifice bunt, third baseman Ernie Clement to second baseman Isiah Kiner-Falefa. Tommy Edman to 3rd."
+813032,2025-10-27,13,bottom,Pop Out,Alex Call,5,5,2,Alex Call pops out to shortstop Andrés Giménez.
+813032,2025-10-27,13,bottom,Intent Walk,Shohei Ohtani,5,5,2,Eric Lauer intentionally walks Shohei Ohtani.
+813032,2025-10-27,13,bottom,Intent Walk,Mookie Betts,5,5,2,Eric Lauer intentionally walks Mookie Betts. Shohei Ohtani to 2nd.
+813032,2025-10-27,13,bottom,Flyout,Freddie Freeman,5,5,3,Freddie Freeman flies out sharply to center fielder Daulton Varsho.
+813032,2025-10-27,14,top,Flyout,Myles Straw,5,5,1,Myles Straw flies out to center fielder Tommy Edman.
+813032,2025-10-27,14,top,Groundout,Ernie Clement,5,5,2,"Ernie Clement grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
+813032,2025-10-27,14,top,Strikeout,Andrés Giménez,5,5,3,Andrés Giménez strikes out swinging.
+813032,2025-10-27,14,bottom,Flyout,Will Smith,5,5,1,Will Smith flies out sharply to center fielder Daulton Varsho.
+813032,2025-10-27,14,bottom,Walk,Max Muncy,5,5,1,Max Muncy walks.
+813032,2025-10-27,14,bottom,Single,Teoscar Hernández,5,5,1,Teoscar Hernández singles on a ground ball to center fielder Daulton Varsho. Max Muncy to 2nd.
+813032,2025-10-27,14,bottom,Pop Out,Tommy Edman,5,5,2,Tommy Edman pops out to second baseman Isiah Kiner-Falefa on the infield fly rule.
+813032,2025-10-27,14,bottom,Groundout,Miguel Rojas,5,5,3,"Miguel Rojas grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
+813032,2025-10-27,15,top,Strikeout,Davis Schneider,5,5,1,Davis Schneider strikes out swinging.
+813032,2025-10-27,15,top,Groundout,Nathan Lukes,5,5,2,"Nathan Lukes grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813032,2025-10-27,15,top,Single,Vladimir Guerrero Jr.,5,5,2,Vladimir Guerrero Jr. singles on a ground ball to second baseman Miguel Rojas.
+813032,2025-10-27,15,top,Strikeout,Isiah Kiner-Falefa,5,5,3,Isiah Kiner-Falefa called out on strikes.
+813032,2025-10-27,15,bottom,Groundout,Alex Call,5,5,1,"Alex Call grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
+813032,2025-10-27,15,bottom,Intent Walk,Shohei Ohtani,5,5,1,Eric Lauer intentionally walks Shohei Ohtani.
+813032,2025-10-27,15,bottom,Flyout,Mookie Betts,5,5,2,Mookie Betts flies out to right fielder Nathan Lukes.
+813032,2025-10-27,15,bottom,Lineout,Freddie Freeman,5,5,3,Freddie Freeman lines out to center fielder Daulton Varsho.
+813032,2025-10-27,16,top,Groundout,Daulton Varsho,5,5,1,"Daulton Varsho grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
+813032,2025-10-27,16,top,Pop Out,Tyler Heineman,5,5,2,Tyler Heineman pops out softly to pitcher Will Klein.
+813032,2025-10-27,16,top,Strikeout,Myles Straw,5,5,3,Myles Straw strikes out swinging.
+813032,2025-10-27,16,bottom,Strikeout,Will Smith,5,5,1,Will Smith strikes out swinging.
+813032,2025-10-27,16,bottom,Strikeout,Max Muncy,5,5,2,Max Muncy strikes out on a foul tip.
+813032,2025-10-27,16,bottom,Flyout,Teoscar Hernández,5,5,3,Teoscar Hernández flies out to center fielder Daulton Varsho.
+813032,2025-10-27,17,top,Flyout,Ernie Clement,5,5,1,Ernie Clement flies out to center fielder Tommy Edman.
+813032,2025-10-27,17,top,Strikeout,Andrés Giménez,5,5,2,Andrés Giménez strikes out on a foul tip.
+813032,2025-10-27,17,top,Lineout,Davis Schneider,5,5,3,Davis Schneider lines out to pitcher Will Klein.
+813032,2025-10-27,17,bottom,Strikeout,Tommy Edman,5,5,1,Tommy Edman strikes out on a foul tip.
+813032,2025-10-27,17,bottom,Groundout,Miguel Rojas,5,5,2,"Miguel Rojas grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813032,2025-10-27,17,bottom,Single,Alex Call,5,5,2,Alex Call singles on a line drive to center fielder Daulton Varsho.
+813032,2025-10-27,17,bottom,Walk,Shohei Ohtani,5,5,2,Shohei Ohtani walks. Alex Call to 2nd.
+813032,2025-10-27,17,bottom,Pop Out,Mookie Betts,5,5,3,Mookie Betts pops out to first baseman Vladimir Guerrero Jr. in foul territory.
+813032,2025-10-27,18,top,Lineout,Nathan Lukes,5,5,1,Nathan Lukes lines out to first baseman Freddie Freeman.
+813032,2025-10-27,18,top,Walk,Vladimir Guerrero Jr.,5,5,1,Vladimir Guerrero Jr. walks.
+813032,2025-10-27,18,top,Forceout,Isiah Kiner-Falefa,5,5,2,"Umpire reviewed (play at 1st), call on the field was upheld: Isiah Kiner-Falefa grounds into a force out, shortstop Mookie Betts to second baseman Miguel Rojas. Vladimir Guerrero Jr. out at 2nd. Isiah Kiner-Falefa to 1st."
+813032,2025-10-27,18,top,Walk,Daulton Varsho,5,5,2,Daulton Varsho walks. Isiah Kiner-Falefa to 2nd.
+813032,2025-10-27,18,top,Strikeout,Tyler Heineman,5,5,3,Tyler Heineman strikes out swinging.
+813032,2025-10-27,18,bottom,Home Run,Freddie Freeman,6,5,0,Freddie Freeman homers (2) on a fly ball to center field.
+813023,2025-10-28,1,top,Flyout,Nathan Lukes,0,0,1,Nathan Lukes flies out to left fielder Enrique Hernández in foul territory.
+813023,2025-10-28,1,top,Strikeout,Vladimir Guerrero Jr.,0,0,2,Vladimir Guerrero Jr. strikes out swinging.
+813023,2025-10-28,1,top,Walk,Bo Bichette,0,0,2,Bo Bichette walks.
+813023,2025-10-28,1,top,Single,Addison Barger,0,0,2,Addison Barger singles on a ground ball to third baseman Max Muncy. Bo Bichette to 2nd.
+813023,2025-10-28,1,top,Pop Out,Alejandro Kirk,0,0,3,Alejandro Kirk pops out to first baseman Freddie Freeman.
+813023,2025-10-28,1,bottom,Walk,Shohei Ohtani,0,0,0,Shohei Ohtani walks.
+813023,2025-10-28,1,bottom,Flyout,Mookie Betts,0,0,1,Mookie Betts flies out to right fielder Addison Barger.
+813023,2025-10-28,1,bottom,Forceout,Freddie Freeman,0,0,2,"Freddie Freeman grounds into a force out, second baseman Isiah Kiner-Falefa to shortstop Andrés Giménez. Shohei Ohtani out at 2nd. Freddie Freeman to 1st."
+813023,2025-10-28,1,bottom,Flyout,Will Smith,0,0,3,Will Smith flies out to right fielder Addison Barger.
+813023,2025-10-28,2,top,Pop Out,Daulton Varsho,0,0,1,Daulton Varsho pops out to shortstop Mookie Betts.
+813023,2025-10-28,2,top,Groundout,Ernie Clement,0,0,2,"Ernie Clement grounds out softly, first baseman Freddie Freeman to pitcher Shohei Ohtani."
+813023,2025-10-28,2,top,Groundout,Andrés Giménez,0,0,3,"Andrés Giménez grounds out softly, pitcher Shohei Ohtani to first baseman Freddie Freeman."
+813023,2025-10-28,2,bottom,Groundout,Teoscar Hernández,0,0,1,"Teoscar Hernández grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813023,2025-10-28,2,bottom,Walk,Max Muncy,0,0,1,Max Muncy walks.
+813023,2025-10-28,2,bottom,Single,Tommy Edman,0,0,1,Tommy Edman singles on a ground ball to center fielder Daulton Varsho. Max Muncy to 3rd.
+813023,2025-10-28,2,bottom,Sac Fly,Enrique Hernández,1,0,2,Enrique Hernández out on a sacrifice fly to right fielder Addison Barger. Max Muncy scores.
+813023,2025-10-28,2,bottom,Flyout,Andy Pages,1,0,3,Andy Pages flies out to center fielder Daulton Varsho.
+813023,2025-10-28,3,top,Groundout,Isiah Kiner-Falefa,1,0,1,"Isiah Kiner-Falefa grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
+813023,2025-10-28,3,top,Single,Nathan Lukes,1,0,1,Nathan Lukes singles on a sharp line drive to right fielder Teoscar Hernández.
+813023,2025-10-28,3,top,Home Run,Vladimir Guerrero Jr.,1,2,1,Vladimir Guerrero Jr. homers (7) on a fly ball to left center field. Nathan Lukes scores.
+813023,2025-10-28,3,top,Groundout,Bo Bichette,1,2,2,"Bo Bichette grounds out sharply, second baseman Tommy Edman to first baseman Freddie Freeman."
+813023,2025-10-28,3,top,Flyout,Addison Barger,1,2,3,Addison Barger flies out to left fielder Enrique Hernández.
+813023,2025-10-28,3,bottom,Strikeout,Shohei Ohtani,1,2,1,Shohei Ohtani strikes out on a foul tip.
+813023,2025-10-28,3,bottom,Lineout,Mookie Betts,1,2,2,Mookie Betts lines out sharply to third baseman Ernie Clement.
+813023,2025-10-28,3,bottom,Single,Freddie Freeman,1,2,2,Freddie Freeman singles on a line drive to left fielder Nathan Lukes.
+813023,2025-10-28,3,bottom,Groundout,Will Smith,1,2,3,"Will Smith grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
+813023,2025-10-28,4,top,Strikeout,Alejandro Kirk,1,2,1,Alejandro Kirk strikes out swinging.
+813023,2025-10-28,4,top,Strikeout,Daulton Varsho,1,2,2,Daulton Varsho strikes out on a foul tip.
+813023,2025-10-28,4,top,Strikeout,Ernie Clement,1,2,3,Ernie Clement strikes out on a foul tip.
+813023,2025-10-28,4,bottom,Flyout,Teoscar Hernández,1,2,1,Teoscar Hernández flies out to center fielder Daulton Varsho.
+813023,2025-10-28,4,bottom,Strikeout,Max Muncy,1,2,2,Max Muncy strikes out on a foul tip.
+813023,2025-10-28,4,bottom,Walk,Tommy Edman,1,2,2,Tommy Edman walks.
+813023,2025-10-28,4,bottom,Flyout,Enrique Hernández,1,2,3,Enrique Hernández flies out to right fielder Addison Barger.
+813023,2025-10-28,5,top,Strikeout,Andrés Giménez,1,2,1,Andrés Giménez strikes out swinging.
+813023,2025-10-28,5,top,Flyout,Isiah Kiner-Falefa,1,2,2,Isiah Kiner-Falefa flies out to left fielder Enrique Hernández.
+813023,2025-10-28,5,top,Single,Nathan Lukes,1,2,2,Nathan Lukes singles on a sharp ground ball to center fielder Andy Pages.
+813023,2025-10-28,5,top,Lineout,Vladimir Guerrero Jr.,1,2,3,Vladimir Guerrero Jr. lines out to center fielder Andy Pages.
+813023,2025-10-28,5,bottom,Flyout,Andy Pages,1,2,1,Andy Pages flies out to right fielder Addison Barger.
+813023,2025-10-28,5,bottom,Strikeout,Shohei Ohtani,1,2,2,Shohei Ohtani called out on strikes.
+813023,2025-10-28,5,bottom,Lineout,Mookie Betts,1,2,3,Mookie Betts lines out to center fielder Daulton Varsho.
+813023,2025-10-28,6,top,Flyout,Bo Bichette,1,2,1,Bo Bichette flies out to left fielder Enrique Hernández.
+813023,2025-10-28,6,top,Groundout,Addison Barger,1,2,2,"Addison Barger grounds out, pitcher Shohei Ohtani to first baseman Freddie Freeman."
+813023,2025-10-28,6,top,Strikeout,Alejandro Kirk,1,2,3,Alejandro Kirk strikes out on a foul tip.
+813023,2025-10-28,6,bottom,Single,Freddie Freeman,1,2,0,Freddie Freeman singles on a ground ball to first baseman Vladimir Guerrero Jr.
+813023,2025-10-28,6,bottom,Lineout,Will Smith,1,2,1,Will Smith lines out sharply to center fielder Daulton Varsho.
+813023,2025-10-28,6,bottom,Single,Teoscar Hernández,1,2,1,Teoscar Hernández singles on a line drive to center fielder Daulton Varsho. Freddie Freeman to 2nd.
+813023,2025-10-28,6,bottom,Flyout,Max Muncy,1,2,2,Max Muncy flies out to center fielder Daulton Varsho.
+813023,2025-10-28,6,bottom,Strikeout,Tommy Edman,1,2,3,Tommy Edman strikes out swinging.
+813023,2025-10-28,7,top,Single,Daulton Varsho,1,2,0,Daulton Varsho singles on a line drive to right fielder Teoscar Hernández.
+813023,2025-10-28,7,top,Double,Ernie Clement,1,2,0,Ernie Clement doubles (4) on a sharp line drive to center fielder Andy Pages. Daulton Varsho to 3rd.
+813023,2025-10-28,7,top,Single,Andrés Giménez,1,3,0,Andrés Giménez singles on a line drive to left fielder Enrique Hernández. Daulton Varsho scores. Ernie Clement to 3rd.
+813023,2025-10-28,7,top,Lineout,Isiah Kiner-Falefa,1,3,1,"Blue Jays challenged (force play), call on the field was overturned: Isiah Kiner-Falefa lines out to third baseman Max Muncy."
+813023,2025-10-28,7,top,Groundout,Ty France,1,4,2,"Ty France grounds out, second baseman Tommy Edman to first baseman Freddie Freeman. Ernie Clement scores. Andrés Giménez to 2nd."
+813023,2025-10-28,7,top,Intent Walk,Vladimir Guerrero Jr.,1,4,2,Anthony Banda intentionally walks Vladimir Guerrero Jr.
+813023,2025-10-28,7,top,Single,Bo Bichette,1,5,2,Bo Bichette singles on a sharp line drive to left fielder Enrique Hernández. Andrés Giménez scores. Vladimir Guerrero Jr. to 3rd.
+813023,2025-10-28,7,top,Single,Addison Barger,1,6,2,Addison Barger singles on a ground ball to left fielder Enrique Hernández. Vladimir Guerrero Jr. scores. Bo Bichette to 2nd.
+813023,2025-10-28,7,top,Lineout,Alejandro Kirk,1,6,3,Alejandro Kirk lines out to right fielder Teoscar Hernández.
+813023,2025-10-28,7,bottom,Groundout,Enrique Hernández,1,6,1,"Enrique Hernández grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813023,2025-10-28,7,bottom,Strikeout,Alex Call,1,6,2,Alex Call called out on strikes.
+813023,2025-10-28,7,bottom,Groundout,Shohei Ohtani,1,6,3,"Shohei Ohtani grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
+813023,2025-10-28,8,top,Pop Out,Daulton Varsho,1,6,1,Daulton Varsho pops out to third baseman Max Muncy.
+813023,2025-10-28,8,top,Single,Ernie Clement,1,6,1,Ernie Clement singles on a ground ball to first baseman Freddie Freeman.
+813023,2025-10-28,8,top,Hit By Pitch,Andrés Giménez,1,6,1,Andrés Giménez hit by pitch. Ernie Clement to 2nd.
+813023,2025-10-28,8,top,Groundout,Isiah Kiner-Falefa,1,6,2,"Isiah Kiner-Falefa grounds out, shortstop Mookie Betts to first baseman Freddie Freeman. Ernie Clement to 3rd. Andrés Giménez to 2nd."
+813023,2025-10-28,8,top,Strikeout,Myles Straw,1,6,3,Myles Straw strikes out swinging.
+813023,2025-10-28,8,bottom,Single,Mookie Betts,1,6,0,Mookie Betts singles on a line drive to left fielder Myles Straw.
+813023,2025-10-28,8,bottom,Strikeout,Freddie Freeman,1,6,1,Freddie Freeman strikes out swinging.
+813023,2025-10-28,8,bottom,Grounded Into DP,Will Smith,1,6,3,"Will Smith grounds into a double play, shortstop Andrés Giménez to second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr. Mookie Betts out at 2nd. Will Smith out at 1st."
+813023,2025-10-28,9,top,Single,Vladimir Guerrero Jr.,1,6,0,Vladimir Guerrero Jr. singles on a line drive to right fielder Teoscar Hernández.
+813023,2025-10-28,9,top,Groundout,Bo Bichette,1,6,1,Bo Bichette grounds out to first baseman Freddie Freeman. Vladimir Guerrero Jr. to 2nd.
+813023,2025-10-28,9,top,Strikeout,Addison Barger,1,6,2,Addison Barger called out on strikes.
+813023,2025-10-28,9,top,Intent Walk,Alejandro Kirk,1,6,2,Jack Dreyer intentionally walks Alejandro Kirk.
+813023,2025-10-28,9,top,Strikeout,Daulton Varsho,1,6,3,Daulton Varsho called out on strikes.
+813023,2025-10-28,9,bottom,Walk,Teoscar Hernández,1,6,0,Teoscar Hernández walks.
+813023,2025-10-28,9,bottom,Double,Max Muncy,1,6,0,Max Muncy doubles (2) on a sharp line drive to right fielder Addison Barger. Teoscar Hernández to 3rd.
+813023,2025-10-28,9,bottom,Groundout,Tommy Edman,2,6,1,"Tommy Edman grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr. Teoscar Hernández scores."
+813023,2025-10-28,9,bottom,Strikeout,Enrique Hernández,2,6,2,Enrique Hernández strikes out swinging.
+813023,2025-10-28,9,bottom,Lineout,Alex Call,2,6,3,Alex Call lines out to left fielder Myles Straw.
+813022,2025-10-29,1,top,Home Run,Davis Schneider,0,1,0,Davis Schneider homers (1) on a fly ball to left field.
+813022,2025-10-29,1,top,Home Run,Vladimir Guerrero Jr.,0,2,0,Vladimir Guerrero Jr. homers (8) on a fly ball to left field.
+813022,2025-10-29,1,top,Strikeout,Bo Bichette,0,2,1,Bo Bichette strikes out swinging.
+813022,2025-10-29,1,top,Single,Alejandro Kirk,0,2,1,Alejandro Kirk singles on a line drive to center fielder Enrique Hernández.
+813022,2025-10-29,1,top,Forceout,Daulton Varsho,0,2,2,"Blue Jays challenged (play at 1st), call on the field was overturned: Daulton Varsho grounds into a force out, second baseman Tommy Edman to shortstop Mookie Betts. Alejandro Kirk out at 2nd. Daulton Varsho to 1st."
+813022,2025-10-29,1,top,Caught Stealing 2B,Ernie Clement,0,2,3,"Blue Jays challenged (tag play), call on the field was upheld: Daulton Varsho caught stealing 2nd base, catcher Will Smith to second baseman Tommy Edman."
+813022,2025-10-29,1,bottom,Groundout,Shohei Ohtani,0,2,1,"Shohei Ohtani grounds out, pitcher Trey Yesavage to first baseman Vladimir Guerrero Jr."
+813022,2025-10-29,1,bottom,Flyout,Will Smith,0,2,2,Will Smith flies out to left fielder Davis Schneider.
+813022,2025-10-29,1,bottom,Strikeout,Mookie Betts,0,2,3,Mookie Betts strikes out swinging.
+813022,2025-10-29,2,top,Groundout,Ernie Clement,0,2,1,"Ernie Clement grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813022,2025-10-29,2,top,Single,Addison Barger,0,2,1,Addison Barger singles on a ground ball to right fielder Teoscar Hernández.
+813022,2025-10-29,2,top,Flyout,Isiah Kiner-Falefa,0,2,2,Isiah Kiner-Falefa flies out to right fielder Teoscar Hernández in foul territory.
+813022,2025-10-29,2,top,Strikeout,Andrés Giménez,0,2,3,Andrés Giménez strikes out swinging.
+813022,2025-10-29,2,bottom,Strikeout,Freddie Freeman,0,2,1,Freddie Freeman strikes out swinging.
+813022,2025-10-29,2,bottom,Strikeout,Teoscar Hernández,0,2,2,Teoscar Hernández strikes out swinging.
+813022,2025-10-29,2,bottom,Strikeout,Tommy Edman,0,2,3,Tommy Edman strikes out swinging.
+813022,2025-10-29,3,top,Strikeout,Davis Schneider,0,2,1,Davis Schneider strikes out swinging.
+813022,2025-10-29,3,top,Walk,Vladimir Guerrero Jr.,0,2,1,Vladimir Guerrero Jr. walks.
+813022,2025-10-29,3,top,Forceout,Bo Bichette,0,2,2,"Bo Bichette grounds into a force out, shortstop Mookie Betts to second baseman Tommy Edman. Vladimir Guerrero Jr. out at 2nd. Bo Bichette to 1st."
+813022,2025-10-29,3,top,Strikeout,Alejandro Kirk,0,2,3,Alejandro Kirk strikes out swinging.
+813022,2025-10-29,3,bottom,Strikeout,Max Muncy,0,2,1,Max Muncy called out on strikes.
+813022,2025-10-29,3,bottom,Home Run,Enrique Hernández,1,2,1,Enrique Hernández homers (1) on a fly ball to left field.
+813022,2025-10-29,3,bottom,Lineout,Alex Call,1,2,2,Alex Call lines out to center fielder Daulton Varsho.
+813022,2025-10-29,3,bottom,Strikeout,Shohei Ohtani,1,2,3,Shohei Ohtani strikes out swinging.
+813022,2025-10-29,4,top,Triple,Daulton Varsho,1,2,0,Daulton Varsho triples (1) on a line drive to right fielder Teoscar Hernández.
+813022,2025-10-29,4,top,Sac Fly,Ernie Clement,1,3,1,Ernie Clement out on a sacrifice fly to center fielder Enrique Hernández. Daulton Varsho scores.
+813022,2025-10-29,4,top,Walk,Addison Barger,1,3,1,Addison Barger walks.
+813022,2025-10-29,4,top,Strikeout,Isiah Kiner-Falefa,1,3,2,Isiah Kiner-Falefa strikes out swinging.
+813022,2025-10-29,4,top,Strikeout,Andrés Giménez,1,3,3,Andrés Giménez strikes out swinging.
+813022,2025-10-29,4,bottom,Strikeout,Will Smith,1,3,1,Will Smith strikes out on a foul tip.
+813022,2025-10-29,4,bottom,Strikeout,Mookie Betts,1,3,2,Mookie Betts strikes out swinging.
+813022,2025-10-29,4,bottom,Hit By Pitch,Freddie Freeman,1,3,2,Freddie Freeman hit by pitch.
+813022,2025-10-29,4,bottom,Single,Teoscar Hernández,1,3,2,Teoscar Hernández singles on a ground ball to shortstop Andrés Giménez. Freddie Freeman to 2nd.
+813022,2025-10-29,4,bottom,Pop Out,Tommy Edman,1,3,3,Tommy Edman pops out to shortstop Andrés Giménez.
+813022,2025-10-29,5,top,Walk,Davis Schneider,1,3,0,Davis Schneider walks.
+813022,2025-10-29,5,top,Grounded Into DP,Vladimir Guerrero Jr.,1,3,2,"Vladimir Guerrero Jr. grounds into a double play, pitcher Blake Snell to second baseman Tommy Edman to first baseman Freddie Freeman. Davis Schneider out at 2nd. Vladimir Guerrero Jr. out at 1st."
+813022,2025-10-29,5,top,Lineout,Bo Bichette,1,3,3,Bo Bichette lines out to left fielder Alex Call.
+813022,2025-10-29,5,bottom,Groundout,Max Muncy,1,3,1,"Max Muncy grounds out, second baseman Isiah Kiner-Falefa to pitcher Trey Yesavage."
+813022,2025-10-29,5,bottom,Strikeout,Enrique Hernández,1,3,2,Enrique Hernández strikes out swinging.
+813022,2025-10-29,5,bottom,Strikeout,Alex Call,1,3,3,Alex Call strikes out swinging.
+813022,2025-10-29,6,top,Groundout,Alejandro Kirk,1,3,1,"Alejandro Kirk grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
+813022,2025-10-29,6,top,Lineout,Daulton Varsho,1,3,2,Daulton Varsho lines out to right fielder Teoscar Hernández.
+813022,2025-10-29,6,top,Groundout,Ernie Clement,1,3,3,Ernie Clement grounds out to first baseman Freddie Freeman.
+813022,2025-10-29,6,bottom,Lineout,Shohei Ohtani,1,3,1,Shohei Ohtani lines out sharply to right fielder Addison Barger.
+813022,2025-10-29,6,bottom,Strikeout,Will Smith,1,3,2,Will Smith strikes out swinging.
+813022,2025-10-29,6,bottom,Groundout,Mookie Betts,1,3,3,"Mookie Betts grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
+813022,2025-10-29,7,top,Single,Addison Barger,1,3,0,Addison Barger singles on a ground ball to left fielder Alex Call.
+813022,2025-10-29,7,top,Groundout,Isiah Kiner-Falefa,1,3,1,"Isiah Kiner-Falefa grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813022,2025-10-29,7,top,Walk,Andrés Giménez,1,3,1,Andrés Giménez walks.
+813022,2025-10-29,7,top,Strikeout,Davis Schneider,1,3,2,Davis Schneider strikes out swinging.
+813022,2025-10-29,7,top,Walk,Vladimir Guerrero Jr.,1,4,2,Vladimir Guerrero Jr. walks. Addison Barger scores. Andrés Giménez to 2nd. Wild pitch by pitcher Edgardo Henriquez.
+813022,2025-10-29,7,top,Single,Bo Bichette,1,5,2,Bo Bichette singles on a line drive to right fielder Teoscar Hernández. Andrés Giménez scores. Vladimir Guerrero Jr. to 3rd.
+813022,2025-10-29,7,top,Walk,Alejandro Kirk,1,5,2,Alejandro Kirk walks. Bo Bichette to 2nd.
+813022,2025-10-29,7,top,Forceout,Daulton Varsho,1,5,3,"Daulton Varsho grounds into a force out, second baseman Tommy Edman to shortstop Mookie Betts. Alejandro Kirk out at 2nd."
+813022,2025-10-29,7,bottom,Strikeout,Freddie Freeman,1,5,1,Freddie Freeman strikes out swinging.
+813022,2025-10-29,7,bottom,Single,Teoscar Hernández,1,5,1,Teoscar Hernández singles on a soft ground ball to third baseman Ernie Clement.
+813022,2025-10-29,7,bottom,Grounded Into DP,Tommy Edman,1,5,3,"Tommy Edman grounds into a double play, third baseman Ernie Clement to second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr. Teoscar Hernández out at 2nd. Tommy Edman out at 1st."
+813022,2025-10-29,8,top,Single,Ernie Clement,1,5,0,Ernie Clement singles on a sharp line drive to center fielder Enrique Hernández.
+813022,2025-10-29,8,top,Groundout,Addison Barger,1,5,1,"Addison Barger grounds out, second baseman Tommy Edman to first baseman Freddie Freeman. Ernie Clement to 3rd."
+813022,2025-10-29,8,top,Single,Isiah Kiner-Falefa,1,6,1,Isiah Kiner-Falefa singles on a ground ball to left fielder Alex Call. Ernie Clement scores.
+813022,2025-10-29,8,top,Flyout,Andrés Giménez,1,6,2,Andrés Giménez flies out to left fielder Alex Call.
+813022,2025-10-29,8,top,Pop Out,Myles Straw,1,6,3,Myles Straw pops out to first baseman Freddie Freeman.
+813022,2025-10-29,8,bottom,Groundout,Max Muncy,1,6,1,"Max Muncy grounds out, first baseman Vladimir Guerrero Jr. to pitcher Seranthony Domínguez."
+813022,2025-10-29,8,bottom,Strikeout,Enrique Hernández,1,6,2,Enrique Hernández strikes out swinging.
+813022,2025-10-29,8,bottom,Walk,Alex Call,1,6,2,Alex Call walks.
+813022,2025-10-29,8,bottom,Groundout,Shohei Ohtani,1,6,3,Shohei Ohtani grounds out to first baseman Vladimir Guerrero Jr.
+813022,2025-10-29,9,top,Groundout,Vladimir Guerrero Jr.,1,6,1,"Vladimir Guerrero Jr. grounds out, pitcher Blake Treinen to first baseman Freddie Freeman."
+813022,2025-10-29,9,top,Groundout,Bo Bichette,1,6,2,"Bo Bichette grounds out, second baseman Tommy Edman to first baseman Freddie Freeman."
+813022,2025-10-29,9,top,Groundout,Alejandro Kirk,1,6,3,Alejandro Kirk grounds out to first baseman Freddie Freeman.
+813022,2025-10-29,9,bottom,Single,Will Smith,1,6,0,Will Smith singles on a sharp line drive to left fielder Myles Straw.
+813022,2025-10-29,9,bottom,Flyout,Mookie Betts,1,6,1,Mookie Betts flies out to left fielder Myles Straw.
+813022,2025-10-29,9,bottom,Strikeout,Freddie Freeman,1,6,2,Freddie Freeman strikes out swinging.
+813022,2025-10-29,9,bottom,Strikeout,Teoscar Hernández,1,6,3,Teoscar Hernández strikes out swinging.
+813025,2025-10-31,1,top,Strikeout,Shohei Ohtani,0,0,1,Shohei Ohtani strikes out swinging.
+813025,2025-10-31,1,top,Strikeout,Will Smith,0,0,2,Will Smith strikes out swinging.
+813025,2025-10-31,1,top,Strikeout,Freddie Freeman,0,0,3,Freddie Freeman strikes out swinging.
+813025,2025-10-31,1,bottom,Groundout,George Springer,0,0,1,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813025,2025-10-31,1,bottom,Field Error,Nathan Lukes,0,0,1,Nathan Lukes reaches on a fielding error by third baseman Max Muncy.
+813025,2025-10-31,1,bottom,Grounded Into DP,Vladimir Guerrero Jr.,0,0,3,"Vladimir Guerrero Jr. grounds into a double play, third baseman Max Muncy to second baseman Miguel Rojas to first baseman Freddie Freeman. Nathan Lukes out at 2nd. Vladimir Guerrero Jr. out at 1st."
+813025,2025-10-31,2,top,Groundout,Mookie Betts,0,0,1,"Mookie Betts grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
+813025,2025-10-31,2,top,Strikeout,Teoscar Hernández,0,0,2,Teoscar Hernández strikes out swinging.
+813025,2025-10-31,2,top,Strikeout,Max Muncy,0,0,3,Max Muncy strikes out swinging.
+813025,2025-10-31,2,bottom,Strikeout,Bo Bichette,0,0,1,Bo Bichette strikes out swinging.
+813025,2025-10-31,2,bottom,Pop Out,Daulton Varsho,0,0,2,Daulton Varsho pops out to shortstop Mookie Betts.
+813025,2025-10-31,2,bottom,Flyout,Alejandro Kirk,0,0,3,Alejandro Kirk flies out to center fielder Tommy Edman.
+813025,2025-10-31,3,top,Strikeout,Enrique Hernández,0,0,1,Enrique Hernández called out on strikes.
+813025,2025-10-31,3,top,Double,Tommy Edman,0,0,1,Tommy Edman doubles (3) on a sharp line drive to right fielder Addison Barger.
+813025,2025-10-31,3,top,Strikeout,Miguel Rojas,0,0,2,Miguel Rojas called out on strikes.
+813025,2025-10-31,3,top,Intent Walk,Shohei Ohtani,0,0,2,Kevin Gausman intentionally walks Shohei Ohtani.
+813025,2025-10-31,3,top,Double,Will Smith,0,1,2,Will Smith doubles (1) on a fly ball to left fielder Nathan Lukes. Tommy Edman scores. Shohei Ohtani to 3rd.
+813025,2025-10-31,3,top,Walk,Freddie Freeman,0,1,2,Freddie Freeman walks.
+813025,2025-10-31,3,top,Single,Mookie Betts,0,3,2,Mookie Betts singles on a ground ball to left fielder Nathan Lukes. Shohei Ohtani scores. Will Smith scores. Freddie Freeman to 2nd.
+813025,2025-10-31,3,top,Strikeout,Teoscar Hernández,0,3,3,Teoscar Hernández strikes out swinging.
+813025,2025-10-31,3,bottom,Double,Addison Barger,0,3,0,Addison Barger doubles (3) on a line drive to left fielder Enrique Hernández.
+813025,2025-10-31,3,bottom,Strikeout,Ernie Clement,0,3,1,Ernie Clement strikes out swinging.
+813025,2025-10-31,3,bottom,Groundout,Andrés Giménez,0,3,2,"Andrés Giménez grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman. Addison Barger to 3rd."
+813025,2025-10-31,3,bottom,Single,George Springer,1,3,2,George Springer singles on a sharp line drive to center fielder Tommy Edman. Addison Barger scores.
+813025,2025-10-31,3,bottom,Flyout,Nathan Lukes,1,3,3,Nathan Lukes flies out to left fielder Enrique Hernández.
+813025,2025-10-31,4,top,Groundout,Max Muncy,1,3,1,"Max Muncy grounds out, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
+813025,2025-10-31,4,top,Pop Out,Enrique Hernández,1,3,2,Enrique Hernández pops out to second baseman Bo Bichette.
+813025,2025-10-31,4,top,Pop Out,Tommy Edman,1,3,3,Tommy Edman pops out to third baseman Ernie Clement.
+813025,2025-10-31,4,bottom,Strikeout,Vladimir Guerrero Jr.,1,3,1,Vladimir Guerrero Jr. called out on strikes.
+813025,2025-10-31,4,bottom,Single,Bo Bichette,1,3,1,Bo Bichette singles on a line drive to left fielder Enrique Hernández.
+813025,2025-10-31,4,bottom,Grounded Into DP,Daulton Varsho,1,3,3,"Daulton Varsho grounds into a double play, second baseman Miguel Rojas to shortstop Mookie Betts to first baseman Freddie Freeman. Bo Bichette out at 2nd. Daulton Varsho out at 1st."
+813025,2025-10-31,5,top,Flyout,Miguel Rojas,1,3,1,Miguel Rojas flies out to right fielder Addison Barger.
+813025,2025-10-31,5,top,Groundout,Shohei Ohtani,1,3,2,Shohei Ohtani grounds out to first baseman Vladimir Guerrero Jr.
+813025,2025-10-31,5,top,Lineout,Will Smith,1,3,3,Will Smith lines out sharply to left fielder Nathan Lukes.
+813025,2025-10-31,5,bottom,Strikeout,Alejandro Kirk,1,3,1,Alejandro Kirk strikes out swinging.
+813025,2025-10-31,5,bottom,Strikeout,Addison Barger,1,3,2,Addison Barger called out on strikes.
+813025,2025-10-31,5,bottom,Single,Ernie Clement,1,3,2,Ernie Clement singles on a ground ball to shortstop Mookie Betts.
+813025,2025-10-31,5,bottom,Lineout,Andrés Giménez,1,3,3,Andrés Giménez lines out to center fielder Tommy Edman.
+813025,2025-10-31,6,top,Pop Out,Freddie Freeman,1,3,1,Freddie Freeman pops out to shortstop Andrés Giménez.
+813025,2025-10-31,6,top,Groundout,Mookie Betts,1,3,2,"Mookie Betts grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
+813025,2025-10-31,6,top,Groundout,Teoscar Hernández,1,3,3,"Teoscar Hernández grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813025,2025-10-31,6,bottom,Groundout,George Springer,1,3,1,"George Springer grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813025,2025-10-31,6,bottom,Flyout,Nathan Lukes,1,3,2,Nathan Lukes flies out to center fielder Tommy Edman.
+813025,2025-10-31,6,bottom,Double,Vladimir Guerrero Jr.,1,3,2,Vladimir Guerrero Jr. doubles (4) on a line drive to left fielder Enrique Hernández.
+813025,2025-10-31,6,bottom,Walk,Bo Bichette,1,3,2,Bo Bichette walks.
+813025,2025-10-31,6,bottom,Strikeout,Daulton Varsho,1,3,3,Daulton Varsho strikes out swinging.
+813025,2025-10-31,7,top,Lineout,Max Muncy,1,3,1,Max Muncy lines out to right fielder Addison Barger.
+813025,2025-10-31,7,top,Strikeout,Enrique Hernández,1,3,2,Enrique Hernández called out on strikes.
+813025,2025-10-31,7,top,Flyout,Tommy Edman,1,3,3,Tommy Edman flies out to center fielder Daulton Varsho.
+813025,2025-10-31,7,bottom,Strikeout,Alejandro Kirk,1,3,1,Alejandro Kirk strikes out swinging.
+813025,2025-10-31,7,bottom,Groundout,Addison Barger,1,3,2,"Addison Barger grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
+813025,2025-10-31,7,bottom,Double,Ernie Clement,1,3,2,Ernie Clement doubles (5) on a sharp line drive to left fielder Enrique Hernández.
+813025,2025-10-31,7,bottom,Strikeout,Andrés Giménez,1,3,3,Andrés Giménez strikes out swinging.
+813025,2025-10-31,8,top,Flyout,Miguel Rojas,1,3,1,Miguel Rojas flies out to right fielder Addison Barger.
+813025,2025-10-31,8,top,Double,Shohei Ohtani,1,3,1,Shohei Ohtani doubles (3) on a sharp fly ball to left fielder Nathan Lukes.
+813025,2025-10-31,8,top,Intent Walk,Will Smith,1,3,1,Mason Fluharty intentionally walks Will Smith.
+813025,2025-10-31,8,top,Flyout,Freddie Freeman,1,3,2,Freddie Freeman flies out sharply to right fielder Addison Barger.
+813025,2025-10-31,8,top,Walk,Mookie Betts,1,3,2,Mookie Betts walks. Shohei Ohtani to 3rd. Will Smith to 2nd.
+813025,2025-10-31,8,top,Strikeout,Teoscar Hernández,1,3,3,Teoscar Hernández strikes out swinging.
+813025,2025-10-31,8,bottom,Single,George Springer,1,3,0,George Springer singles on a ground ball to right fielder Andy Pages.
+813025,2025-10-31,8,bottom,Flyout,Nathan Lukes,1,3,1,Nathan Lukes flies out to center fielder Tommy Edman.
+813025,2025-10-31,8,bottom,Walk,Vladimir Guerrero Jr.,1,3,1,Vladimir Guerrero Jr. walks. George Springer to 2nd.
+813025,2025-10-31,8,bottom,Pop Out,Bo Bichette,1,3,2,Bo Bichette pops out to shortstop Mookie Betts in foul territory.
+813025,2025-10-31,8,bottom,Groundout,Daulton Varsho,1,3,3,"Daulton Varsho grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
+813025,2025-10-31,9,top,Strikeout,Max Muncy,1,3,1,Max Muncy strikes out swinging.
+813025,2025-10-31,9,top,Strikeout,Enrique Hernández,1,3,2,Enrique Hernández strikes out swinging.
+813025,2025-10-31,9,top,Groundout,Tommy Edman,1,3,3,"Tommy Edman grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813025,2025-10-31,9,bottom,Hit By Pitch,Alejandro Kirk,1,3,0,Alejandro Kirk hit by pitch.
+813025,2025-10-31,9,bottom,Double,Addison Barger,1,3,0,"Blue Jays challenged (grounds rule), call on the field was upheld: Addison Barger hits a ground-rule double (4) on a line drive to left-center field. Myles Straw to 3rd."
+813025,2025-10-31,9,bottom,Pop Out,Ernie Clement,1,3,1,Ernie Clement pops out to first baseman Freddie Freeman.
+813025,2025-10-31,9,bottom,Double Play,Andrés Giménez,1,3,3,"Blue Jays challenged (force play), call on the field was upheld: Andrés Giménez lines into a double play, left fielder Enrique Hernández to second baseman Miguel Rojas. Addison Barger out at 2nd."
+813024,2025-11-01,1,top,Single,Shohei Ohtani,0,0,0,Shohei Ohtani singles on a sharp line drive to center fielder Daulton Varsho.
+813024,2025-11-01,1,top,Groundout,Will Smith,0,0,1,"Will Smith grounds out, first baseman Vladimir Guerrero Jr. to pitcher Max Scherzer. Shohei Ohtani to 2nd."
+813024,2025-11-01,1,top,Flyout,Freddie Freeman,0,0,2,Freddie Freeman flies out sharply to center fielder Daulton Varsho. Shohei Ohtani to 3rd.
+813024,2025-11-01,1,top,Groundout,Mookie Betts,0,0,3,"Mookie Betts grounds out sharply, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813024,2025-11-01,1,bottom,Single,George Springer,0,0,0,George Springer singles on a sharp line drive to left fielder Enrique Hernández.
+813024,2025-11-01,1,bottom,Strikeout,Nathan Lukes,0,0,1,Nathan Lukes strikes out swinging.
+813024,2025-11-01,1,bottom,Strikeout Double Play,Vladimir Guerrero Jr.,0,0,3,"Vladimir Guerrero Jr. called out on strikes and George Springer caught stealing 2nd, catcher Will Smith to second baseman Miguel Rojas to catcher Will Smith."
+813024,2025-11-01,2,top,Strikeout,Max Muncy,0,0,1,Max Muncy strikes out swinging.
+813024,2025-11-01,2,top,Flyout,Teoscar Hernández,0,0,2,Teoscar Hernández flies out to right fielder Addison Barger.
+813024,2025-11-01,2,top,Flyout,Tommy Edman,0,0,3,Tommy Edman flies out sharply to right fielder Addison Barger.
+813024,2025-11-01,2,bottom,Walk,Bo Bichette,0,0,0,Bo Bichette walks.
+813024,2025-11-01,2,bottom,Single,Addison Barger,0,0,0,Addison Barger singles on a line drive to right fielder Teoscar Hernández. Bo Bichette to 2nd.
+813024,2025-11-01,2,bottom,Pop Out,Alejandro Kirk,0,0,1,Alejandro Kirk pops out to first baseman Freddie Freeman in foul territory.
+813024,2025-11-01,2,bottom,Flyout,Daulton Varsho,0,0,2,Daulton Varsho flies out to right fielder Teoscar Hernández.
+813024,2025-11-01,2,bottom,Single,Ernie Clement,0,0,2,Ernie Clement singles on a line drive to right fielder Teoscar Hernández. Bo Bichette to 3rd. Addison Barger to 2nd.
+813024,2025-11-01,2,bottom,Strikeout,Andrés Giménez,0,0,3,Andrés Giménez strikes out swinging.
+813024,2025-11-01,3,top,Flyout,Enrique Hernández,0,0,1,Enrique Hernández flies out to center fielder Daulton Varsho.
+813024,2025-11-01,3,top,Strikeout,Miguel Rojas,0,0,2,Miguel Rojas strikes out swinging.
+813024,2025-11-01,3,top,Lineout,Shohei Ohtani,0,0,3,Shohei Ohtani lines out sharply to left fielder Nathan Lukes.
+813024,2025-11-01,3,bottom,Single,George Springer,0,0,0,George Springer singles on a line drive to left fielder Enrique Hernández.
+813024,2025-11-01,3,bottom,Sac Bunt,Nathan Lukes,0,0,1,"Nathan Lukes out on a sacrifice bunt, pitcher Shohei Ohtani to first baseman Freddie Freeman. George Springer to 2nd."
+813024,2025-11-01,3,bottom,Intent Walk,Vladimir Guerrero Jr.,0,0,1,Shohei Ohtani intentionally walks Vladimir Guerrero Jr.
+813024,2025-11-01,3,bottom,Home Run,Bo Bichette,3,0,1,Bo Bichette homers (1) on a fly ball to center field. George Springer scores. Vladimir Guerrero Jr. scores.
+813024,2025-11-01,3,bottom,Single,Addison Barger,3,0,1,Addison Barger singles on a line drive to center fielder Tommy Edman.
+813024,2025-11-01,3,bottom,Lineout,Alejandro Kirk,3,0,2,Alejandro Kirk lines out sharply to center fielder Tommy Edman.
+813024,2025-11-01,3,bottom,Strikeout,Daulton Varsho,3,0,3,Daulton Varsho strikes out swinging.
+813024,2025-11-01,4,top,Double,Will Smith,3,0,0,"Will Smith doubles (2) on a sharp fly ball to left fielder Nathan Lukes, deflected by center fielder Daulton Varsho."
+813024,2025-11-01,4,top,Single,Freddie Freeman,3,0,0,Freddie Freeman singles on a sharp line drive to right fielder Addison Barger. Will Smith to 3rd.
+813024,2025-11-01,4,top,Flyout,Mookie Betts,3,0,1,Mookie Betts flies out to right fielder Addison Barger.
+813024,2025-11-01,4,top,Walk,Max Muncy,3,0,1,Max Muncy walks. Freddie Freeman to 2nd.
+813024,2025-11-01,4,top,Sac Fly,Teoscar Hernández,3,1,2,Teoscar Hernández out on a sacrifice fly to center fielder Daulton Varsho. Will Smith scores.
+813024,2025-11-01,4,top,Lineout,Tommy Edman,3,1,3,Tommy Edman lines out to first baseman Vladimir Guerrero Jr. in foul territory.
+813024,2025-11-01,4,bottom,Groundout,Ernie Clement,3,1,1,"Ernie Clement grounds out, shortstop Mookie Betts to first baseman Freddie Freeman."
+813024,2025-11-01,4,bottom,Hit By Pitch,Andrés Giménez,3,1,1,Andrés Giménez hit by pitch.
+813024,2025-11-01,4,bottom,Single,George Springer,3,1,1,"George Springer singles on a line drive to catcher Will Smith, deflected by pitcher Justin Wrobleski. Andrés Giménez to 2nd."
+813024,2025-11-01,4,bottom,Strikeout,Nathan Lukes,3,1,2,Nathan Lukes strikes out swinging.
+813024,2025-11-01,4,bottom,Lineout,Vladimir Guerrero Jr.,3,1,3,Vladimir Guerrero Jr. lines out to center fielder Tommy Edman.
+813024,2025-11-01,5,top,Strikeout,Enrique Hernández,3,1,1,Enrique Hernández strikes out swinging.
+813024,2025-11-01,5,top,Single,Miguel Rojas,3,1,1,Miguel Rojas singles on a line drive to left fielder Nathan Lukes.
+813024,2025-11-01,5,top,Single,Shohei Ohtani,3,1,1,Shohei Ohtani singles on a sharp ground ball to right fielder Addison Barger. Miguel Rojas to 2nd.
+813024,2025-11-01,5,top,Flyout,Will Smith,3,1,2,Will Smith flies out to center fielder Daulton Varsho.
+813024,2025-11-01,5,top,Flyout,Freddie Freeman,3,1,3,Freddie Freeman flies out to center fielder Daulton Varsho.
+813024,2025-11-01,5,bottom,Lineout,Bo Bichette,3,1,1,Bo Bichette lines out to third baseman Max Muncy.
+813024,2025-11-01,5,bottom,Strikeout,Addison Barger,3,1,2,Addison Barger strikes out swinging.
+813024,2025-11-01,5,bottom,Single,Alejandro Kirk,3,1,2,Alejandro Kirk singles on a line drive to center fielder Tommy Edman.
+813024,2025-11-01,5,bottom,Groundout,Daulton Varsho,3,1,3,"Daulton Varsho grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
+813024,2025-11-01,6,top,Walk,Mookie Betts,3,1,0,Mookie Betts walks.
+813024,2025-11-01,6,top,Single,Max Muncy,3,1,0,Max Muncy singles on a line drive to right fielder Addison Barger. Mookie Betts to 2nd.
+813024,2025-11-01,6,top,Forceout,Teoscar Hernández,3,1,1,"Teoscar Hernández grounds into a force out, pitcher Chris Bassitt to second baseman Bo Bichette. Mookie Betts to 3rd. Max Muncy out at 2nd. Teoscar Hernández to 1st."
+813024,2025-11-01,6,top,Sac Fly,Tommy Edman,3,2,2,Tommy Edman out on a sacrifice fly to center fielder Daulton Varsho. Mookie Betts scores.
+813024,2025-11-01,6,top,Single,Enrique Hernández,3,2,2,Enrique Hernández singles on a ground ball to right fielder Addison Barger. Teoscar Hernández to 2nd.
+813024,2025-11-01,6,top,Groundout,Miguel Rojas,3,2,3,Miguel Rojas grounds out to pitcher Chris Bassitt.
+813024,2025-11-01,6,bottom,Single,Ernie Clement,3,2,0,Ernie Clement singles on a line drive to left fielder Enrique Hernández.
+813024,2025-11-01,6,bottom,Double,Andrés Giménez,4,2,0,Andrés Giménez doubles (2) on a line drive to right fielder Teoscar Hernández. Ernie Clement scores.
+813024,2025-11-01,6,bottom,Strikeout,George Springer,4,2,1,George Springer strikes out swinging.
+813024,2025-11-01,6,bottom,Lineout,Nathan Lukes,4,2,2,Nathan Lukes lines out sharply to center fielder Tommy Edman. Andrés Giménez to 3rd.
+813024,2025-11-01,6,bottom,Groundout,Vladimir Guerrero Jr.,4,2,3,"Vladimir Guerrero Jr. grounds out, third baseman Max Muncy to first baseman Freddie Freeman."
+813024,2025-11-01,7,top,Walk,Shohei Ohtani,4,2,0,Shohei Ohtani walks.
+813024,2025-11-01,7,top,Flyout,Will Smith,4,2,1,Will Smith flies out to center fielder Daulton Varsho.
+813024,2025-11-01,7,top,Grounded Into DP,Freddie Freeman,4,2,3,"Freddie Freeman grounds into a double play, first baseman Vladimir Guerrero Jr. to shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr. Shohei Ohtani out at 2nd. Freddie Freeman out at 1st."
+813024,2025-11-01,7,bottom,Strikeout,Bo Bichette,4,2,1,Bo Bichette strikes out swinging.
+813024,2025-11-01,7,bottom,Groundout,Addison Barger,4,2,2,Addison Barger grounds out to first baseman Freddie Freeman.
+813024,2025-11-01,7,bottom,Single,Alejandro Kirk,4,2,2,Alejandro Kirk singles on a sharp line drive to right fielder Teoscar Hernández.
+813024,2025-11-01,7,bottom,Strikeout,Daulton Varsho,4,2,3,Daulton Varsho strikes out swinging.
+813024,2025-11-01,8,top,Groundout,Mookie Betts,4,2,1,"Mookie Betts grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813024,2025-11-01,8,top,Home Run,Max Muncy,4,3,1,Max Muncy homers (3) on a fly ball to right field.
+813024,2025-11-01,8,top,Groundout,Teoscar Hernández,4,3,2,"Teoscar Hernández grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
+813024,2025-11-01,8,top,Groundout,Tommy Edman,4,3,3,"Tommy Edman grounds out, second baseman Bo Bichette to first baseman Vladimir Guerrero Jr."
+813024,2025-11-01,8,bottom,Double,Ernie Clement,4,3,0,Ernie Clement doubles (6) on a line drive to left fielder Enrique Hernández.
+813024,2025-11-01,8,bottom,Lineout,Andrés Giménez,4,3,1,Andrés Giménez lines out to third baseman Max Muncy.
+813024,2025-11-01,8,bottom,Strikeout,George Springer,4,3,2,George Springer strikes out swinging.
+813024,2025-11-01,8,bottom,Strikeout,Davis Schneider,4,3,3,Davis Schneider strikes out swinging.
+813024,2025-11-01,9,top,Strikeout,Enrique Hernández,4,3,1,Enrique Hernández strikes out swinging.
+813024,2025-11-01,9,top,Home Run,Miguel Rojas,4,4,1,Miguel Rojas homers (1) on a fly ball to left field.
+813024,2025-11-01,9,top,Flyout,Shohei Ohtani,4,4,2,Shohei Ohtani flies out sharply to left fielder Myles Straw.
+813024,2025-11-01,9,top,Strikeout,Will Smith,4,4,3,Will Smith called out on strikes.
+813024,2025-11-01,9,bottom,Flyout,Vladimir Guerrero Jr.,4,4,1,Vladimir Guerrero Jr. flies out sharply to center fielder Tommy Edman.
+813024,2025-11-01,9,bottom,Single,Bo Bichette,4,4,1,Bo Bichette singles on a line drive to left fielder Enrique Hernández.
+813024,2025-11-01,9,bottom,Walk,Addison Barger,4,4,1,Addison Barger walks. Isiah Kiner-Falefa to 2nd.
+813024,2025-11-01,9,bottom,Hit By Pitch,Alejandro Kirk,4,4,1,"Dodgers challenged (hit by pitch), call on the field was upheld: Alejandro Kirk hit by pitch. Isiah Kiner-Falefa to 3rd. Addison Barger to 2nd."
+813024,2025-11-01,9,bottom,Forceout,Daulton Varsho,4,4,2,"Blue Jays challenged (force play), call on the field was upheld: Daulton Varsho grounds into a force out, second baseman Miguel Rojas to catcher Will Smith. Isiah Kiner-Falefa out at home. Addison Barger to 3rd. Alejandro Kirk to 2nd. Daulton Varsho to 1st."
+813024,2025-11-01,9,bottom,Flyout,Ernie Clement,4,4,3,Ernie Clement flies out sharply to center fielder Andy Pages.
+813024,2025-11-01,10,top,Flyout,Freddie Freeman,4,4,1,Freddie Freeman flies out to left fielder Myles Straw.
+813024,2025-11-01,10,top,Walk,Mookie Betts,4,4,1,Mookie Betts walks.
+813024,2025-11-01,10,top,Single,Max Muncy,4,4,1,Max Muncy singles on a sharp ground ball to center fielder Daulton Varsho. Mookie Betts to 2nd.
+813024,2025-11-01,10,top,Walk,Teoscar Hernández,4,4,1,Teoscar Hernández walks. Mookie Betts to 3rd. Max Muncy to 2nd.
+813024,2025-11-01,10,top,Forceout,Andy Pages,4,4,2,"Andy Pages grounds into a force out, shortstop Andrés Giménez to catcher Alejandro Kirk. Mookie Betts out at home. Max Muncy to 3rd. Teoscar Hernández to 2nd. Andy Pages to 1st."
+813024,2025-11-01,10,top,Groundout,Enrique Hernández,4,4,3,"Dodgers challenged (play at 1st), call on the field was upheld: Enrique Hernández grounds out, first baseman Vladimir Guerrero Jr. to pitcher Seranthony Domínguez."
+813024,2025-11-01,10,bottom,Groundout,Andrés Giménez,4,4,1,"Andrés Giménez grounds out, second baseman Miguel Rojas to first baseman Freddie Freeman."
+813024,2025-11-01,10,bottom,Strikeout,George Springer,4,4,2,George Springer strikes out swinging.
+813024,2025-11-01,10,bottom,Flyout,Myles Straw,4,4,3,Myles Straw flies out to right fielder Teoscar Hernández.
+813024,2025-11-01,11,top,Groundout,Miguel Rojas,4,4,1,"Miguel Rojas grounds out softly, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr."
+813024,2025-11-01,11,top,Groundout,Shohei Ohtani,4,4,2,"Shohei Ohtani grounds out, second baseman Isiah Kiner-Falefa to first baseman Vladimir Guerrero Jr."
+813024,2025-11-01,11,top,Home Run,Will Smith,4,5,2,Will Smith homers (2) on a fly ball to left field.
+813024,2025-11-01,11,top,Groundout,Freddie Freeman,4,5,3,"Freddie Freeman grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr."
+813024,2025-11-01,11,bottom,Double,Vladimir Guerrero Jr.,4,5,0,Vladimir Guerrero Jr. doubles (5) on a line drive to left fielder Enrique Hernández.
+813024,2025-11-01,11,bottom,Sac Bunt,Isiah Kiner-Falefa,4,5,1,"Isiah Kiner-Falefa out on a sacrifice bunt, pitcher Yoshinobu Yamamoto to second baseman Hyeseong Kim. Vladimir Guerrero Jr. to 3rd."
+813024,2025-11-01,11,bottom,Walk,Addison Barger,4,5,1,Addison Barger walks.
+813024,2025-11-01,11,bottom,Grounded Into DP,Alejandro Kirk,4,5,3,"Alejandro Kirk grounds into a double play, shortstop Mookie Betts to first baseman Freddie Freeman. Addison Barger out at 2nd. Alejandro Kirk out at 1st."
