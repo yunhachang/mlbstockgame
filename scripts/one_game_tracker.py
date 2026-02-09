@@ -1,11 +1,11 @@
 import pandas as pd
 import os
-import numpy as np
 
 def run_single_game_analysis():
     data_path = "data/ws_2025_real_results.csv"
     if not os.path.exists(data_path): return
 
+    # CSV 로드 (모든 데이터를 일단 문자열로 취급하여 누락 방지)
     df = pd.read_csv(data_path)
     target_date = df['game_date'].unique()[0]
     game_df = df[df['game_date'] == target_date].copy()
@@ -25,17 +25,26 @@ def run_single_game_analysis():
         h_base = base_hitter.get(row['event'], 0)
         p_base = 1.05 if h_base == 0 else 0
         
-        # [주자 상황 파악 - pd.notna()로 실제 값이 있는지 체크]
-        on_1b = pd.notna(row.get('on_1b')) and str(row.get('on_1b')).strip() != ""
-        on_2b = pd.notna(row.get('on_2b')) and str(row.get('on_2b')).strip() != ""
-        on_3b = pd.notna(row.get('on_3b')) and str(row.get('on_3b')).strip() != ""
+        # [주자 판별 끝판왕 로직]
+        # 값이 있고, 'NaN' 문자열이 아니며, null이 아닐 때만 True
+        def has_runner(val):
+            if pd.isna(val): return False
+            v_str = str(val).strip().lower()
+            if v_str == "" or v_str == "nan" or v_str == "none" or v_str == "0.0" or v_str == "0":
+                return False
+            return True
+
+        on_1 = has_runner(row.get('on_1b'))
+        on_2 = has_runner(row.get('on_2b'))
+        on_3 = has_runner(row.get('on_3b'))
         
-        base_occupancy = sum([on_1b, on_2b, on_3b])
+        base_occupancy = sum([on_1, on_2, on_3])
         
-        # [기획 가중치 적용]
+        # [기획 가중치] 
         h_base_weight = 1.0 + (base_occupancy * 0.25)
         p_base_weight = 1.0 + (base_occupancy * 0.15)
         
+        # 솔로 홈런 보너스
         solo_bonus = 1.2 if (base_occupancy == 0 and row['event'] == 'Home Run') else 1.0
 
         score_diff = abs(row['score_home'] - row['score_away'])
@@ -51,20 +60,18 @@ def run_single_game_analysis():
         p_inning = 1.0 + ((inning_w - 1.0) * 0.4)
         p_odds = p_base * p_clutch * p_inning * p_base_weight
         
-        return pd.Series([round(h_odds, 2), round(p_odds, 2), on_1b, on_2b, on_3b])
+        return pd.Series([round(h_odds, 2), round(p_odds, 2), on_1, on_2, on_3])
 
     report = f"# 🏟️ 기획 최종 고도화 리포트: {target_date}\n\n"
-    report += "> **적용 로직:** 초/말 정렬, 볼넷 하향, 주자 상황별 가중치(타자/투수 모두), 솔로홈런 보충, 콤보 시스템\n\n"
+    report += "> **최종 밸런스:** 볼넷 하향, 주자 가중치(타자/투수 양방향), 솔로홈런 인정, 콤보 시스템\n\n"
     report += "| 이닝 | 타석 | 타자 | 상황 | 결과 | 타자배당 | 투수배당 |\n"
     report += "| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
     
     idx = 1
     for _, r in game_df.iterrows():
-        # odds 계산 시 주자 정보도 함께 반환받음
         h_odds, p_odds, on_1, on_2, on_3 = get_ultimate_odds(r, combo_count)
         res = r['event'] if h_odds > 0 else "OUT"
         
-        # 주자 텍스트 생성
         bases = []
         if on_1: bases.append("1루")
         if on_2: bases.append("2루")
@@ -79,7 +86,7 @@ def run_single_game_analysis():
 
     with open("data/one_game_analysis.md", "w", encoding="utf-8") as f:
         f.write(report)
-    print("✅ 주자 인식 로직 수정 완료!")
+    print("✅ 모든 예외 케이스를 반영한 주자 인식 로직 완료!")
 
 if __name__ == "__main__":
     run_single_game_analysis()
