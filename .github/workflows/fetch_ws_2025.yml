@@ -1,17 +1,17 @@
-name: Fetch WS 2025 Data
+name: Update 2025 WS Data
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # 수동 실행
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정 자동 갱신 (선택 사항)
 
 jobs:
-  build:
+  update-data:
     runs-on: ubuntu-latest
     steps:
-      # actions/checkout@v4 (안정적인 SHA)
       - name: Checkout Repository
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 
 
-      # actions/setup-python@v5 (안정적인 SHA)
       - name: Set up Python
         uses: actions/setup-python@f677139bee7ef9c59560c30a440685e499e28550 
         with:
@@ -21,13 +21,13 @@ jobs:
         run: |
           pip install requests pandas MLB-StatsAPI
 
-      - name: Run Fetch Script
+      - name: Run Data Fetcher
         run: python scripts/fetch_ws_data.py
 
-      - name: Commit and Push Data
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add data/ws_2025_verified_backtest.csv
-          git commit -m "Update 2025 WS Backtest Data" || echo "No changes to commit"
+          git add data/ws_2025_real_results.csv
+          git commit -m "chore: update 2025 WS real-time data" || echo "No changes"
           git push
