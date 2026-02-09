@@ -1,0 +1,30 @@
+name: Fetch WS 2025 Data
+
+on:
+  workflow_dispatch: # 이 설정이 있어야 'Run workflow' 버튼이 생깁니다.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pandas
+
+      - name: Run Fetch Script
+        run: python scripts/fetch_ws_data.py
+
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data/ws_2025_backtest.csv
+          git commit -m "Update 2025 WS Backtest Data" || echo "No changes to commit"
+          git push
