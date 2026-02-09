@@ -26,8 +26,10 @@ jobs:
           pip install pandas tabulate  # <--- 표를 그리기 위해 tabulate가 꼭 필요합니다!
 
       - name: Run Betting Simulator
-        run: python scripts/betting_simulator.py
-
+        run: |
+          python scripts/betting_simulator.py
+          python scripts/one_game_tracker.py  # <--- 이 줄을 추가하세요!
+          
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Action"
