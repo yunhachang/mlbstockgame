@@ -1,8 +1,6 @@
 name: Update 2025 WS Data
-
 on:
   workflow_dispatch: # Actions 탭에서 수동으로 'Run workflow' 버튼을 누를 수 있게 합니다.
-
 jobs:
   update-data:
     runs-on: ubuntu-latest
@@ -10,27 +8,23 @@ jobs:
       # 1. 저장소의 코드를 체크아웃 (버전 태그 사용)
       - name: Checkout Repository
         uses: actions/checkout@v4
-
       # 2. 파이썬 환경 설정
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-
       # 3. 필요한 라이브러리 설치
       - name: Install dependencies
         run: |
           pip install requests pandas MLB-StatsAPI
-
       # 4. 데이터 추출 스크립트 실행
       - name: Run Data Fetcher
         run: python scripts/fetch_ws_data.py
-
       # 5. 생성된 데이터를 저장소에 다시 커밋하고 푸시
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add data/ws_2025_real_results.csv
-          git commit -m "chore: update 2025 WS data from official stats" || echo "No changes to commit"
+          git add data/ws_2025_complete.csv
+          git commit -m "chore: update 2025 WS data with complete play-by-play info" || echo "No changes to commit"
           git push
