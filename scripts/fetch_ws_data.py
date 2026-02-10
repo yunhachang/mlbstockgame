@@ -12,13 +12,13 @@ def get_runner_state(runners_data):
     주자 상황을 binary string으로 변환
     예: 1루 3루 → '101', 만루 → '111', 주자 없음 → '000'
     """
-    bases = {'0': False, '1': False, '2': False}  # 1루, 2루, 3루
+    bases = {'1': False, '2': False, '3': False}  # 1루, 2루, 3루
     
     if runners_data:
         for runner in runners_data:
             start_base = runner.get('movement', {}).get('start')
             if start_base in ['1B', '2B', '3B']:
-                base_num = start_base[0]
+                base_num = start_base[0]  # '1', '2', '3'
                 bases[base_num] = True
     
     return ''.join(['1' if bases[str(i)] else '0' for i in [1, 2, 3]])
