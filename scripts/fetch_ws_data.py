@@ -93,8 +93,8 @@ def collect_world_series_2025():
     """
     2025 월드시리즈 전체 데이터 수집
     """
-    target_start = '2024-10-24'  # 2025 WS는 2024년 10월에 시작
-    target_end = '2024-11-03'
+    target_start = '2025-10-24'  # 2025 월드시리즈 시작일
+    target_end = '2025-11-05'    # 넉넉하게 설정
     
     print(f"🔍 Searching for 2025 World Series games...")
     print(f"Date range: {target_start} to {target_end}")
@@ -147,38 +147,5 @@ def collect_world_series_2025():
     
     return df
 
-def test_single_game():
-    """
-    테스트: 단일 경기만 수집해서 검증
-    """
-    print("🧪 TEST MODE: Collecting single game\n")
-    
-    # 2024 World Series Game 1 (예시)
-    # 실제 game_id는 스케줄에서 확인 필요
-    target_start = '2024-10-25'
-    target_end = '2024-10-26'
-    
-    sched = statsapi.schedule(start_date=target_start, end_date=target_end, sportId=1)
-    ws_games = [g for g in sched if g.get('game_type') == 'W']
-    
-    if ws_games:
-        game = ws_games[0]
-        plays = collect_game_plays(game['game_id'], game['game_date'], game['summary'])
-        
-        df = pd.DataFrame(plays)
-        print("\n" + "="*60)
-        print("Sample plays:")
-        print("="*60)
-        print(df[['inning', 'half', 'outs', 'runners', 'batter_name', 'event']].head(20))
-        
-        return df
-    else:
-        print("No games found for test")
-        return None
-
 if __name__ == "__main__":
-    # 옵션 1: 테스트 모드 (단일 경기)
-    # df = test_single_game()
-    
-    # 옵션 2: 전체 수집
     df = collect_world_series_2025()
