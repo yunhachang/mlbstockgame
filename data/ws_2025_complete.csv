@@ -1,0 +1,392 @@
+game_id,game_date,inning,half,at_bat_index,outs,balls,strikes,runners,batter_id,batter_name,pitcher_id,pitcher_name,event,event_type,description,home_score,away_score,rbi
+775300,2024-10-25,1,top,0,1,2,1,000,650402,Gleyber Torres,656427,Jack Flaherty,Lineout,field_out,Gleyber Torres lines out to third baseman Max Muncy.,0,0,0
+775300,2024-10-25,1,top,1,1,4,0,000,665742,Juan Soto,656427,Jack Flaherty,Walk,walk,Juan Soto walks.,0,0,0
+775300,2024-10-25,1,top,2,2,1,3,000,592450,Aaron Judge,656427,Jack Flaherty,Strikeout,strikeout,Aaron Judge strikes out swinging.,0,0,0
+775300,2024-10-25,1,top,3,2,3,2,100,519317,Giancarlo Stanton,656427,Jack Flaherty,Fielders Choice,fielders_choice,"Giancarlo Stanton reaches on a fielder's choice, fielded by shortstop Tommy Edman. Juan Soto to 2nd. Juan Soto advances to 2nd, on a fielding error by shortstop Tommy Edman.",0,0,0
+775300,2024-10-25,1,top,4,3,0,1,000,665862,Jazz Chisholm Jr.,656427,Jack Flaherty,Groundout,field_out,"Jazz Chisholm Jr. grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",0,0,0
+775300,2024-10-25,1,bottom,5,1,0,0,000,660271,Shohei Ohtani,543037,Gerrit Cole,Flyout,field_out,Shohei Ohtani flies out sharply to center fielder Aaron Judge.,0,0,0
+775300,2024-10-25,1,bottom,6,2,0,2,000,605141,Mookie Betts,543037,Gerrit Cole,Flyout,field_out,Mookie Betts flies out to left fielder Alex Verdugo.,0,0,0
+775300,2024-10-25,1,bottom,7,2,1,2,000,518692,Freddie Freeman,543037,Gerrit Cole,Triple,triple,Freddie Freeman triples (1) on a ground ball to left fielder Alex Verdugo.,0,0,0
+775300,2024-10-25,1,bottom,8,3,0,1,000,606192,Teoscar Hernández,543037,Gerrit Cole,Lineout,field_out,Teoscar Hernández lines out to shortstop Anthony Volpe.,0,0,0
+775300,2024-10-25,2,top,9,0,2,2,000,519203,Anthony Rizzo,656427,Jack Flaherty,Single,single,Anthony Rizzo singles on a ground ball to pitcher Jack Flaherty.,0,0,0
+775300,2024-10-25,2,top,10,1,2,3,000,683011,Anthony Volpe,656427,Jack Flaherty,Strikeout,strikeout,Anthony Volpe strikes out swinging.,0,0,0
+775300,2024-10-25,2,top,11,2,2,2,100,669224,Austin Wells,656427,Jack Flaherty,Groundout,field_out,"Austin Wells grounds out, second baseman Gavin Lux to first baseman Freddie Freeman. Anthony Rizzo to 2nd.",0,0,0
+775300,2024-10-25,2,top,12,3,1,1,000,657077,Alex Verdugo,656427,Jack Flaherty,Groundout,field_out,"Alex Verdugo grounds out, shortstop Tommy Edman to first baseman Freddie Freeman.",0,0,0
+775300,2024-10-25,2,bottom,13,1,2,1,000,571970,Max Muncy,543037,Gerrit Cole,Pop Out,field_out,Max Muncy pops out to third baseman Jazz Chisholm Jr. in foul territory.,0,0,0
+775300,2024-10-25,2,bottom,14,2,0,3,000,571771,Enrique Hernández,543037,Gerrit Cole,Strikeout,strikeout,Enrique Hernández strikes out swinging.,0,0,0
+775300,2024-10-25,2,bottom,15,3,3,3,000,669257,Will Smith,543037,Gerrit Cole,Strikeout,strikeout,Will Smith strikes out swinging.,0,0,0
+775300,2024-10-25,3,top,16,0,0,0,000,650402,Gleyber Torres,656427,Jack Flaherty,Single,single,Gleyber Torres singles on a ground ball to shortstop Tommy Edman.,0,0,0
+775300,2024-10-25,3,top,17,2,3,2,100,665742,Juan Soto,656427,Jack Flaherty,Grounded Into DP,grounded_into_double_play,"Juan Soto grounds into a double play, shortstop Tommy Edman to first baseman Freddie Freeman. Gleyber Torres out at 2nd. Juan Soto out at 1st.",0,0,0
+775300,2024-10-25,3,top,18,3,1,3,000,592450,Aaron Judge,656427,Jack Flaherty,Strikeout,strikeout,"Aaron Judge strikes out swinging, catcher Will Smith to first baseman Freddie Freeman.",0,0,0
+775300,2024-10-25,3,bottom,19,1,2,1,000,666158,Gavin Lux,543037,Gerrit Cole,Flyout,field_out,Gavin Lux flies out sharply to right fielder Juan Soto.,0,0,0
+775300,2024-10-25,3,bottom,20,2,2,1,000,669242,Tommy Edman,543037,Gerrit Cole,Pop Out,field_out,Tommy Edman pops out to first baseman Anthony Rizzo in foul territory.,0,0,0
+775300,2024-10-25,3,bottom,21,3,2,3,000,660271,Shohei Ohtani,543037,Gerrit Cole,Strikeout,strikeout,Shohei Ohtani strikes out swinging.,0,0,0
+775300,2024-10-25,4,top,22,1,1,0,000,519317,Giancarlo Stanton,656427,Jack Flaherty,Flyout,field_out,Giancarlo Stanton flies out to right fielder Mookie Betts.,0,0,0
+775300,2024-10-25,4,top,23,2,0,0,000,665862,Jazz Chisholm Jr.,656427,Jack Flaherty,Groundout,field_out,"Jazz Chisholm Jr. grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",0,0,0
+775300,2024-10-25,4,top,24,3,2,2,000,519203,Anthony Rizzo,656427,Jack Flaherty,Lineout,field_out,Anthony Rizzo lines out to left fielder Teoscar Hernández.,0,0,0
+775300,2024-10-25,4,bottom,25,1,2,2,000,605141,Mookie Betts,543037,Gerrit Cole,Pop Out,field_out,Mookie Betts pops out to first baseman Anthony Rizzo.,0,0,0
+775300,2024-10-25,4,bottom,26,2,0,2,000,518692,Freddie Freeman,543037,Gerrit Cole,Groundout,field_out,Freddie Freeman grounds out to first baseman Anthony Rizzo.,0,0,0
+775300,2024-10-25,4,bottom,27,3,3,2,000,606192,Teoscar Hernández,543037,Gerrit Cole,Pop Out,field_out,Teoscar Hernández pops out to shortstop Anthony Volpe.,0,0,0
+775300,2024-10-25,5,top,28,1,0,3,000,683011,Anthony Volpe,656427,Jack Flaherty,Strikeout,strikeout,Anthony Volpe strikes out swinging.,0,0,0
+775300,2024-10-25,5,top,29,2,2,3,000,669224,Austin Wells,656427,Jack Flaherty,Strikeout,strikeout,Austin Wells strikes out swinging.,0,0,0
+775300,2024-10-25,5,top,30,2,1,1,000,657077,Alex Verdugo,656427,Jack Flaherty,Single,single,Alex Verdugo singles on a line drive to center fielder Enrique Hernández.,0,0,0
+775300,2024-10-25,5,top,31,3,1,1,000,650402,Gleyber Torres,656427,Jack Flaherty,Groundout,field_out,"Gleyber Torres grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",0,0,0
+775300,2024-10-25,5,bottom,32,1,1,3,000,571970,Max Muncy,543037,Gerrit Cole,Strikeout,strikeout,Max Muncy strikes out swinging.,0,0,0
+775300,2024-10-25,5,bottom,33,1,0,2,000,571771,Enrique Hernández,543037,Gerrit Cole,Triple,triple,Enrique Hernández triples (1) on a line drive to right fielder Juan Soto.,0,0,0
+775300,2024-10-25,5,bottom,34,2,1,1,001,669257,Will Smith,543037,Gerrit Cole,Sac Fly,sac_fly,Will Smith out on a sacrifice fly to right fielder Juan Soto. Enrique Hernández scores.,1,0,1
+775300,2024-10-25,5,bottom,35,3,1,2,000,666158,Gavin Lux,543037,Gerrit Cole,Flyout,field_out,Gavin Lux flies out to center fielder Aaron Judge.,1,0,0
+775300,2024-10-25,6,top,36,0,2,2,000,665742,Juan Soto,656427,Jack Flaherty,Single,single,Juan Soto singles on a sharp line drive to center fielder Enrique Hernández.,1,0,0
+775300,2024-10-25,6,top,37,1,3,3,000,592450,Aaron Judge,656427,Jack Flaherty,Strikeout,strikeout,Aaron Judge strikes out swinging.,1,0,0
+775300,2024-10-25,6,top,38,1,1,2,100,519317,Giancarlo Stanton,656427,Jack Flaherty,Home Run,home_run,Giancarlo Stanton homers (6) on a fly ball to left field. Juan Soto scores.,1,2,2
+775300,2024-10-25,6,top,39,1,2,2,000,665862,Jazz Chisholm Jr.,607455,Anthony Banda,Single,single,Jazz Chisholm Jr. singles on a line drive to right fielder Mookie Betts.,1,2,0
+775300,2024-10-25,6,top,40,2,1,3,100,519203,Anthony Rizzo,607455,Anthony Banda,Strikeout,strikeout,Anthony Rizzo strikes out swinging.,1,2,0
+775300,2024-10-25,6,top,41,2,4,0,000,683011,Anthony Volpe,607455,Anthony Banda,Intent Walk,intent_walk,Anthony Banda intentionally walks Anthony Volpe.,1,2,0
+775300,2024-10-25,6,top,42,2,1,1,110,669224,Austin Wells,607455,Anthony Banda,Single,single,Austin Wells singles on a ground ball to shortstop Tommy Edman. Jazz Chisholm Jr. to 3rd. Anthony Volpe to 2nd.,1,2,0
+775300,2024-10-25,6,top,43,3,1,3,000,657077,Alex Verdugo,607455,Anthony Banda,Strikeout,strikeout,Alex Verdugo strikes out swinging.,1,2,0
+775300,2024-10-25,6,bottom,44,0,2,1,000,669242,Tommy Edman,543037,Gerrit Cole,Double,double,Tommy Edman doubles (4) on a ground ball to right fielder Juan Soto.,1,2,0
+775300,2024-10-25,6,bottom,45,1,0,1,010,660271,Shohei Ohtani,543037,Gerrit Cole,Groundout,field_out,"Shohei Ohtani grounds out, shortstop Anthony Volpe to first baseman Anthony Rizzo. Tommy Edman to 3rd.",1,2,0
+775300,2024-10-25,6,bottom,46,2,2,2,000,605141,Mookie Betts,543037,Gerrit Cole,Groundout,field_out,"Mookie Betts grounds out, third baseman Jazz Chisholm Jr. to first baseman Anthony Rizzo.",1,2,0
+775300,2024-10-25,6,bottom,47,3,0,1,000,518692,Freddie Freeman,543037,Gerrit Cole,Flyout,field_out,Freddie Freeman flies out sharply to right fielder Juan Soto.,1,2,0
+775300,2024-10-25,7,top,48,1,1,2,000,650402,Gleyber Torres,660813,Brusdar Graterol,Groundout,field_out,"Gleyber Torres grounds out, pitcher Brusdar Graterol to first baseman Freddie Freeman.",1,2,0
+775300,2024-10-25,7,top,49,2,3,2,000,665742,Juan Soto,660813,Brusdar Graterol,Pop Out,field_out,Juan Soto pops out to shortstop Tommy Edman.,1,2,0
+775300,2024-10-25,7,top,50,2,0,1,000,592450,Aaron Judge,660813,Brusdar Graterol,Single,single,Aaron Judge singles on a ground ball to center fielder Enrique Hernández.,1,2,0
+775300,2024-10-25,7,top,51,3,2,3,000,519317,Giancarlo Stanton,660813,Brusdar Graterol,Strikeout,strikeout,Giancarlo Stanton called out on strikes.,1,2,0
+775300,2024-10-25,7,bottom,52,0,3,2,000,606192,Teoscar Hernández,543037,Gerrit Cole,Single,single,Teoscar Hernández singles on a line drive to center fielder Aaron Judge.,1,2,0
+775300,2024-10-25,7,bottom,53,0,3,0,100,571970,Max Muncy,605280,Clay Holmes,Hit By Pitch,hit_by_pitch,Max Muncy hit by pitch. Teoscar Hernández to 2nd.,1,2,0
+775300,2024-10-25,7,bottom,54,1,0,0,110,571771,Enrique Hernández,605280,Clay Holmes,Sac Bunt,sac_bunt,"Enrique Hernández out on a sacrifice bunt, catcher Austin Wells to second baseman Gleyber Torres. Teoscar Hernández to 3rd. Max Muncy to 2nd.",1,2,0
+775300,2024-10-25,7,bottom,55,2,0,0,000,669257,Will Smith,605280,Clay Holmes,Pop Out,field_out,Will Smith pops out to shortstop Anthony Volpe.,1,2,0
+775300,2024-10-25,7,bottom,56,3,0,1,000,666158,Gavin Lux,592454,Tommy Kahnle,Groundout,field_out,"Gavin Lux grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo.",1,2,0
+775300,2024-10-25,8,top,57,1,2,3,000,665862,Jazz Chisholm Jr.,681911,Alex Vesia,Strikeout,strikeout,Jazz Chisholm Jr. strikes out swinging.,1,2,0
+775300,2024-10-25,8,top,58,2,3,3,000,519203,Anthony Rizzo,681911,Alex Vesia,Strikeout,strikeout,Anthony Rizzo called out on strikes.,1,2,0
+775300,2024-10-25,8,top,59,3,2,2,000,683011,Anthony Volpe,681911,Alex Vesia,Lineout,field_out,Anthony Volpe lines out to center fielder Enrique Hernández.,1,2,0
+775300,2024-10-25,8,bottom,60,1,0,2,000,669242,Tommy Edman,592454,Tommy Kahnle,Groundout,field_out,"Tommy Edman grounds out, shortstop Anthony Volpe to first baseman Anthony Rizzo.",1,2,0
+775300,2024-10-25,8,bottom,61,1,1,0,010,660271,Shohei Ohtani,592454,Tommy Kahnle,Double,double,"Shohei Ohtani doubles (1) on a sharp line drive to right fielder Juan Soto. Shohei Ohtani to 3rd. Shohei Ohtani advances to 3rd, on a throwing error by right fielder Juan Soto.",1,2,0
+775300,2024-10-25,8,bottom,62,2,1,2,001,605141,Mookie Betts,596133,Luke Weaver,Sac Fly,sac_fly,Mookie Betts out on a sacrifice fly to center fielder Aaron Judge. Shohei Ohtani scores.,2,2,1
+775300,2024-10-25,8,bottom,63,3,0,1,000,518692,Freddie Freeman,596133,Luke Weaver,Flyout,field_out,Freddie Freeman flies out to center fielder Aaron Judge.,2,2,0
+775300,2024-10-25,9,top,64,1,1,0,000,669224,Austin Wells,656629,Michael Kopech,Groundout,field_out,"Austin Wells grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",2,2,0
+775300,2024-10-25,9,top,65,2,2,1,000,657077,Alex Verdugo,656629,Michael Kopech,Groundout,field_out,"Alex Verdugo grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",2,2,0
+775300,2024-10-25,9,top,66,2,2,1,000,650402,Gleyber Torres,656629,Michael Kopech,Double,double,"Umpire reviewed (fan interference), call on the field was upheld: Gleyber Torres doubles (3) to center field, on fan interference.",2,2,0
+775300,2024-10-25,9,top,67,2,4,0,000,665742,Juan Soto,656629,Michael Kopech,Intent Walk,intent_walk,Michael Kopech intentionally walks Juan Soto.,2,2,0
+775300,2024-10-25,9,top,68,3,1,2,000,592450,Aaron Judge,595014,Blake Treinen,Pop Out,field_out,Aaron Judge pops out to shortstop Tommy Edman.,2,2,0
+775300,2024-10-25,9,bottom,69,1,2,2,000,606192,Teoscar Hernández,596133,Luke Weaver,Lineout,field_out,Teoscar Hernández lines out sharply to right fielder Juan Soto.,2,2,0
+775300,2024-10-25,9,bottom,70,2,3,1,000,571970,Max Muncy,596133,Luke Weaver,Pop Out,field_out,Max Muncy pops out to second baseman Oswaldo Cabrera.,2,2,0
+775300,2024-10-25,9,bottom,71,3,1,1,000,571771,Enrique Hernández,596133,Luke Weaver,Flyout,field_out,Enrique Hernández flies out to left fielder Alex Verdugo.,2,2,0
+775300,2024-10-25,10,top,72,1,0,3,000,519317,Giancarlo Stanton,595014,Blake Treinen,Strikeout,strikeout,Giancarlo Stanton strikes out swinging.,2,2,0
+775300,2024-10-25,10,top,73,1,1,0,000,665862,Jazz Chisholm Jr.,595014,Blake Treinen,Single,single,Jazz Chisholm Jr. singles on a ground ball to right fielder Mookie Betts.,2,2,0
+775300,2024-10-25,10,top,74,1,4,0,100,519203,Anthony Rizzo,595014,Blake Treinen,Intent Walk,intent_walk,Blake Treinen intentionally walks Anthony Rizzo.,2,2,0
+775300,2024-10-25,10,top,75,2,2,2,111,683011,Anthony Volpe,595014,Blake Treinen,Forceout,force_out,"Anthony Volpe grounds into a force out, shortstop Tommy Edman to second baseman Gavin Lux. Jazz Chisholm Jr. scores. Anthony Rizzo out at 2nd. Anthony Volpe to 1st.",2,3,1
+775300,2024-10-25,10,top,76,3,1,3,100,669224,Austin Wells,595014,Blake Treinen,Strikeout,strikeout,Austin Wells called out on strikes.,2,3,0
+775300,2024-10-25,10,bottom,77,1,2,2,000,669257,Will Smith,664776,Jake Cousins,Flyout,field_out,Will Smith flies out to right fielder Juan Soto.,2,3,0
+775300,2024-10-25,10,bottom,78,1,4,1,000,666158,Gavin Lux,664776,Jake Cousins,Walk,walk,Gavin Lux walks.,2,3,0
+775300,2024-10-25,10,bottom,79,1,1,2,100,669242,Tommy Edman,664776,Jake Cousins,Single,single,Tommy Edman singles on a ground ball to second baseman Oswaldo Cabrera. Gavin Lux to 2nd.,2,3,0
+775300,2024-10-25,10,bottom,80,2,0,0,110,660271,Shohei Ohtani,641482,Nestor Cortes,Flyout,field_out,Shohei Ohtani flies out to left fielder Alex Verdugo in foul territory. Chris Taylor to 3rd. Tommy Edman to 2nd.,2,3,0
+775300,2024-10-25,10,bottom,81,2,4,0,000,605141,Mookie Betts,641482,Nestor Cortes,Intent Walk,intent_walk,Nestor Cortes intentionally walks Mookie Betts.,2,3,0
+775300,2024-10-25,10,bottom,82,2,0,0,111,518692,Freddie Freeman,641482,Nestor Cortes,Home Run,home_run,Freddie Freeman hits a grand slam (1) to right field. Chris Taylor scores. Tommy Edman scores. Mookie Betts scores.,6,3,4
+775294,2024-10-26,1,top,0,0,4,2,000,650402,Gleyber Torres,808967,Yoshinobu Yamamoto,Walk,walk,Gleyber Torres walks.,0,0,0
+775294,2024-10-26,1,top,1,1,3,2,100,665742,Juan Soto,808967,Yoshinobu Yamamoto,Groundout,field_out,"Juan Soto grounds out, shortstop Miguel Rojas to first baseman Freddie Freeman. Gleyber Torres to 2nd.",0,0,0
+775294,2024-10-26,1,top,2,2,3,3,000,592450,Aaron Judge,808967,Yoshinobu Yamamoto,Strikeout,strikeout,Aaron Judge strikes out swinging.,0,0,0
+775294,2024-10-26,1,top,3,3,0,0,000,519317,Giancarlo Stanton,808967,Yoshinobu Yamamoto,Pop Out,field_out,Giancarlo Stanton pops out to first baseman Freddie Freeman.,0,0,0
+775294,2024-10-26,1,bottom,4,1,1,0,000,660271,Shohei Ohtani,607074,Carlos Rodón,Flyout,field_out,Shohei Ohtani flies out sharply to center fielder Aaron Judge.,0,0,0
+775294,2024-10-26,1,bottom,5,1,2,2,000,605141,Mookie Betts,607074,Carlos Rodón,Single,single,Mookie Betts singles on a line drive to right fielder Juan Soto.,0,0,0
+775294,2024-10-26,1,bottom,6,2,2,1,000,606192,Teoscar Hernández,607074,Carlos Rodón,Flyout,field_out,Teoscar Hernández flies out sharply to right fielder Juan Soto.,0,0,0
+775294,2024-10-26,1,bottom,7,3,0,1,000,518692,Freddie Freeman,607074,Carlos Rodón,Pop Out,field_out,Freddie Freeman pops out to first baseman Anthony Rizzo.,0,0,0
+775294,2024-10-26,2,top,8,1,2,1,000,665862,Jazz Chisholm Jr.,808967,Yoshinobu Yamamoto,Groundout,field_out,"Jazz Chisholm Jr. grounds out softly, pitcher Yoshinobu Yamamoto to first baseman Freddie Freeman.",0,0,0
+775294,2024-10-26,2,top,9,1,4,1,000,519203,Anthony Rizzo,808967,Yoshinobu Yamamoto,Walk,walk,Anthony Rizzo walks.,0,0,0
+775294,2024-10-26,2,top,10,2,1,1,000,683011,Anthony Volpe,808967,Yoshinobu Yamamoto,Lineout,field_out,Anthony Volpe lines out sharply to center fielder Tommy Edman.,0,0,0
+775294,2024-10-26,2,top,11,3,0,1,000,669224,Austin Wells,808967,Yoshinobu Yamamoto,Groundout,field_out,"Austin Wells grounds out, second baseman Enrique Hernández to first baseman Freddie Freeman.",0,0,0
+775294,2024-10-26,2,bottom,12,0,2,0,000,669242,Tommy Edman,607074,Carlos Rodón,Home Run,home_run,Tommy Edman homers (2) on a fly ball to left field.,1,0,1
+775294,2024-10-26,2,bottom,13,1,0,1,000,571771,Enrique Hernández,607074,Carlos Rodón,Lineout,field_out,Enrique Hernández lines out to third baseman Jazz Chisholm Jr.,1,0,0
+775294,2024-10-26,2,bottom,14,2,3,3,000,571970,Max Muncy,607074,Carlos Rodón,Strikeout,strikeout,Max Muncy strikes out swinging.,1,0,0
+775294,2024-10-26,2,bottom,15,3,2,2,000,669257,Will Smith,607074,Carlos Rodón,Groundout,field_out,"Will Smith grounds out softly, pitcher Carlos Rodón to first baseman Anthony Rizzo.",1,0,0
+775294,2024-10-26,3,top,16,1,0,2,000,657077,Alex Verdugo,808967,Yoshinobu Yamamoto,Flyout,field_out,Alex Verdugo flies out to left fielder Teoscar Hernández.,1,0,0
+775294,2024-10-26,3,top,17,2,1,1,000,650402,Gleyber Torres,808967,Yoshinobu Yamamoto,Groundout,field_out,"Gleyber Torres grounds out, pitcher Yoshinobu Yamamoto to second baseman Enrique Hernández to first baseman Freddie Freeman.",1,0,0
+775294,2024-10-26,3,top,18,2,2,2,000,665742,Juan Soto,808967,Yoshinobu Yamamoto,Home Run,home_run,Juan Soto homers (4) on a fly ball to right field.,1,1,1
+775294,2024-10-26,3,top,19,3,2,2,000,592450,Aaron Judge,808967,Yoshinobu Yamamoto,Flyout,field_out,Aaron Judge flies out to right fielder Mookie Betts.,1,1,0
+775294,2024-10-26,3,bottom,20,1,1,2,000,500743,Miguel Rojas,607074,Carlos Rodón,Flyout,field_out,Miguel Rojas flies out to right fielder Juan Soto.,1,1,0
+775294,2024-10-26,3,bottom,21,2,1,3,000,660271,Shohei Ohtani,607074,Carlos Rodón,Strikeout,strikeout,Shohei Ohtani strikes out swinging.,1,1,0
+775294,2024-10-26,3,bottom,22,2,3,1,000,605141,Mookie Betts,607074,Carlos Rodón,Single,single,Mookie Betts singles on a line drive to left fielder Alex Verdugo.,1,1,0
+775294,2024-10-26,3,bottom,23,2,1,0,100,606192,Teoscar Hernández,607074,Carlos Rodón,Home Run,home_run,Teoscar Hernández homers (3) on a fly ball to right center field. Mookie Betts scores.,3,1,2
+775294,2024-10-26,3,bottom,24,2,3,2,000,518692,Freddie Freeman,607074,Carlos Rodón,Home Run,home_run,Freddie Freeman homers (2) on a fly ball to right center field.,4,1,1
+775294,2024-10-26,3,bottom,25,2,0,2,000,669242,Tommy Edman,607074,Carlos Rodón,Double,double,Tommy Edman doubles (5) on a sharp line drive to center fielder Aaron Judge.,4,1,0
+775294,2024-10-26,3,bottom,26,3,1,1,010,571771,Enrique Hernández,607074,Carlos Rodón,Lineout,field_out,Enrique Hernández lines out to left fielder Alex Verdugo.,4,1,0
+775294,2024-10-26,4,top,27,1,2,0,000,519317,Giancarlo Stanton,808967,Yoshinobu Yamamoto,Groundout,field_out,"Giancarlo Stanton grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",4,1,0
+775294,2024-10-26,4,top,28,2,0,2,000,665862,Jazz Chisholm Jr.,808967,Yoshinobu Yamamoto,Groundout,field_out,"Jazz Chisholm Jr. grounds out, shortstop Miguel Rojas to first baseman Freddie Freeman.",4,1,0
+775294,2024-10-26,4,top,29,3,1,3,000,519203,Anthony Rizzo,808967,Yoshinobu Yamamoto,Strikeout,strikeout,Anthony Rizzo strikes out swinging.,4,1,0
+775294,2024-10-26,4,bottom,30,1,1,3,000,571970,Max Muncy,607074,Carlos Rodón,Strikeout,strikeout,Max Muncy strikes out swinging.,4,1,0
+775294,2024-10-26,4,bottom,31,1,3,2,000,669257,Will Smith,664776,Jake Cousins,Double,double,Will Smith doubles (1) on a sharp line drive to center fielder Aaron Judge.,4,1,0
+775294,2024-10-26,4,bottom,32,2,3,2,010,500743,Miguel Rojas,664776,Jake Cousins,Groundout,field_out,"Miguel Rojas grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo. Will Smith to 3rd.",4,1,0
+775294,2024-10-26,4,bottom,33,3,0,0,000,660271,Shohei Ohtani,664776,Jake Cousins,Groundout,field_out,"Shohei Ohtani grounds out, shortstop Anthony Volpe to first baseman Anthony Rizzo.",4,1,0
+775294,2024-10-26,5,top,34,1,2,3,000,683011,Anthony Volpe,808967,Yoshinobu Yamamoto,Strikeout,strikeout,Anthony Volpe strikes out swinging.,4,1,0
+775294,2024-10-26,5,top,35,2,1,0,000,669224,Austin Wells,808967,Yoshinobu Yamamoto,Groundout,field_out,"Austin Wells grounds out, first baseman Freddie Freeman to pitcher Yoshinobu Yamamoto.",4,1,0
+775294,2024-10-26,5,top,36,3,1,1,000,657077,Alex Verdugo,808967,Yoshinobu Yamamoto,Flyout,field_out,Alex Verdugo flies out to left fielder Teoscar Hernández.,4,1,0
+775294,2024-10-26,5,bottom,37,1,1,1,000,605141,Mookie Betts,664776,Jake Cousins,Flyout,field_out,Mookie Betts flies out to left fielder Alex Verdugo.,4,1,0
+775294,2024-10-26,5,bottom,38,1,2,2,000,606192,Teoscar Hernández,664776,Jake Cousins,Single,single,Teoscar Hernández singles on a sharp line drive to right fielder Juan Soto.,4,1,0
+775294,2024-10-26,5,bottom,39,2,0,1,000,518692,Freddie Freeman,657612,Tim Hill,Pop Out,field_out,Freddie Freeman pops out to shortstop Anthony Volpe.,4,1,0
+775294,2024-10-26,5,bottom,40,3,3,3,000,669242,Tommy Edman,657612,Tim Hill,Strikeout,strikeout,Tommy Edman called out on strikes.,4,1,0
+775294,2024-10-26,6,top,41,1,0,0,000,650402,Gleyber Torres,808967,Yoshinobu Yamamoto,Groundout,field_out,"Gleyber Torres grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",4,1,0
+775294,2024-10-26,6,top,42,2,0,1,000,665742,Juan Soto,808967,Yoshinobu Yamamoto,Groundout,field_out,"Juan Soto grounds out, second baseman Enrique Hernández to first baseman Freddie Freeman.",4,1,0
+775294,2024-10-26,6,top,43,3,2,3,000,592450,Aaron Judge,808967,Yoshinobu Yamamoto,Strikeout,strikeout,Aaron Judge strikes out swinging.,4,1,0
+775294,2024-10-26,6,bottom,44,1,0,0,000,571771,Enrique Hernández,657612,Tim Hill,Lineout,field_out,Enrique Hernández lines out to center fielder Aaron Judge.,4,1,0
+775294,2024-10-26,6,bottom,45,2,1,2,000,571970,Max Muncy,657612,Tim Hill,Pop Out,field_out,Max Muncy pops out to third baseman Jazz Chisholm Jr. in foul territory.,4,1,0
+775294,2024-10-26,6,bottom,46,3,3,2,000,669257,Will Smith,605280,Clay Holmes,Groundout,field_out,"Will Smith grounds out, third baseman Jazz Chisholm Jr. to first baseman Anthony Rizzo.",4,1,0
+775294,2024-10-26,7,top,47,1,1,2,000,519317,Giancarlo Stanton,808967,Yoshinobu Yamamoto,Pop Out,field_out,Giancarlo Stanton pops out to second baseman Enrique Hernández.,4,1,0
+775294,2024-10-26,7,top,48,2,2,2,000,665862,Jazz Chisholm Jr.,607455,Anthony Banda,Flyout,field_out,Jazz Chisholm Jr. flies out to left fielder Teoscar Hernández.,4,1,0
+775294,2024-10-26,7,top,49,2,4,2,000,519203,Anthony Rizzo,607455,Anthony Banda,Hit By Pitch,hit_by_pitch,Anthony Rizzo hit by pitch.,4,1,0
+775294,2024-10-26,7,top,50,3,1,1,000,683011,Anthony Volpe,607455,Anthony Banda,Flyout,field_out,Anthony Volpe flies out to center fielder Tommy Edman.,4,1,0
+775294,2024-10-26,7,bottom,51,1,3,3,000,500743,Miguel Rojas,605280,Clay Holmes,Strikeout,strikeout,Miguel Rojas strikes out swinging.,4,1,0
+775294,2024-10-26,7,bottom,52,1,4,1,000,660271,Shohei Ohtani,605280,Clay Holmes,Walk,walk,Shohei Ohtani walks.,4,1,0
+775294,2024-10-26,7,bottom,53,2,0,3,000,605141,Mookie Betts,605280,Clay Holmes,Strikeout,strikeout,Mookie Betts strikes out swinging.,4,1,0
+775294,2024-10-26,7,bottom,54,3,0,1,100,606192,Teoscar Hernández,605280,Clay Holmes,Caught Stealing 2B,caught_stealing_2b,"Shohei Ohtani caught stealing 2nd base, catcher Austin Wells to second baseman Gleyber Torres.",4,1,0
+775294,2024-10-26,8,top,55,1,3,3,000,669224,Austin Wells,656629,Michael Kopech,Strikeout,strikeout,Austin Wells strikes out swinging.,4,1,0
+775294,2024-10-26,8,top,56,2,0,0,000,657077,Alex Verdugo,656629,Michael Kopech,Groundout,field_out,"Alex Verdugo grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",4,1,0
+775294,2024-10-26,8,top,57,3,2,1,000,650402,Gleyber Torres,656629,Michael Kopech,Pop Out,field_out,Gleyber Torres pops out to first baseman Freddie Freeman.,4,1,0
+775294,2024-10-26,8,bottom,58,1,1,2,000,606192,Teoscar Hernández,643410,Mark Leiter Jr.,Lineout,field_out,Teoscar Hernández lines out to center fielder Aaron Judge.,4,1,0
+775294,2024-10-26,8,bottom,59,2,0,1,000,518692,Freddie Freeman,643410,Mark Leiter Jr.,Groundout,field_out,"Freddie Freeman grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo.",4,1,0
+775294,2024-10-26,8,bottom,60,3,0,2,000,669242,Tommy Edman,643410,Mark Leiter Jr.,Groundout,field_out,"Tommy Edman grounds out, pitcher Mark Leiter Jr. to first baseman Anthony Rizzo.",4,1,0
+775294,2024-10-26,9,top,61,0,3,2,000,665742,Juan Soto,595014,Blake Treinen,Single,single,Juan Soto singles on a sharp fly ball to right fielder Mookie Betts.,4,1,0
+775294,2024-10-26,9,top,62,1,1,3,100,592450,Aaron Judge,595014,Blake Treinen,Strikeout,strikeout,Aaron Judge strikes out swinging.,4,1,0
+775294,2024-10-26,9,top,63,1,2,0,010,519317,Giancarlo Stanton,595014,Blake Treinen,Single,single,Giancarlo Stanton singles on a ground ball to left fielder Chris Taylor. Juan Soto scores.,4,2,1
+775294,2024-10-26,9,top,64,1,3,2,100,665862,Jazz Chisholm Jr.,595014,Blake Treinen,Single,single,Jazz Chisholm Jr. singles on a sharp line drive to right fielder Mookie Betts. Giancarlo Stanton to 2nd.,4,2,0
+775294,2024-10-26,9,top,65,1,3,2,110,519203,Anthony Rizzo,595014,Blake Treinen,Hit By Pitch,hit_by_pitch,Anthony Rizzo hit by pitch. Giancarlo Stanton to 3rd. Jazz Chisholm Jr. to 2nd.,4,2,0
+775294,2024-10-26,9,top,66,2,2,3,000,683011,Anthony Volpe,595014,Blake Treinen,Strikeout,strikeout,Anthony Volpe strikes out swinging.,4,2,0
+775294,2024-10-26,9,top,67,3,0,0,000,624431,Jose Trevino,681911,Alex Vesia,Flyout,field_out,Jose Trevino flies out to center fielder Tommy Edman.,4,2,0
+775298,2024-10-28,1,top,0,0,4,0,000,660271,Shohei Ohtani,657376,Clarke Schmidt,Walk,walk,Shohei Ohtani walks.,0,0,0
+775298,2024-10-28,1,top,1,1,2,2,000,605141,Mookie Betts,657376,Clarke Schmidt,Flyout,field_out,Mookie Betts flies out to left fielder Alex Verdugo.,0,0,0
+775298,2024-10-28,1,top,2,1,1,2,100,518692,Freddie Freeman,657376,Clarke Schmidt,Home Run,home_run,Freddie Freeman homers (3) on a fly ball to right field. Shohei Ohtani scores.,0,2,2
+775298,2024-10-28,1,top,3,2,2,2,000,606192,Teoscar Hernández,657376,Clarke Schmidt,Groundout,field_out,"Teoscar Hernández grounds out, shortstop Anthony Volpe to first baseman Anthony Rizzo.",0,2,0
+775298,2024-10-28,1,top,4,3,0,3,000,571970,Max Muncy,657376,Clarke Schmidt,Strikeout,strikeout,Max Muncy strikes out swinging.,0,2,0
+775298,2024-10-28,1,bottom,5,0,4,2,000,650402,Gleyber Torres,621111,Walker Buehler,Walk,walk,Gleyber Torres walks.,0,2,0
+775298,2024-10-28,1,bottom,6,1,2,2,000,665742,Juan Soto,621111,Walker Buehler,Lineout,field_out,Juan Soto lines out sharply to left fielder Teoscar Hernández.,0,2,0
+775298,2024-10-28,1,bottom,7,2,3,3,000,592450,Aaron Judge,621111,Walker Buehler,Strikeout,strikeout,Aaron Judge strikes out swinging.,0,2,0
+775298,2024-10-28,1,bottom,8,3,2,1,100,519317,Giancarlo Stanton,621111,Walker Buehler,Forceout,force_out,"Giancarlo Stanton grounds into a force out, shortstop Tommy Edman to second baseman Gavin Lux. Gleyber Torres out at 2nd. Giancarlo Stanton to 1st.",0,2,0
+775298,2024-10-28,2,top,9,1,2,0,000,669257,Will Smith,657376,Clarke Schmidt,Flyout,field_out,Will Smith flies out sharply to right fielder Juan Soto.,0,2,0
+775298,2024-10-28,2,top,10,2,2,3,000,666158,Gavin Lux,657376,Clarke Schmidt,Strikeout,strikeout,Gavin Lux strikes out swinging.,0,2,0
+775298,2024-10-28,2,top,11,3,1,3,000,571771,Enrique Hernández,657376,Clarke Schmidt,Strikeout,strikeout,Enrique Hernández strikes out swinging.,0,2,0
+775298,2024-10-28,2,bottom,12,1,3,1,000,665862,Jazz Chisholm Jr.,621111,Walker Buehler,Flyout,field_out,Jazz Chisholm Jr. flies out to center fielder Enrique Hernández.,0,2,0
+775298,2024-10-28,2,bottom,13,2,3,3,000,683011,Anthony Volpe,621111,Walker Buehler,Strikeout,strikeout,Anthony Volpe strikes out swinging.,0,2,0
+775298,2024-10-28,2,bottom,14,3,1,3,000,519203,Anthony Rizzo,621111,Walker Buehler,Strikeout,strikeout,Anthony Rizzo strikes out swinging.,0,2,0
+775298,2024-10-28,3,top,15,0,4,0,000,669242,Tommy Edman,657376,Clarke Schmidt,Walk,walk,Tommy Edman walks.,0,2,0
+775298,2024-10-28,3,top,16,1,2,2,100,660271,Shohei Ohtani,657376,Clarke Schmidt,Groundout,field_out,"Shohei Ohtani grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo. Tommy Edman to 2nd.",0,2,0
+775298,2024-10-28,3,top,17,1,3,2,010,605141,Mookie Betts,657376,Clarke Schmidt,Single,single,Mookie Betts singles on a soft fly ball to right fielder Juan Soto. Tommy Edman scores.,0,3,1
+775298,2024-10-28,3,top,18,1,4,1,100,518692,Freddie Freeman,657376,Clarke Schmidt,Walk,walk,Freddie Freeman walks. Mookie Betts to 2nd.,0,3,0
+775298,2024-10-28,3,top,19,2,0,1,000,606192,Teoscar Hernández,657376,Clarke Schmidt,Pop Out,field_out,Teoscar Hernández pops out to shortstop Anthony Volpe on the infield fly rule.,0,3,0
+775298,2024-10-28,3,top,20,2,4,2,110,571970,Max Muncy,657376,Clarke Schmidt,Walk,walk,Max Muncy walks. Mookie Betts to 3rd. Freddie Freeman to 2nd.,0,3,0
+775298,2024-10-28,3,top,21,3,3,2,000,669257,Will Smith,643410,Mark Leiter Jr.,Groundout,field_out,"Will Smith grounds out softly, pitcher Mark Leiter Jr. to first baseman Anthony Rizzo.",0,3,0
+775298,2024-10-28,3,bottom,22,1,0,3,000,624431,Jose Trevino,621111,Walker Buehler,Strikeout,strikeout,Jose Trevino strikes out swinging.,0,3,0
+775298,2024-10-28,3,bottom,23,2,1,3,000,657077,Alex Verdugo,621111,Walker Buehler,Strikeout,strikeout,Alex Verdugo called out on strikes.,0,3,0
+775298,2024-10-28,3,bottom,24,2,4,1,000,650402,Gleyber Torres,621111,Walker Buehler,Walk,walk,Gleyber Torres walks.,0,3,0
+775298,2024-10-28,3,bottom,25,3,1,0,000,665742,Juan Soto,621111,Walker Buehler,Groundout,field_out,Juan Soto grounds out to first baseman Freddie Freeman.,0,3,0
+775298,2024-10-28,4,top,26,0,4,1,000,666158,Gavin Lux,643410,Mark Leiter Jr.,Walk,walk,Gavin Lux walks.,0,3,0
+775298,2024-10-28,4,top,27,0,2,1,110,571771,Enrique Hernández,643410,Mark Leiter Jr.,Single,single,Enrique Hernández singles on a line drive to right fielder Juan Soto. Gavin Lux to 3rd.,0,3,0
+775298,2024-10-28,4,top,28,1,0,1,101,669242,Tommy Edman,643410,Mark Leiter Jr.,Fielders Choice Out,fielders_choice_out,"Dodgers challenged (tag play), call on the field was upheld: Tommy Edman reaches on a fielder's choice out, pitcher Mark Leiter Jr. to catcher Jose Trevino. Gavin Lux out at home. Enrique Hernández to 2nd.",0,3,0
+775298,2024-10-28,4,top,29,2,3,3,000,660271,Shohei Ohtani,641482,Nestor Cortes,Strikeout,strikeout,Shohei Ohtani strikes out swinging.,0,3,0
+775298,2024-10-28,4,top,30,3,0,0,000,605141,Mookie Betts,641482,Nestor Cortes,Lineout,field_out,Mookie Betts lines out sharply to left fielder Alex Verdugo.,0,3,0
+775298,2024-10-28,4,bottom,31,1,0,0,000,592450,Aaron Judge,621111,Walker Buehler,Flyout,field_out,Aaron Judge flies out to left fielder Teoscar Hernández.,0,3,0
+775298,2024-10-28,4,bottom,32,1,0,1,000,519317,Giancarlo Stanton,621111,Walker Buehler,Double,double,Giancarlo Stanton doubles (3) on a line drive to left fielder Teoscar Hernández.,0,3,0
+775298,2024-10-28,4,bottom,33,2,0,1,000,665862,Jazz Chisholm Jr.,621111,Walker Buehler,Lineout,field_out,Jazz Chisholm Jr. lines out sharply to right fielder Mookie Betts.,0,3,0
+775298,2024-10-28,4,bottom,34,3,2,2,010,683011,Anthony Volpe,621111,Walker Buehler,Single,single,"Anthony Volpe singles on a line drive to left fielder Teoscar Hernández. Giancarlo Stanton out at home on the throw, left fielder Teoscar Hernández to catcher Will Smith.",0,3,0
+775298,2024-10-28,5,top,35,0,2,1,000,518692,Freddie Freeman,641482,Nestor Cortes,Field Error,field_error,Freddie Freeman reaches on a fielding error by third baseman Jazz Chisholm Jr.,0,3,0
+775298,2024-10-28,5,top,36,1,0,1,000,606192,Teoscar Hernández,641482,Nestor Cortes,Lineout,field_out,Teoscar Hernández lines out sharply to center fielder Aaron Judge.,0,3,0
+775298,2024-10-28,5,top,37,3,0,0,100,571970,Max Muncy,641482,Nestor Cortes,Grounded Into DP,grounded_into_double_play,"Max Muncy grounds into a double play, second baseman Gleyber Torres to first baseman Anthony Rizzo. Freddie Freeman out at 2nd. Max Muncy out at 1st.",0,3,0
+775298,2024-10-28,5,bottom,38,1,0,0,000,519203,Anthony Rizzo,621111,Walker Buehler,Flyout,field_out,Anthony Rizzo flies out to right fielder Mookie Betts.,0,3,0
+775298,2024-10-28,5,bottom,39,2,3,2,000,624431,Jose Trevino,621111,Walker Buehler,Groundout,field_out,"Jose Trevino grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",0,3,0
+775298,2024-10-28,5,bottom,40,3,2,1,000,657077,Alex Verdugo,621111,Walker Buehler,Lineout,field_out,Alex Verdugo lines out sharply to right fielder Mookie Betts.,0,3,0
+775298,2024-10-28,6,top,41,1,0,2,000,669257,Will Smith,664776,Jake Cousins,Lineout,field_out,Will Smith lines out to shortstop Anthony Volpe.,0,3,0
+775298,2024-10-28,6,top,42,1,3,2,000,666158,Gavin Lux,664776,Jake Cousins,Hit By Pitch,hit_by_pitch,Gavin Lux hit by pitch.,0,3,0
+775298,2024-10-28,6,top,43,1,1,0,110,571771,Enrique Hernández,664776,Jake Cousins,Single,single,Enrique Hernández singles on a ground ball to center fielder Aaron Judge. Gavin Lux scores.,0,4,1
+775298,2024-10-28,6,top,44,3,3,3,100,669242,Tommy Edman,664776,Jake Cousins,Strikeout Double Play,strikeout_double_play,"Tommy Edman strikes out swinging and Enrique Hernández caught stealing 2nd, catcher Jose Trevino to shortstop Anthony Volpe to catcher Jose Trevino.",0,4,0
+775298,2024-10-28,6,bottom,45,1,3,2,000,650402,Gleyber Torres,660813,Brusdar Graterol,Groundout,field_out,"Gleyber Torres grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",0,4,0
+775298,2024-10-28,6,bottom,46,1,4,1,000,665742,Juan Soto,660813,Brusdar Graterol,Walk,walk,Juan Soto walks.,0,4,0
+775298,2024-10-28,6,bottom,47,2,1,0,100,592450,Aaron Judge,660813,Brusdar Graterol,Forceout,force_out,"Aaron Judge grounds into a force out, pitcher Brusdar Graterol to shortstop Tommy Edman. Juan Soto out at 2nd. Aaron Judge to 1st.",0,4,0
+775298,2024-10-28,6,bottom,48,2,2,2,100,519317,Giancarlo Stanton,660813,Brusdar Graterol,Single,single,Giancarlo Stanton singles on a sharp ground ball to center fielder Enrique Hernández. Aaron Judge to 2nd.,0,4,0
+775298,2024-10-28,6,bottom,49,3,2,1,100,665862,Jazz Chisholm Jr.,681911,Alex Vesia,Forceout,force_out,"Jazz Chisholm Jr. grounds into a force out, second baseman Gavin Lux to shortstop Tommy Edman. Giancarlo Stanton out at 2nd.",0,4,0
+775298,2024-10-28,7,top,50,1,2,2,000,660271,Shohei Ohtani,657612,Tim Hill,Pop Out,field_out,Shohei Ohtani pops out softly to third baseman Jazz Chisholm Jr. in foul territory.,0,4,0
+775298,2024-10-28,7,top,51,1,4,2,000,605141,Mookie Betts,657612,Tim Hill,Walk,walk,Mookie Betts walks.,0,4,0
+775298,2024-10-28,7,top,52,2,1,2,100,518692,Freddie Freeman,657612,Tim Hill,Forceout,force_out,"Freddie Freeman grounds into a force out, second baseman Gleyber Torres to shortstop Anthony Volpe. Mookie Betts out at 2nd. Freddie Freeman to 1st.",0,4,0
+775298,2024-10-28,7,top,53,2,0,0,110,606192,Teoscar Hernández,605280,Clay Holmes,Single,single,Teoscar Hernández singles on a ground ball to center fielder Aaron Judge. Freddie Freeman to 3rd.,0,4,0
+775298,2024-10-28,7,top,54,3,2,3,000,571970,Max Muncy,605280,Clay Holmes,Strikeout,strikeout,Max Muncy strikes out swinging.,0,4,0
+775298,2024-10-28,7,bottom,55,1,3,3,000,683011,Anthony Volpe,543339,Daniel Hudson,Strikeout,strikeout,Anthony Volpe strikes out swinging.,0,4,0
+775298,2024-10-28,7,bottom,56,1,3,2,000,519203,Anthony Rizzo,543339,Daniel Hudson,Single,single,Anthony Rizzo singles on a line drive to center fielder Enrique Hernández.,0,4,0
+775298,2024-10-28,7,bottom,57,2,3,3,000,669224,Austin Wells,543339,Daniel Hudson,Strikeout,strikeout,Austin Wells called out on strikes.,0,4,0
+775298,2024-10-28,7,bottom,58,2,4,0,100,657077,Alex Verdugo,607455,Anthony Banda,Walk,walk,Alex Verdugo walks. Anthony Rizzo to 2nd.,0,4,0
+775298,2024-10-28,7,bottom,59,3,2,3,000,650402,Gleyber Torres,607455,Anthony Banda,Strikeout,strikeout,Gleyber Torres called out on strikes.,0,4,0
+775298,2024-10-28,8,top,60,1,3,2,000,669257,Will Smith,605280,Clay Holmes,Lineout,field_out,Will Smith lines out to second baseman Gleyber Torres.,0,4,0
+775298,2024-10-28,8,top,61,2,1,3,000,666158,Gavin Lux,592454,Tommy Kahnle,Strikeout,strikeout,Gavin Lux called out on strikes.,0,4,0
+775298,2024-10-28,8,top,62,3,1,1,000,571771,Enrique Hernández,592454,Tommy Kahnle,Pop Out,field_out,Enrique Hernández pops out to first baseman Anthony Rizzo.,0,4,0
+775298,2024-10-28,8,bottom,63,1,3,2,000,665742,Juan Soto,518489,Ryan Brasier,Lineout,field_out,Juan Soto lines out to right fielder Mookie Betts.,0,4,0
+775298,2024-10-28,8,bottom,64,1,4,2,000,592450,Aaron Judge,518489,Ryan Brasier,Walk,walk,Aaron Judge walks.,0,4,0
+775298,2024-10-28,8,bottom,65,2,1,3,000,519317,Giancarlo Stanton,518489,Ryan Brasier,Strikeout,strikeout,Giancarlo Stanton called out on strikes.,0,4,0
+775298,2024-10-28,8,bottom,66,3,1,3,000,665862,Jazz Chisholm Jr.,518489,Ryan Brasier,Strikeout,strikeout,Jazz Chisholm Jr. strikes out swinging.,0,4,0
+775298,2024-10-28,9,top,67,1,1,2,000,669242,Tommy Edman,592454,Tommy Kahnle,Groundout,field_out,"Tommy Edman grounds out, third baseman Jazz Chisholm Jr. to first baseman Anthony Rizzo.",0,4,0
+775298,2024-10-28,9,top,68,1,2,1,000,660271,Shohei Ohtani,596133,Luke Weaver,Hit By Pitch,hit_by_pitch,Shohei Ohtani hit by pitch.,0,4,0
+775298,2024-10-28,9,top,69,3,2,0,100,605141,Mookie Betts,596133,Luke Weaver,Grounded Into DP,grounded_into_double_play,"Mookie Betts grounds into a double play, shortstop Anthony Volpe to second baseman Gleyber Torres to first baseman Anthony Rizzo. Shohei Ohtani out at 2nd. Mookie Betts out at 1st.",0,4,0
+775298,2024-10-28,9,bottom,70,1,1,3,000,683011,Anthony Volpe,656629,Michael Kopech,Strikeout,strikeout,Anthony Volpe strikes out swinging.,0,4,0
+775298,2024-10-28,9,bottom,71,1,4,1,000,519203,Anthony Rizzo,656629,Michael Kopech,Walk,walk,Anthony Rizzo walks.,0,4,0
+775298,2024-10-28,9,bottom,72,2,2,2,100,669224,Austin Wells,656629,Michael Kopech,Pop Out,field_out,Austin Wells pops out to first baseman Freddie Freeman in foul territory.,0,4,0
+775298,2024-10-28,9,bottom,73,2,0,2,010,657077,Alex Verdugo,656629,Michael Kopech,Home Run,home_run,Alex Verdugo homers (1) on a fly ball to right center field. Anthony Rizzo scores.,2,4,2
+775298,2024-10-28,9,bottom,74,3,2,2,000,650402,Gleyber Torres,656629,Michael Kopech,Groundout,field_out,"Gleyber Torres grounds out, shortstop Tommy Edman to first baseman Freddie Freeman.",2,4,0
+775297,2024-10-29,1,top,0,1,3,2,000,660271,Shohei Ohtani,661563,Luis Gil,Pop Out,field_out,Shohei Ohtani pops out to shortstop Anthony Volpe.,0,0,0
+775297,2024-10-29,1,top,1,1,1,2,000,605141,Mookie Betts,661563,Luis Gil,Double,double,Mookie Betts doubles (5) on a ground ball to right fielder Juan Soto.,0,0,0
+775297,2024-10-29,1,top,2,1,2,1,010,518692,Freddie Freeman,661563,Luis Gil,Home Run,home_run,Freddie Freeman homers (4) on a line drive to right field. Mookie Betts scores.,0,2,2
+775297,2024-10-29,1,top,3,1,0,1,000,606192,Teoscar Hernández,661563,Luis Gil,Single,single,Teoscar Hernández singles on a ground ball to pitcher Luis Gil.,0,2,0
+775297,2024-10-29,1,top,4,2,3,3,000,571970,Max Muncy,661563,Luis Gil,Strikeout,strikeout,Max Muncy strikes out swinging.,0,2,0
+775297,2024-10-29,1,top,5,3,2,1,000,571771,Enrique Hernández,661563,Luis Gil,Pop Out,field_out,Enrique Hernández pops out to first baseman Anthony Rizzo in foul territory.,0,2,0
+775297,2024-10-29,1,bottom,6,1,1,0,000,650402,Gleyber Torres,676508,Ben Casparius,Flyout,field_out,"Gleyber Torres flies out to right fielder Mookie Betts in foul territory, on fan interference.",0,2,0
+775297,2024-10-29,1,bottom,7,1,4,0,000,665742,Juan Soto,676508,Ben Casparius,Walk,walk,Juan Soto walks.,0,2,0
+775297,2024-10-29,1,bottom,8,1,4,2,100,592450,Aaron Judge,676508,Ben Casparius,Walk,walk,Aaron Judge walks. Juan Soto to 2nd.,0,2,0
+775297,2024-10-29,1,bottom,9,2,3,2,110,665862,Jazz Chisholm Jr.,676508,Ben Casparius,Groundout,field_out,"Jazz Chisholm Jr. grounds out, shortstop Tommy Edman to first baseman Freddie Freeman. Juan Soto to 3rd. Aaron Judge to 2nd.",0,2,0
+775297,2024-10-29,1,bottom,10,3,1,0,000,519317,Giancarlo Stanton,676508,Ben Casparius,Groundout,field_out,"Giancarlo Stanton grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",0,2,0
+775297,2024-10-29,2,top,11,0,3,2,000,666158,Gavin Lux,661563,Luis Gil,Double,double,Gavin Lux doubles (1) on a ground ball to right fielder Juan Soto.,0,2,0
+775297,2024-10-29,2,top,12,1,1,1,000,669257,Will Smith,661563,Luis Gil,Pop Out,field_out,Will Smith pops out to second baseman Gleyber Torres.,0,2,0
+775297,2024-10-29,2,top,13,3,0,0,010,669242,Tommy Edman,661563,Luis Gil,Double Play,double_play,"Tommy Edman lines into a double play, first baseman Anthony Rizzo to shortstop Anthony Volpe. Gavin Lux out at 2nd.",0,2,0
+775297,2024-10-29,2,bottom,14,1,1,3,000,519203,Anthony Rizzo,676508,Ben Casparius,Strikeout,strikeout,Anthony Rizzo called out on strikes.,0,2,0
+775297,2024-10-29,2,bottom,15,1,4,2,000,683011,Anthony Volpe,676508,Ben Casparius,Walk,walk,Anthony Volpe walks.,0,2,0
+775297,2024-10-29,2,bottom,16,1,2,2,110,669224,Austin Wells,676508,Ben Casparius,Double,double,Austin Wells doubles (1) on a line drive to center fielder Enrique Hernández. Anthony Volpe to 3rd.,0,2,0
+775297,2024-10-29,2,bottom,17,2,0,2,011,657077,Alex Verdugo,676508,Ben Casparius,Groundout,field_out,Alex Verdugo grounds out to first baseman Freddie Freeman. Anthony Volpe scores. Austin Wells to 3rd.,1,2,1
+775297,2024-10-29,2,bottom,18,3,0,0,000,650402,Gleyber Torres,676508,Ben Casparius,Flyout,field_out,Gleyber Torres flies out to right fielder Mookie Betts.,1,2,0
+775297,2024-10-29,3,top,19,1,1,0,000,660271,Shohei Ohtani,661563,Luis Gil,Flyout,field_out,Shohei Ohtani flies out sharply to center fielder Aaron Judge.,1,2,0
+775297,2024-10-29,3,top,20,2,0,1,000,605141,Mookie Betts,661563,Luis Gil,Groundout,field_out,"Mookie Betts grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo.",1,2,0
+775297,2024-10-29,3,top,21,3,2,1,000,518692,Freddie Freeman,661563,Luis Gil,Flyout,field_out,Freddie Freeman flies out to left fielder Alex Verdugo.,1,2,0
+775297,2024-10-29,3,bottom,22,1,2,3,000,665742,Juan Soto,543339,Daniel Hudson,Strikeout,strikeout,Juan Soto strikes out swinging.,1,2,0
+775297,2024-10-29,3,bottom,23,1,1,0,000,592450,Aaron Judge,543339,Daniel Hudson,Hit By Pitch,hit_by_pitch,Aaron Judge hit by pitch.,1,2,0
+775297,2024-10-29,3,bottom,24,1,0,0,110,665862,Jazz Chisholm Jr.,543339,Daniel Hudson,Single,single,Jazz Chisholm Jr. singles on a sharp line drive to right fielder Mookie Betts. Aaron Judge to 3rd.,1,2,0
+775297,2024-10-29,3,bottom,25,1,4,2,100,519317,Giancarlo Stanton,543339,Daniel Hudson,Walk,walk,Giancarlo Stanton walks.,1,2,0
+775297,2024-10-29,3,bottom,26,2,2,1,000,519203,Anthony Rizzo,543339,Daniel Hudson,Pop Out,field_out,Anthony Rizzo pops out to shortstop Tommy Edman on the infield fly rule.,1,2,0
+775297,2024-10-29,3,bottom,27,2,0,0,111,683011,Anthony Volpe,543339,Daniel Hudson,Home Run,home_run,Anthony Volpe hits a grand slam (1) to left center field. Aaron Judge scores. Jazz Chisholm Jr. scores. Giancarlo Stanton scores.,5,2,4
+775297,2024-10-29,3,bottom,28,3,0,0,000,669224,Austin Wells,543339,Daniel Hudson,Flyout,field_out,Austin Wells flies out to left fielder Teoscar Hernández.,5,2,0
+775297,2024-10-29,4,top,29,1,0,1,000,606192,Teoscar Hernández,661563,Luis Gil,Pop Out,field_out,Teoscar Hernández pops out to first baseman Anthony Rizzo in foul territory.,5,2,0
+775297,2024-10-29,4,top,30,1,4,2,000,571970,Max Muncy,661563,Luis Gil,Walk,walk,Max Muncy walks.,5,2,0
+775297,2024-10-29,4,top,31,2,0,0,100,571771,Enrique Hernández,661563,Luis Gil,Forceout,force_out,"Dodgers challenged (play at 1st), call on the field was overturned: Enrique Hernández grounds into a force out, shortstop Anthony Volpe to second baseman Gleyber Torres. Max Muncy out at 2nd. Enrique Hernández to 1st.",5,2,0
+775297,2024-10-29,4,top,32,3,1,1,000,666158,Gavin Lux,661563,Luis Gil,Groundout,field_out,"Gavin Lux grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo.",5,2,0
+775297,2024-10-29,4,bottom,33,0,1,1,000,657077,Alex Verdugo,689017,Landon Knack,Single,single,Alex Verdugo singles on a line drive to right fielder Mookie Betts.,5,2,0
+775297,2024-10-29,4,bottom,34,2,3,2,100,650402,Gleyber Torres,689017,Landon Knack,Grounded Into DP,grounded_into_double_play,"Gleyber Torres grounds into a double play, second baseman Gavin Lux to shortstop Tommy Edman to first baseman Freddie Freeman. Alex Verdugo out at 2nd. Gleyber Torres out at 1st.",5,2,0
+775297,2024-10-29,4,bottom,35,3,2,1,000,665742,Juan Soto,689017,Landon Knack,Groundout,field_out,"Juan Soto grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",5,2,0
+775297,2024-10-29,5,top,36,0,0,2,000,669257,Will Smith,661563,Luis Gil,Home Run,home_run,Will Smith homers (3) on a fly ball to right center field.,5,3,1
+775297,2024-10-29,5,top,37,0,4,1,000,669242,Tommy Edman,661563,Luis Gil,Walk,walk,Tommy Edman walks.,5,3,0
+775297,2024-10-29,5,top,38,0,0,0,100,660271,Shohei Ohtani,657612,Tim Hill,Single,single,Shohei Ohtani singles on a sharp line drive to center fielder Aaron Judge. Tommy Edman to 2nd.,5,3,0
+775297,2024-10-29,5,top,39,1,2,0,110,605141,Mookie Betts,657612,Tim Hill,Forceout,force_out,"Mookie Betts grounds into a force out, shortstop Anthony Volpe to second baseman Gleyber Torres. Tommy Edman to 3rd. Shohei Ohtani out at 2nd. Mookie Betts to 1st.",5,3,0
+775297,2024-10-29,5,top,40,2,0,0,101,518692,Freddie Freeman,657612,Tim Hill,Forceout,force_out,"Dodgers challenged (play at 1st), call on the field was overturned: Freddie Freeman grounds into a force out, second baseman Gleyber Torres to shortstop Anthony Volpe. Tommy Edman scores. Mookie Betts out at 2nd. Freddie Freeman to 1st.",5,4,1
+775297,2024-10-29,5,top,41,3,0,0,000,606192,Teoscar Hernández,605280,Clay Holmes,Flyout,field_out,Teoscar Hernández flies out to left fielder Alex Verdugo.,5,4,0
+775297,2024-10-29,5,bottom,42,0,0,1,000,592450,Aaron Judge,689017,Landon Knack,Field Error,field_error,Aaron Judge reaches on a fielding error by shortstop Tommy Edman.,5,4,0
+775297,2024-10-29,5,bottom,43,0,4,2,100,665862,Jazz Chisholm Jr.,689017,Landon Knack,Walk,walk,Jazz Chisholm Jr. walks. Aaron Judge to 2nd.,5,4,0
+775297,2024-10-29,5,bottom,44,1,1,3,000,519317,Giancarlo Stanton,689017,Landon Knack,Strikeout,strikeout,Giancarlo Stanton strikes out swinging.,5,4,0
+775297,2024-10-29,5,bottom,45,2,2,1,000,519203,Anthony Rizzo,689017,Landon Knack,Flyout,field_out,Anthony Rizzo flies out to center fielder Enrique Hernández.,5,4,0
+775297,2024-10-29,5,bottom,46,3,1,1,000,683011,Anthony Volpe,689017,Landon Knack,Flyout,field_out,Anthony Volpe flies out sharply to center fielder Enrique Hernández.,5,4,0
+775297,2024-10-29,6,top,47,1,0,3,000,571970,Max Muncy,605280,Clay Holmes,Strikeout,strikeout,Max Muncy strikes out swinging.,5,4,0
+775297,2024-10-29,6,top,48,2,2,3,000,571771,Enrique Hernández,605280,Clay Holmes,Strikeout,strikeout,Enrique Hernández strikes out swinging.,5,4,0
+775297,2024-10-29,6,top,49,3,2,1,000,666158,Gavin Lux,605280,Clay Holmes,Groundout,field_out,"Gavin Lux grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo.",5,4,0
+775297,2024-10-29,6,bottom,50,0,1,2,000,669224,Austin Wells,689017,Landon Knack,Home Run,home_run,Austin Wells homers (2) on a fly ball to right field.,6,4,1
+775297,2024-10-29,6,bottom,51,1,1,0,000,657077,Alex Verdugo,689017,Landon Knack,Flyout,field_out,Alex Verdugo flies out to left fielder Teoscar Hernández.,6,4,0
+775297,2024-10-29,6,bottom,52,2,0,1,000,650402,Gleyber Torres,689017,Landon Knack,Flyout,field_out,Gleyber Torres flies out to center fielder Enrique Hernández.,6,4,0
+775297,2024-10-29,6,bottom,53,3,1,3,000,665742,Juan Soto,689017,Landon Knack,Strikeout,strikeout,Juan Soto strikes out swinging.,6,4,0
+775297,2024-10-29,7,top,54,1,3,3,000,669257,Will Smith,643410,Mark Leiter Jr.,Strikeout,strikeout,Will Smith strikes out swinging.,6,4,0
+775297,2024-10-29,7,top,55,1,4,1,000,669242,Tommy Edman,643410,Mark Leiter Jr.,Walk,walk,Tommy Edman walks.,6,4,0
+775297,2024-10-29,7,top,56,2,3,3,100,660271,Shohei Ohtani,643410,Mark Leiter Jr.,Strikeout,strikeout,Shohei Ohtani strikes out swinging.,6,4,0
+775297,2024-10-29,7,top,57,3,2,3,000,605141,Mookie Betts,596133,Luke Weaver,Strikeout,strikeout,Mookie Betts strikes out swinging.,6,4,0
+775297,2024-10-29,7,bottom,58,1,3,2,000,592450,Aaron Judge,689017,Landon Knack,Flyout,field_out,Aaron Judge flies out to center fielder Enrique Hernández.,6,4,0
+775297,2024-10-29,7,bottom,59,2,0,0,000,665862,Jazz Chisholm Jr.,689017,Landon Knack,Flyout,field_out,Jazz Chisholm Jr. flies out to left fielder Teoscar Hernández.,6,4,0
+775297,2024-10-29,7,bottom,60,3,3,1,000,519317,Giancarlo Stanton,689017,Landon Knack,Lineout,field_out,Giancarlo Stanton lines out sharply to left fielder Teoscar Hernández.,6,4,0
+775297,2024-10-29,8,top,61,1,2,2,000,518692,Freddie Freeman,596133,Luke Weaver,Flyout,field_out,Freddie Freeman flies out to center fielder Aaron Judge.,6,4,0
+775297,2024-10-29,8,top,62,2,1,3,000,606192,Teoscar Hernández,596133,Luke Weaver,Strikeout,strikeout,Teoscar Hernández strikes out swinging.,6,4,0
+775297,2024-10-29,8,top,63,3,2,3,000,571970,Max Muncy,596133,Luke Weaver,Strikeout,strikeout,Max Muncy strikes out swinging.,6,4,0
+775297,2024-10-29,8,bottom,64,1,0,0,000,519203,Anthony Rizzo,641703,Brent Honeywell,Groundout,field_out,"Anthony Rizzo grounds out, first baseman Freddie Freeman to pitcher Brent Honeywell.",6,4,0
+775297,2024-10-29,8,bottom,65,1,2,2,000,683011,Anthony Volpe,641703,Brent Honeywell,Double,double,Anthony Volpe doubles (2) on a sharp line drive to left fielder Teoscar Hernández.,6,4,0
+775297,2024-10-29,8,bottom,66,1,4,2,000,669224,Austin Wells,641703,Brent Honeywell,Walk,walk,Austin Wells walks.,6,4,0
+775297,2024-10-29,8,bottom,67,1,2,2,111,657077,Alex Verdugo,641703,Brent Honeywell,Fielders Choice,fielders_choice,"Alex Verdugo reaches on a fielder's choice, fielded by second baseman Gavin Lux. Anthony Volpe scores. Austin Wells to 3rd.",7,4,1
+775297,2024-10-29,8,bottom,68,1,1,1,101,650402,Gleyber Torres,641703,Brent Honeywell,Home Run,home_run,Gleyber Torres homers (2) on a fly ball to right center field. Austin Wells scores. Alex Verdugo scores.,10,4,3
+775297,2024-10-29,8,bottom,69,1,3,2,000,665742,Juan Soto,641703,Brent Honeywell,Double,double,Juan Soto doubles (3) on a line drive to right fielder Mookie Betts.,10,4,0
+775297,2024-10-29,8,bottom,70,1,1,1,010,592450,Aaron Judge,641703,Brent Honeywell,Single,single,Aaron Judge singles on a sharp line drive to left fielder Teoscar Hernández. Juan Soto scores.,11,4,1
+775297,2024-10-29,8,bottom,71,2,3,2,100,665862,Jazz Chisholm Jr.,641703,Brent Honeywell,Flyout,field_out,Jazz Chisholm Jr. flies out to left fielder Teoscar Hernández.,11,4,0
+775297,2024-10-29,8,bottom,72,3,2,1,000,519317,Giancarlo Stanton,641703,Brent Honeywell,Pop Out,field_out,Giancarlo Stanton pops out to second baseman Gavin Lux.,11,4,0
+775297,2024-10-29,9,top,73,1,3,2,000,571771,Enrique Hernández,641835,Tim Mayza,Groundout,field_out,"Enrique Hernández grounds out, shortstop Anthony Volpe to first baseman Anthony Rizzo.",11,4,0
+775297,2024-10-29,9,top,74,2,1,0,000,621035,Chris Taylor,641835,Tim Mayza,Groundout,field_out,"Chris Taylor grounds out, second baseman Gleyber Torres to first baseman Anthony Rizzo.",11,4,0
+775297,2024-10-29,9,top,75,3,2,2,000,669257,Will Smith,641835,Tim Mayza,Lineout,field_out,Will Smith lines out to center fielder Aaron Judge.,11,4,0
+775296,2024-10-30,1,top,0,1,0,0,000,660271,Shohei Ohtani,543037,Gerrit Cole,Flyout,field_out,Shohei Ohtani flies out to center fielder Aaron Judge.,0,0,0
+775296,2024-10-30,1,top,1,2,1,1,000,605141,Mookie Betts,543037,Gerrit Cole,Groundout,field_out,Mookie Betts grounds out to first baseman Anthony Rizzo.,0,0,0
+775296,2024-10-30,1,top,2,3,0,2,000,518692,Freddie Freeman,543037,Gerrit Cole,Flyout,field_out,Freddie Freeman flies out to left fielder Alex Verdugo.,0,0,0
+775296,2024-10-30,1,bottom,3,1,1,2,000,650402,Gleyber Torres,656427,Jack Flaherty,Groundout,field_out,"Gleyber Torres grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",0,0,0
+775296,2024-10-30,1,bottom,4,1,4,1,000,665742,Juan Soto,656427,Jack Flaherty,Walk,walk,Juan Soto walks.,0,0,0
+775296,2024-10-30,1,bottom,5,1,0,0,100,592450,Aaron Judge,656427,Jack Flaherty,Home Run,home_run,Aaron Judge homers (3) on a fly ball to right center field. Juan Soto scores.,2,0,2
+775296,2024-10-30,1,bottom,6,1,2,1,000,665862,Jazz Chisholm Jr.,656427,Jack Flaherty,Home Run,home_run,Jazz Chisholm Jr. homers (2) on a fly ball to right center field.,3,0,1
+775296,2024-10-30,1,bottom,7,2,3,2,000,519317,Giancarlo Stanton,656427,Jack Flaherty,Lineout,field_out,Giancarlo Stanton lines out to center fielder Enrique Hernández.,3,0,0
+775296,2024-10-30,1,bottom,8,3,3,3,000,519203,Anthony Rizzo,656427,Jack Flaherty,Strikeout,strikeout,Anthony Rizzo called out on strikes.,3,0,0
+775296,2024-10-30,2,top,9,1,1,3,000,606192,Teoscar Hernández,543037,Gerrit Cole,Strikeout,strikeout,Teoscar Hernández strikes out swinging.,3,0,0
+775296,2024-10-30,2,top,10,2,1,3,000,571970,Max Muncy,543037,Gerrit Cole,Strikeout,strikeout,Max Muncy called out on strikes.,3,0,0
+775296,2024-10-30,2,top,11,3,1,1,000,571771,Enrique Hernández,543037,Gerrit Cole,Flyout,field_out,Enrique Hernández flies out to right fielder Juan Soto.,3,0,0
+775296,2024-10-30,2,bottom,12,0,0,1,000,683011,Anthony Volpe,656427,Jack Flaherty,Double,double,Anthony Volpe doubles (3) on a line drive to left fielder Teoscar Hernández.,3,0,0
+775296,2024-10-30,2,bottom,13,1,1,0,010,669224,Austin Wells,656427,Jack Flaherty,Groundout,field_out,"Austin Wells grounds out, first baseman Freddie Freeman to pitcher Jack Flaherty. Anthony Volpe to 3rd.",3,0,0
+775296,2024-10-30,2,bottom,14,1,3,1,001,657077,Alex Verdugo,656427,Jack Flaherty,Single,single,Alex Verdugo singles on a line drive to right fielder Mookie Betts. Anthony Volpe scores.,4,0,1
+775296,2024-10-30,2,bottom,15,2,0,3,000,650402,Gleyber Torres,607455,Anthony Banda,Strikeout,strikeout,Gleyber Torres called out on strikes.,4,0,0
+775296,2024-10-30,2,bottom,16,2,4,2,100,665742,Juan Soto,607455,Anthony Banda,Walk,walk,Juan Soto walks.,4,0,0
+775296,2024-10-30,2,bottom,17,2,4,1,110,592450,Aaron Judge,607455,Anthony Banda,Walk,walk,Aaron Judge walks. Alex Verdugo to 3rd. Juan Soto to 2nd.,4,0,0
+775296,2024-10-30,2,bottom,18,3,0,1,000,665862,Jazz Chisholm Jr.,607455,Anthony Banda,Groundout,field_out,"Jazz Chisholm Jr. grounds out, first baseman Freddie Freeman to pitcher Anthony Banda.",4,0,0
+775296,2024-10-30,3,top,19,1,0,3,000,669242,Tommy Edman,543037,Gerrit Cole,Strikeout,strikeout,Tommy Edman called out on strikes.,4,0,0
+775296,2024-10-30,3,top,20,2,1,1,000,669257,Will Smith,543037,Gerrit Cole,Pop Out,field_out,Will Smith pops out to first baseman Anthony Rizzo.,4,0,0
+775296,2024-10-30,3,top,21,2,4,2,000,666158,Gavin Lux,543037,Gerrit Cole,Walk,walk,Gavin Lux walks.,4,0,0
+775296,2024-10-30,3,top,22,3,0,2,000,660271,Shohei Ohtani,543037,Gerrit Cole,Flyout,field_out,Shohei Ohtani flies out to left fielder Alex Verdugo.,4,0,0
+775296,2024-10-30,3,bottom,23,0,0,0,000,519317,Giancarlo Stanton,518489,Ryan Brasier,Home Run,home_run,Giancarlo Stanton homers (7) on a fly ball to right field.,5,0,1
+775296,2024-10-30,3,bottom,24,1,2,0,000,519203,Anthony Rizzo,518489,Ryan Brasier,Lineout,field_out,Anthony Rizzo lines out sharply to right fielder Mookie Betts.,5,0,0
+775296,2024-10-30,3,bottom,25,2,1,2,000,683011,Anthony Volpe,518489,Ryan Brasier,Flyout,field_out,Anthony Volpe flies out to right fielder Mookie Betts.,5,0,0
+775296,2024-10-30,3,bottom,26,3,1,3,000,669224,Austin Wells,518489,Ryan Brasier,Strikeout,strikeout,Austin Wells strikes out swinging.,5,0,0
+775296,2024-10-30,4,top,27,0,4,2,000,605141,Mookie Betts,543037,Gerrit Cole,Walk,walk,Mookie Betts walks.,5,0,0
+775296,2024-10-30,4,top,28,1,0,1,000,518692,Freddie Freeman,543037,Gerrit Cole,Flyout,field_out,Freddie Freeman flies out sharply to center fielder Aaron Judge.,5,0,0
+775296,2024-10-30,4,top,29,2,0,0,100,606192,Teoscar Hernández,543037,Gerrit Cole,Groundout,field_out,"Teoscar Hernández grounds out, shortstop Anthony Volpe to first baseman Anthony Rizzo. Mookie Betts to 2nd.",5,0,0
+775296,2024-10-30,4,top,30,3,0,2,000,571970,Max Muncy,543037,Gerrit Cole,Lineout,field_out,Max Muncy lines out to center fielder Aaron Judge.,5,0,0
+775296,2024-10-30,4,bottom,31,0,4,2,000,657077,Alex Verdugo,656629,Michael Kopech,Walk,walk,Alex Verdugo walks.,5,0,0
+775296,2024-10-30,4,bottom,32,1,0,0,000,650402,Gleyber Torres,656629,Michael Kopech,Pop Out,field_out,Gleyber Torres pops out to shortstop Tommy Edman.,5,0,0
+775296,2024-10-30,4,bottom,33,1,0,0,100,665742,Juan Soto,656629,Michael Kopech,Single,single,Juan Soto singles on a ground ball to right fielder Mookie Betts. Alex Verdugo to 2nd.,5,0,0
+775296,2024-10-30,4,bottom,34,2,1,0,000,592450,Aaron Judge,656629,Michael Kopech,Flyout,field_out,Aaron Judge flies out sharply to left fielder Teoscar Hernández.,5,0,0
+775296,2024-10-30,4,bottom,35,3,2,3,000,665862,Jazz Chisholm Jr.,656629,Michael Kopech,Strikeout,strikeout,Jazz Chisholm Jr. called out on strikes.,5,0,0
+775296,2024-10-30,5,top,36,0,1,0,000,571771,Enrique Hernández,543037,Gerrit Cole,Single,single,Enrique Hernández singles on a line drive to right fielder Juan Soto.,5,0,0
+775296,2024-10-30,5,top,37,0,0,2,100,669242,Tommy Edman,543037,Gerrit Cole,Field Error,field_error,Tommy Edman reaches on a fielding error by center fielder Aaron Judge. Enrique Hernández to 2nd.,5,0,0
+775296,2024-10-30,5,top,38,0,2,2,110,669257,Will Smith,543037,Gerrit Cole,Fielders Choice,fielders_choice,"Will Smith reaches on a fielder's choice, fielded by shortstop Anthony Volpe. Enrique Hernández to 3rd. Tommy Edman to 2nd. Enrique Hernández advances to 3rd, on a throwing error by shortstop Anthony Volpe.",5,0,0
+775296,2024-10-30,5,top,39,1,1,3,000,666158,Gavin Lux,543037,Gerrit Cole,Strikeout,strikeout,Gavin Lux strikes out swinging.,5,0,0
+775296,2024-10-30,5,top,40,2,1,3,000,660271,Shohei Ohtani,543037,Gerrit Cole,Strikeout,strikeout,Shohei Ohtani strikes out swinging.,5,0,0
+775296,2024-10-30,5,top,41,2,1,0,111,605141,Mookie Betts,543037,Gerrit Cole,Single,single,Mookie Betts singles on a ground ball to first baseman Anthony Rizzo. Enrique Hernández scores. Tommy Edman to 3rd. Will Smith to 2nd.,5,1,1
+775296,2024-10-30,5,top,42,2,1,2,111,518692,Freddie Freeman,543037,Gerrit Cole,Single,single,Freddie Freeman singles on a line drive to center fielder Aaron Judge. Tommy Edman scores. Will Smith scores. Mookie Betts to 3rd.,5,3,2
+775296,2024-10-30,5,top,43,2,1,2,101,606192,Teoscar Hernández,543037,Gerrit Cole,Double,double,Teoscar Hernández doubles (1) on a sharp fly ball to center fielder Aaron Judge. Mookie Betts scores. Freddie Freeman scores.,5,5,2
+775296,2024-10-30,5,top,44,2,4,1,000,571970,Max Muncy,543037,Gerrit Cole,Walk,walk,Max Muncy walks.,5,5,0
+775296,2024-10-30,5,top,45,3,0,2,100,571771,Enrique Hernández,543037,Gerrit Cole,Forceout,force_out,"Enrique Hernández grounds into a force out, fielded by shortstop Anthony Volpe. Max Muncy out at 2nd.",5,5,0
+775296,2024-10-30,5,bottom,46,1,1,1,000,519317,Giancarlo Stanton,681911,Alex Vesia,Groundout,field_out,"Giancarlo Stanton grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",5,5,0
+775296,2024-10-30,5,bottom,47,2,1,2,000,519203,Anthony Rizzo,681911,Alex Vesia,Lineout,field_out,Anthony Rizzo lines out to center fielder Enrique Hernández.,5,5,0
+775296,2024-10-30,5,bottom,48,2,1,2,000,683011,Anthony Volpe,681911,Alex Vesia,Single,single,Anthony Volpe singles on a line drive to right fielder Mookie Betts.,5,5,0
+775296,2024-10-30,5,bottom,49,2,3,0,100,669224,Austin Wells,681911,Alex Vesia,Hit By Pitch,hit_by_pitch,Austin Wells hit by pitch. Anthony Volpe to 2nd.,5,5,0
+775296,2024-10-30,5,bottom,50,2,4,1,110,657077,Alex Verdugo,681911,Alex Vesia,Walk,walk,Alex Verdugo walks. Anthony Volpe to 3rd. Austin Wells to 2nd.,5,5,0
+775296,2024-10-30,5,bottom,51,3,1,2,000,650402,Gleyber Torres,681911,Alex Vesia,Flyout,field_out,Gleyber Torres flies out to right fielder Mookie Betts.,5,5,0
+775296,2024-10-30,6,top,52,1,0,2,000,669242,Tommy Edman,543037,Gerrit Cole,Lineout,field_out,Tommy Edman lines out to left fielder Alex Verdugo.,5,5,0
+775296,2024-10-30,6,top,53,2,2,3,000,669257,Will Smith,543037,Gerrit Cole,Strikeout,strikeout,Will Smith strikes out swinging.,5,5,0
+775296,2024-10-30,6,top,54,3,0,2,000,666158,Gavin Lux,543037,Gerrit Cole,Flyout,field_out,Gavin Lux flies out to right fielder Juan Soto.,5,5,0
+775296,2024-10-30,6,bottom,55,0,4,2,000,665742,Juan Soto,660813,Brusdar Graterol,Walk,walk,Juan Soto walks.,5,5,0
+775296,2024-10-30,6,bottom,56,0,4,2,100,592450,Aaron Judge,660813,Brusdar Graterol,Walk,walk,Aaron Judge walks. Juan Soto to 2nd.,5,5,0
+775296,2024-10-30,6,bottom,57,1,0,2,110,665862,Jazz Chisholm Jr.,660813,Brusdar Graterol,Forceout,force_out,"Jazz Chisholm Jr. grounds into a force out, second baseman Gavin Lux to shortstop Tommy Edman. Juan Soto to 3rd. Aaron Judge out at 2nd. Jazz Chisholm Jr. to 1st.",5,5,0
+775296,2024-10-30,6,bottom,58,2,0,0,101,519317,Giancarlo Stanton,660813,Brusdar Graterol,Sac Fly,sac_fly,Giancarlo Stanton out on a sacrifice fly to center fielder Enrique Hernández. Juan Soto scores. Jazz Chisholm Jr. to 2nd.,6,5,1
+775296,2024-10-30,6,bottom,59,2,4,2,000,519203,Anthony Rizzo,660813,Brusdar Graterol,Walk,walk,Anthony Rizzo walks.,6,5,0
+775296,2024-10-30,6,bottom,60,3,3,2,000,683011,Anthony Volpe,595014,Blake Treinen,Groundout,field_out,"Anthony Volpe grounds out, second baseman Gavin Lux to first baseman Freddie Freeman.",6,5,0
+775296,2024-10-30,7,top,61,1,1,1,000,660271,Shohei Ohtani,543037,Gerrit Cole,Groundout,field_out,"Shohei Ohtani grounds out, shortstop Anthony Volpe to first baseman Anthony Rizzo.",6,5,0
+775296,2024-10-30,7,top,62,2,0,1,000,605141,Mookie Betts,543037,Gerrit Cole,Groundout,field_out,"Mookie Betts grounds out, pitcher Gerrit Cole to first baseman Anthony Rizzo.",6,5,0
+775296,2024-10-30,7,top,63,2,4,1,000,518692,Freddie Freeman,543037,Gerrit Cole,Walk,walk,Freddie Freeman walks.,6,5,0
+775296,2024-10-30,7,top,64,2,4,0,100,606192,Teoscar Hernández,605280,Clay Holmes,Walk,walk,Teoscar Hernández walks. Freddie Freeman to 2nd.,6,5,0
+775296,2024-10-30,7,top,65,3,3,3,000,571970,Max Muncy,605280,Clay Holmes,Strikeout,strikeout,Max Muncy called out on strikes.,6,5,0
+775296,2024-10-30,7,bottom,66,1,0,3,000,669224,Austin Wells,595014,Blake Treinen,Strikeout,strikeout,Austin Wells strikes out on a foul tip.,6,5,0
+775296,2024-10-30,7,bottom,67,2,2,3,000,657077,Alex Verdugo,595014,Blake Treinen,Strikeout,strikeout,Alex Verdugo called out on strikes.,6,5,0
+775296,2024-10-30,7,bottom,68,3,3,2,000,650402,Gleyber Torres,595014,Blake Treinen,Groundout,field_out,"Gleyber Torres grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",6,5,0
+775296,2024-10-30,8,top,69,0,1,1,000,571771,Enrique Hernández,592454,Tommy Kahnle,Single,single,Enrique Hernández singles on a sharp line drive to left fielder Alex Verdugo.,6,5,0
+775296,2024-10-30,8,top,70,0,0,0,100,669242,Tommy Edman,592454,Tommy Kahnle,Single,single,Tommy Edman singles on a ground ball to shortstop Anthony Volpe. Enrique Hernández to 2nd.,6,5,0
+775296,2024-10-30,8,top,71,0,4,0,110,669257,Will Smith,592454,Tommy Kahnle,Walk,walk,Will Smith walks. Enrique Hernández to 3rd. Tommy Edman to 2nd.,6,5,0
+775296,2024-10-30,8,top,72,1,3,2,011,666158,Gavin Lux,596133,Luke Weaver,Sac Fly,sac_fly,Gavin Lux out on a sacrifice fly to center fielder Aaron Judge. Enrique Hernández scores. Tommy Edman to 3rd.,6,6,1
+775296,2024-10-30,8,top,73,1,0,1,100,660271,Shohei Ohtani,596133,Luke Weaver,Catcher Interference,catcher_interf,"Yankees challenged (catcher interference), call on the field was upheld: Shohei Ohtani reaches on catcher interference by Austin Wells. Will Smith to 2nd. Shohei Ohtani to 1st.",6,6,0
+775296,2024-10-30,8,top,74,2,0,0,011,605141,Mookie Betts,596133,Luke Weaver,Sac Fly,sac_fly,Mookie Betts out on a sacrifice fly to center fielder Aaron Judge. Tommy Edman scores. Will Smith to 3rd.,6,7,1
+775296,2024-10-30,8,top,75,3,2,3,000,518692,Freddie Freeman,596133,Luke Weaver,Strikeout,strikeout,Freddie Freeman strikes out swinging.,6,7,0
+775296,2024-10-30,8,bottom,76,1,1,2,000,665742,Juan Soto,595014,Blake Treinen,Groundout,field_out,"Juan Soto grounds out, first baseman Freddie Freeman to pitcher Blake Treinen.",6,7,0
+775296,2024-10-30,8,bottom,77,1,3,2,000,592450,Aaron Judge,595014,Blake Treinen,Double,double,Aaron Judge doubles (2) on a sharp line drive to left fielder Teoscar Hernández.,6,7,0
+775296,2024-10-30,8,bottom,78,1,4,1,000,665862,Jazz Chisholm Jr.,595014,Blake Treinen,Walk,walk,Jazz Chisholm Jr. walks.,6,7,0
+775296,2024-10-30,8,bottom,79,2,0,0,000,519317,Giancarlo Stanton,595014,Blake Treinen,Flyout,field_out,Giancarlo Stanton flies out to right fielder Mookie Betts.,6,7,0
+775296,2024-10-30,8,bottom,80,3,1,3,000,519203,Anthony Rizzo,595014,Blake Treinen,Strikeout,strikeout,Anthony Rizzo strikes out swinging.,6,7,0
+775296,2024-10-30,9,top,81,0,0,2,000,606192,Teoscar Hernández,596133,Luke Weaver,Single,single,Teoscar Hernández singles on a ground ball to left fielder Alex Verdugo.,6,7,0
+775296,2024-10-30,9,top,82,1,0,0,000,571970,Max Muncy,596133,Luke Weaver,Flyout,field_out,Max Muncy flies out sharply to right fielder Juan Soto.,6,7,0
+775296,2024-10-30,9,top,83,1,4,1,100,571771,Enrique Hernández,596133,Luke Weaver,Walk,walk,Enrique Hernández walks.,6,7,0
+775296,2024-10-30,9,top,84,2,3,3,000,669242,Tommy Edman,643410,Mark Leiter Jr.,Strikeout,strikeout,Tommy Edman strikes out swinging.,6,7,0
+775296,2024-10-30,9,top,85,3,0,0,000,669257,Will Smith,643410,Mark Leiter Jr.,Groundout,field_out,"Will Smith grounds out, third baseman Jazz Chisholm Jr. to first baseman Anthony Rizzo.",6,7,0
+775296,2024-10-30,9,bottom,86,1,2,2,000,683011,Anthony Volpe,621111,Walker Buehler,Groundout,field_out,"Anthony Volpe grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",6,7,0
+775296,2024-10-30,9,bottom,87,2,3,3,000,669224,Austin Wells,621111,Walker Buehler,Strikeout,strikeout,Austin Wells strikes out swinging.,6,7,0
+775296,2024-10-30,9,bottom,88,3,1,3,000,657077,Alex Verdugo,621111,Walker Buehler,Strikeout,strikeout,Alex Verdugo strikes out swinging.,6,7,0
