@@ -1,0 +1,48 @@
+name: MLB Stock Game Simulation
+
+on:
+  # 1. 기존 데이터 업데이트 워크플로우가 성공적으로 끝나면 자동 실행
+  workflow_run:
+    workflows: ["Update 2025 WS Data"]
+    types: [completed]
+  # 2. 필요할 때 수동으로 실행 가능
+  workflow_dispatch:
+
+jobs:
+  simulate_market:
+    runs-on: ubuntu-latest
+    # 이전 워크플로우가 성공했을 때만 실행
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install pandas numpy
+
+      - name: Run Full Simulation Pipeline
+        run: |
+          # Step 1 & 2 통합 실행 스크립트 호출
+          python run_simulation.py
+
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name "GitHub Action [Market Sim]"
+          git config --global user.email "action@github.com"
+          
+          # 생성된 모든 데이터 파일을 스테이징
+          git add data/price_history.csv
+          git add data/final_prices.csv
+          git add data/user_portfolio_snapshots.csv
+          git add data/user_final_results.csv
+          
+          # 변경사항이 있을 때만 커밋
+          git commit -m "chore: update player stock prices and user simulation results" || echo "No changes to commit"
+          git push
