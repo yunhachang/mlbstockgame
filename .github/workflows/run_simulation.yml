@@ -1,0 +1,33 @@
+name: Run Full Simulation
+on:
+  workflow_dispatch: # 수동 실행
+
+jobs:
+  run-simulation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      
+      - name: Install dependencies
+        run: |
+          pip install pandas numpy
+      
+      - name: Run Full Simulation Pipeline
+        run: python scripts/run_simulation.py
+      
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data/price_history.csv
+          git add data/final_prices.csv
+          git add data/user_portfolio_snapshots.csv
+          git add data/user_final_results.csv
+          git commit -m "chore: add simulation results" || echo "No changes to commit"
+          git push
