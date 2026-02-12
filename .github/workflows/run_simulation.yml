@@ -1,10 +1,10 @@
-name: MLB Stock Game Full Pipeline
+name: MLB Stock Game Full Simulation
 
 on:
   workflow_dispatch: # 수동 실행
 
 jobs:
-  run-pipeline:
+  simulate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -23,18 +23,18 @@ jobs:
       - name: Ensure Directory
         run: mkdir -p data
 
-      # [핵심] Step 1: WPA 분석 (이게 먼저 실행되어야 csv가 생깁니다)
-      - name: Calculate WPA
+      # 1단계: WPA 계산 및 데이터 생성 (이게 빠지면 에러가 납니다)
+      - name: Step 1 - Calculate WPA
         run: python analyze_wpa.py
 
-      # Step 2: 주가 및 유저 시뮬레이션 통합 실행
-      - name: Run Market Simulation
+      # 2단계: 주가 변동 및 유저 거래 통합 실행
+      - name: Step 2 - Run Market Simulation
         run: python run_simulation.py
       
-      - name: Commit results
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add data/*.csv
-          git commit -m "update: WS 2025 Simulation Results" || echo "No changes"
+          git commit -m "update: ws 2025 simulation results [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes"
           git push
