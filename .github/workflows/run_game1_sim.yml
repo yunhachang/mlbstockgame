@@ -50,6 +50,12 @@ jobs:
         run: |
           git config --global user.name "GitHub Action [Game1 Bot]"
           git config --global user.email "action@github.com"
-          git add data/game1_*.csv
-          git commit -m "docs: update Game 1 results" || echo "No changes"
-          git push
+          # 파일이 있을 때만 add 하고 commit 함
+          if ls data/game1_*.csv 1> /dev/null 2>&1; then
+            git add data/game1_*.csv
+            git commit -m "docs: update Game 1 results"
+            git push
+          else
+            echo "⚠️ No output files found to commit."
+            exit 1 # 파일이 없으면 실패로 처리
+          fi
