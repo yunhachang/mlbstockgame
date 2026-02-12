@@ -1,0 +1,3 @@
+- name: Run Game 1 Special Simulation
+        run: |
+          python simulator_game1.py
