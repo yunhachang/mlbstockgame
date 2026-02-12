@@ -1,12 +1,11 @@
 name: MLB Stock Game 1 Simulation
 
 on:
-  workflow_dispatch: # 수동 실행 버튼
+  workflow_dispatch:
 
 jobs:
   run-game1:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -23,20 +22,27 @@ jobs:
       - name: Ensure Directory
         run: mkdir -p data
 
-      # [안전장치] 만약 원본 WPA 데이터가 없으면 생성합니다
       - name: Prepare Base WPA Data
         run: |
-          if [ ! -f "data/ws_2025_with_wpa.csv" ]; then
-            python analyze_wpa.py
+          # 루트 또는 Script 폴더에서 analyze_wpa.py 찾기
+          if [ -f "analyze_wpa.py" ]; then python analyze_wpa.py;
+          elif [ -f "Script/analyze_wpa.py" ]; then python Script/analyze_wpa.py;
+          elif [ -f "scripts/analyze_wpa.py" ]; then python scripts/analyze_wpa.py;
           fi
 
-      # [실행] 1차전 전용 시뮬레이터 가동
+      # [수정 포인트] 경로를 순차적으로 탐색합니다
       - name: Run Game 1 Simulation
         run: |
           if [ -f "simulator_game1.py" ]; then
             python simulator_game1.py
+          elif [ -f "Script/simulator_game1.py" ]; then
+            python Script/simulator_game1.py
+          elif [ -f "scripts/simulator_game1.py" ]; then
+            python scripts/simulator_game1.py
           else
-            echo "Error: simulator_game1.py 파일이 리포지토리에 없습니다!"
+            echo "❌ Error: simulator_game1.py 파일을 찾을 수 없습니다!"
+            echo "현재 디렉토리 구조:"
+            ls -R
             exit 1
           fi
       
@@ -45,5 +51,5 @@ jobs:
           git config --global user.name "GitHub Action [Game1 Bot]"
           git config --global user.email "action@github.com"
           git add data/game1_*.csv
-          git commit -m "docs: update Game 1 simulation results" || echo "No changes"
+          git commit -m "docs: update Game 1 results" || echo "No changes"
           git push
