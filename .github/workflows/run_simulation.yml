@@ -1,7 +1,7 @@
 name: MLB Stock Game Full Simulation
 
 on:
-  workflow_dispatch: # 수동 실행 버튼
+  workflow_dispatch:
 
 jobs:
   run-simulation:
@@ -24,13 +24,28 @@ jobs:
       - name: Ensure Directory Structure
         run: mkdir -p data
 
-      # [중요] 1순위: WPA 데이터 생성 (이게 없으면 run_simulation이 죽습니다)
+      # [수정] 파일 위치를 찾아서 실행합니다 (최상위 혹은 scripts 폴더 탐색)
       - name: Step 1 - Analyze WPA
-        run: python analyze_wpa.py
+        run: |
+          if [ -f "analyze_wpa.py" ]; then
+            python analyze_wpa.py
+          elif [ -f "scripts/analyze_wpa.py" ]; then
+            python scripts/analyze_wpa.py
+          else
+            echo "Error: analyze_wpa.py not found in root or scripts/"
+            exit 1
+          fi
 
-      # [중요] 2순위: 통합 시뮬레이션 실행
       - name: Step 2 - Run Simulation
-        run: python run_simulation.py
+        run: |
+          if [ -f "run_simulation.py" ]; then
+            python run_simulation.py
+          elif [ -f "scripts/run_simulation.py" ]; then
+            python scripts/run_simulation.py
+          else
+            echo "Error: run_simulation.py not found"
+            exit 1
+          fi
       
       - name: Commit and Push Results
         run: |
