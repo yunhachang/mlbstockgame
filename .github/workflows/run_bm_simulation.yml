@@ -1,7 +1,7 @@
 name: MLB Stock BM Simulation (0.5% Fee)
 
 on:
-  workflow_dispatch: # 수동 실행 버튼
+  workflow_dispatch:
 
 jobs:
   bm-test:
@@ -19,23 +19,34 @@ jobs:
       - name: Install Dependencies
         run: pip install pandas numpy
       
-      # 1. 데이터가 있는지 확인하고 없으면 WPA부터 생성 (안정장치)
-      - name: Prepare Data
+      - name: Ensure Directory Structure
+        run: mkdir -p data
+
+      # 1. 이전 단계 데이터가 있는지 체크 (필수 데이터 확인)
+      - name: Prepare Base Data
         run: |
-          mkdir -p data
           if [ ! -f "data/price_history.csv" ]; then
-            python analyze_wpa.py
-            python run_simulation.py
+            echo "Base data not found. Running previous steps..."
+            # analyze_wpa.py와 price_simulator 기능이 포함된 run_simulation.py 실행
+            python run_simulation.py || python scripts/run_simulation.py
           fi
 
-      # 2. BM 전용 시뮬레이터 실행
+      # 2. [수정] BM 시뮬레이터 실행 (경로 탐색형)
       - name: Run BM Simulator
-        run: python user_simulator_bm.py
+        run: |
+          if [ -f "user_simulator_bm.py" ]; then
+            python user_simulator_bm.py
+          elif [ -f "scripts/user_simulator_bm.py" ]; then
+            python scripts/user_simulator_bm.py
+          else
+            echo "Error: user_simulator_bm.py not found in root or scripts/"
+            exit 1
+          fi
       
-      - name: Commit and Push
+      - name: Commit and Push Results
         run: |
           git config --global user.name "GitHub Action [BM Bot]"
           git config --global user.email "action@github.com"
           git add data/bm_*.csv
-          git commit -m "docs: update BM simulation results" || echo "No changes"
+          git commit -m "docs: update BM simulation results [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes"
           git push
