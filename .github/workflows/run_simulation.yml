@@ -5,18 +5,29 @@ on:
 jobs:
   run-simulation:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
       
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Conda
+        uses: conda-incubator/setup-miniconda@v3
         with:
+          activate-environment: base
           python-version: '3.9'
+          auto-activate-base: true
       
       - name: Install dependencies
         run: |
-          pip install pandas numpy
+          conda install -c defaults pandas numpy -y
+          pip install MLB-StatsAPI
+      
+      - name: Verify installation
+        run: |
+          python --version
+          pip list | grep -E "pandas|numpy|MLB-StatsAPI"
       
       - name: Run Full Simulation Pipeline
         run: python scripts/run_simulation.py
